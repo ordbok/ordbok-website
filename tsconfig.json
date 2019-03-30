@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "strict": true,
+        "stripInternal": true,
+        "module": "amd",
+        "moduleResolution": "node",
+        "outFile": "docs/demo.js",
+        "rootDir": "sources",
+        "target": "es5"
+    },
+    "exclude": [
+        "docs",
+        "node_modules"
+    ],
+    "files": [
+        "sources/demo.ts",
+    ]
+}
