@@ -13,7 +13,7 @@
     "homepage": "https://github.com/ordbok/demo#readme",
     "repository": "https://github.com/ordbok/demo.git",
     "devDependencies": {
-        "@ordbok/core": "https://github.com/ordbok/core.git",
+        "@ordbok/core": "https://github.com/ordbok/core.git#v0.0.1",
         "requirejs": "^2.3.6",
         "typescript": "^3.4.1"
     },
@@ -22,11 +22,12 @@
     },
     "main": "docs/demo.js",
     "scripts": {
-        "build": "npm run clean && npm run build-1 && npm run build-2 && npm run build-3 && npm run build-4",
+        "build": "npm run clean && npm run build-1 && npm run build-2 && npm run build-3 && npm run build-4 && npm run build-5",
         "build-1": "tsc --build tsconfig.json",
         "build-2": "r_js -o rjsconfig.js",
-        "build-3": "ordbok-assembler ../translations docs/translations",
-        "build-4": "cp -v node_modules/requirejs/require.js docs/",
+        "build-3": "ordbok-assembler ../translations/sources docs/translations",
+        "build-4": "cp -v node_modules/requirejs/require.js docs/require.js",
+        "build-5": "cp -v sources/static/*.* docs/",
         "clean": "rm -rf docs",
         "watch": "tsc --build tsconfig.json --watch"
     }
