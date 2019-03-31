@@ -1,9 +1,9 @@
-/**
- * @license MIT
- * @author Sophie Bremer
- */
+/*---------------------------------------------------------------------------*/
+/* Copyright (c) ORDBOK contributors. All rights reserved.                   */
+/* Licensed under the MIT License. See the LICENSE file in the project root. */
+/*---------------------------------------------------------------------------*/
 
-import { Dictionary } from '@ordbok/core';
+import { Dictionary, Utilities } from '@ordbok/core';
 
 /* *
  *
@@ -23,14 +23,22 @@ let searchInput: HTMLInputElement;
 
 function find () {
 
-    const theEntry = translations.loadEntry(searchInput.value);
+    translations
+        .loadEntry(Utilities.getKey(searchInput.value) + '-0')
+        .then(markdownPage => {
 
-    alert(theEntry.getSection('Norwegian').word); // = engelsk
+            if (!markdownPage) {
+                return;
+            }
+
+            alert(markdownPage[Utilities.getKey('New Norwegian')].words);
+        })
+        .catch(alert);
 }
 
 export function start () {
 
-    translations = new Dictionary('translations');
+    translations = new Dictionary('translations/');
 
     searchInput = document.getElementById('search') as HTMLInputElement;
     searchInput.addEventListener('change', find)
