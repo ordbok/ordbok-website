@@ -1,0 +1,9 @@
+english
+words:New Norwegian,the New Norwegian
+tags:Noun,Neuter
+new-norwegian
+words:nynorsk,nynorsken
+tags:Noun,Masculine
+norwegian
+words:nynorsk,nynorsken
+tags:Noun,Masculine

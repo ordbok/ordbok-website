@@ -1,0 +1,9 @@
+english
+words:English,the English
+tags:Noun,Neuter
+new-norwegian
+words:engelsk,engelsken
+tags:Noun,Masculine
+norwegian
+words:engelsk,engelsken
+tags:Noun,Masculine
