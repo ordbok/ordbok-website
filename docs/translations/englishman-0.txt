@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) englishman;the englishman;englishmen;the englishmen
+grammar:Masculine
+german
+translation:(ein) Engländer;der Engländer;Engländer;die Engländer
+grammar:Masculine
+new-norwegian
+translation:(ein) engelsk;engelsken;engelskar;engelskane
+grammar:Masculine
+norwegian
+translation:(en) engelsk;engelsken;engelsker;engelskene
+grammar:Masculine
+swedish
+translation:(en) engelsman;engelsmannen;engelsmän;engelsmännen
+grammar:Common

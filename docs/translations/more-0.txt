@@ -1,0 +1,13 @@
+defaults
+structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Adjective;Comparative
+english
+translation:much;more;more;more;more;more;more
+german
+translation:viel;mehr;mehr;mehr;mehr;mehr;mehr
+new-norwegian
+translation:mykje;meir;meir;meir;fleire;fleire;fleire
+norwegian
+translation:mye;mer;mer : mer;flere;flere;flere
+swedish
+translation:mycken;mer;mer;mer;flera;flera;flera

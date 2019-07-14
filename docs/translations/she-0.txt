@@ -1,0 +1,13 @@
+defaults
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Pronoun;Third Person
+english
+translation:she;-;-;-;-;-
+german
+translation:sie;-;-;-;-;-
+new-norwegian
+translation:ho;-;-;-;-;-
+norwegian
+translation:hun;-;-;-;-;-
+swedish
+translation:hon;-;-;-;-;-

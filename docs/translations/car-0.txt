@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) car;the car;cars;the cars
+grammar:Neuter
+german
+translation:(ein) Auto;das Auto;Autos;die Autos
+grammar:Neuter
+new-norwegian
+translation:(ein) bil;bilen;bilar;bilane
+grammar:Masculine
+norwegian
+translation:(en) bil;bilen;biler;bilene
+grammar:Masculine
+swedish
+translation:(en) bil;bilen;bilar;bilarna
+grammar:Common

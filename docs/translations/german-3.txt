@@ -1,0 +1,13 @@
+defaults
+structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Adjective;Positive
+english
+translation:german;german;german;german;german;german;german
+german
+translation:deutsch;deutsche;deutscher;deutsches;deutschen;deutschen;deutschen
+new-norwegian
+translation:tysk;tysk;tysk;tysk;tyske;tyske;tyske
+norwegian
+translation:tysk;tysk;tysk;tysk;tyske;tyske;tyske
+swedish
+translation:tysk;tysk;tysk;tyskt;tyska;tyska;tyska

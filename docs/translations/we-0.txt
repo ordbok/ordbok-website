@@ -1,0 +1,13 @@
+defaults
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Pronoun;First Person
+english
+translation:-;-;-;we;we;we
+german
+translation:-;-;-;wir;wir;wir
+new-norwegian
+translation:-;-;-;vi;vi;vi
+norwegian
+translation:-;-;-;vi;vi;vi
+swedish
+translation:-;-;-;vi;vi;vi

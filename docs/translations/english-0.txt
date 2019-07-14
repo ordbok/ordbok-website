@@ -1,9 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
 english
-words:English,the English
-tags:Noun,Neuter
+translation:English;-;-;-
+grammar:Neuter
+german
+translation:Englisch;-;-;-
+grammar:Neuter
 new-norwegian
-words:engelsk,engelsken
-tags:Noun,Masculine
+translation:engelsk;-;-;-
+grammar:Neuter
 norwegian
-words:engelsk,engelsken
-tags:Noun,Masculine
+translation:engelsk;-;-;-
+grammar:Neuter
+swedish
+translation:engelska;-;-;-
+grammar:Neuter

@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) englishwoman;the englishwoman;englishwomen;the englishwomen
+grammar:Feminine
+german
+translation:(eine) Engländerin;die Engländerin;Engländerinnen;die Engländerinnen
+grammar:Feminine
+new-norwegian
+translation:(ein) engelsk;engelsken;engelskar;engelskane
+grammar:Masculine
+norwegian
+translation:(en) engelsk;engelsken;engelsker;engelskene
+grammar:Masculine
+swedish
+translation:(en) engelska;engelskan;engelskor;engelskorna
+grammar:Common

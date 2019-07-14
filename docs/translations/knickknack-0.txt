@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:knickknack;the knickknack;-;-
+grammar:Neuter
+german
+translation:Krimskrams;der Krimskrams;-;-
+grammar:Masculine
+new-norwegian
+translation:snikksnakk;snikksnakket;-;-
+grammar:Neuter
+norwegian
+translation:dilldall;dilldallet;-;-
+grammar:Neuter
+swedish
+translation:krimskrams;krimskramset;-;-
+grammar:Neuter

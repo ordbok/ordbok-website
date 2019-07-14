@@ -1,0 +1,13 @@
+defaults
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Pronoun;Second Person
+english
+translation:you;you;you;you;you;you
+german
+translation:du;du;du;ihr;ihr;ihr
+new-norwegian
+translation:du;du;du;de;de;de
+norwegian
+translation:du;du;du;dere;dere;dere
+swedish
+translation:du;du;du;ni;ni;ni

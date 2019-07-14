@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) language;the language;languages;the languages
+grammar:Neuter
+german
+translation:(eine) Sprache;die Sprache;Sprachen;die Sprachen
+grammar:Feminine
+new-norwegian
+translation:(eit) språk;språket;språk;språka
+grammar:Neuter
+norwegian
+translation:(et) språk;språket;språk;språkene
+grammar:Neuter
+swedish
+translation:(ett) språk;språket;språk;språken
+grammar:Neuter

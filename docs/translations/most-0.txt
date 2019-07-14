@@ -1,0 +1,13 @@
+defaults
+structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Adjective;Superlative
+english
+translation:much;most;most;most;most;most;most
+german
+translation:viel;meiste;meiste;meiste;meisten;meisten;meisten
+new-norwegian
+translation:mykje;mest;mest;mest;flest;flest;flest
+norwegian
+translation:mye;mest;mest;mest;flest;flest;flest
+swedish
+translation:mycken;mest;mest;mest;flesta;flesta;flesta

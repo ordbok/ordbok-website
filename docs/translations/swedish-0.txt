@@ -2,17 +2,17 @@ defaults
 structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
 grammar:Noun
 english
-translation:New Norwegian;-;-;-
+translation:Swedish;-;-;-
 grammar:Neuter
 german
-translation:Neunorwegisch;-;-;-
+translation:Schwedisch;-;-;-
 grammar:Neuter
 new-norwegian
-translation:nynorsk;-;-;-
+translation:svensk;-;-;-
 grammar:Neuter
 norwegian
-translation:nynorsk;-;-;-
+translation:svensk;-;-;-
 grammar:Neuter
 swedish
-translation:nynorska;-;-;-
+translation:svenska;-;-;-
 grammar:Neuter

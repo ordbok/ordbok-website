@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) fish;the fish;fishes;the fishes
+grammar:Neuter
+german
+translation:(ein) Fisch;der Fisch;Fische;die Fische
+grammar:Masculine
+new-norwegian
+translation:(ein) fisk;fisken;fiskar;fiskane
+grammar:Masculine
+norwegian
+translation:(en) fisk;fisken;fisker;fiskene
+grammar:Masculine
+swedish
+translation:(en) fisk;fisken;fiskar;fiskarna
+grammar:Common

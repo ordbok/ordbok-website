@@ -1,0 +1,12 @@
+defaults
+grammar:Phrase
+english
+translation:no
+german
+translation:nein
+new-norwegian
+translation:nei
+norwegian
+translation:nei
+swedish
+translation:nej

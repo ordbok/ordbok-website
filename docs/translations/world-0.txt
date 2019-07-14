@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) world;the world;worlds;the worlds
+grammar:Neuter
+german
+translation:(eine) Welt;die Welt;Welten;die Welten
+tags:Feminine
+new-norwegian
+translation:(ein) verd;verden;verdar;verdane
+grammar:Masculine
+norwegian
+translation:(en) verden;verdenen;verdener;verdenene
+grammar:Masculine
+swedish
+translation:(en) värld;världen;världar;världarna
+grammar:Masculine

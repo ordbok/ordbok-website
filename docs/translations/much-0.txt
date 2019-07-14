@@ -1,0 +1,13 @@
+defaults
+structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Adjective;Positive
+english
+translation:much;much;much;much;many;many;many
+german
+translation:viel;viel;viel;viel;viele;viele;viele
+new-norwegian
+translation:mykje;mykje;mykje;mykje;mange;mange;mange
+norwegian
+translation:mye;mye;mye;mye;mange;mange;mange
+swedish
+translation:mycken;mycken;mycken;mycket;många;många;många

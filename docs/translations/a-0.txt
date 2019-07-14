@@ -1,0 +1,13 @@
+defaults
+structure:Common;Feminine;Masculine;Neuter
+grammar:Determiner;Singular;Indefinite
+english
+translation:a;a;a;a
+german
+translation:-;eine;einer;eines
+new-norwegian
+translation:-;ei;ein;eit
+norwegian
+translation:-;ei;en;et
+swedish
+translation:en;en;en;ett

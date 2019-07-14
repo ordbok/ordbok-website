@@ -1,0 +1,13 @@
+defaults
+structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Adjective;Positive
+english
+translation:norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian
+german
+translation:norwegisch;norwegische;norwegischer;norwegisches;norwegische;norwegische;norwegische
+new-norwegian
+translation:norsk;norsk;norsk;norsk;norske;norske;norske
+norwegian
+translation:norsk norsk;norsk;norsk;norske;norske;norske
+swedish
+translation:norsk;norsk;norsk;norskt;norska;norska;norska

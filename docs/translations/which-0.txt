@@ -1,0 +1,13 @@
+defaults
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural , Masculine;Plural, Neuter
+grammar:Pronoun
+english
+translation:which;which;which;which;which;which
+german
+translation:welche;welcher;welches;welche;welche;welche
+new-norwegian
+translation:kva for ei;kva for ein;kvar for eit;kvar for;kvar for;kva for
+norwegian
+translation:hvilken;hvilken;hvilket;hvilke;hvilke;hvilke
+swedish
+translation:vilken;vilken;vilket;vilka;vilka;vilka

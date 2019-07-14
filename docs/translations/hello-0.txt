@@ -1,0 +1,12 @@
+defaults
+grammar:Phrase
+english
+translation:hello
+german
+translation:hallo
+new-norwegian
+translation:hallo
+norwegian
+translation:hallo
+swedish
+translation:hallå

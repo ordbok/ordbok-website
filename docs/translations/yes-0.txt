@@ -1,0 +1,12 @@
+defaults
+grammar:Phrase
+english
+translation:yes
+german
+translation:ja
+new-norwegian
+translation:ja
+norwegian
+translation:ja
+swedish
+translation:ja

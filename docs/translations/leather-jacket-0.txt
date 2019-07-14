@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) leather jacket;the leather jacket;leather jackets;the leather jackets
+grammar:Neuter
+german
+translation:(eine) Lederjacke;die Lederjacke;Lederjacken;die Lederjacken
+grammar:Feminine
+new-norwegian
+translation:(ei) skinnjakke;skinnjakka;skinnjakker;skinnjakkene
+grammar:Feminine
+norwegian
+translation:(ei) skinnjakke;skinnjakka;skinnjakker;skinnjakkene
+grammar:Feminine
+swedish
+translation:(en) läderjacka;läderjackan;läderjackor;läderjackorna
+grammar:Common

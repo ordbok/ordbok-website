@@ -1,0 +1,13 @@
+defaults
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+grammar:Pronoun;Third Person
+english
+translation:-;-;it;-;-;-
+german
+translation:-;-;es;-;-;-
+new-norwegian
+translation:-;-;det;-;-;-
+norwegian
+translation:-;-;det;-;-;-
+swedish
+translation:-;-;det;-;-;-
