@@ -1,0 +1,6 @@
+defaults
+english
+german
+new-norwegian
+norwegian
+swedish
