@@ -46,7 +46,7 @@ function show (entry?: IDictionaryEntry): void {
 
     resultOutput.innerHTML = '';
 
-    showStructure(entry[DEFAULTS_KEY].structure);
+    showStructure(entry[DEFAULTS_KEY] && entry[DEFAULTS_KEY].structure || ['']);
 
     Object
         .keys(entry)
