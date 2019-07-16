@@ -2,17 +2,17 @@ defaults
 structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
 grammar:Noun
 english
-translation:German;-;-;-
+translation:(a) word;the word;words;the words
 grammar:Neuter
 german
-translation:Deutsch;-;-;-
+translation:(ein) Wort;das Wort;Wörter;die Wörter
 grammar:Neuter
 new-norwegian
-translation:tysk;-;-;-
+translation:(eit) ord;ordet;ord;orda
 grammar:Neuter
 norwegian
-translation:tysk;-;-;-
+translation:(et) ord;ordet;ord;ordene
 grammar:Neuter
 swedish
-translation:tyska;-;-;-
+translation:(ett) ord;ordet;ord;orden
 grammar:Neuter

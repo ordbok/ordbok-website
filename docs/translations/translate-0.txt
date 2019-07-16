@@ -1,0 +1,13 @@
+defaults
+structure:Infinitive, Indefinite;Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:translate;translate;translate;translates;translate;translate;translate
+german
+translation:übersetzen;übersetze;übersetzt;übersetzt;übersetzen;übersetzt;übersetzen
+new-norwegian
+translation:omsetje;omset;omset;omset;omset;omset;omset
+norwegian
+translation:oversette;oversetter;oversetter;oversetter;oversetter;oversetter;oversetter
+swedish
+translation:översätta;översätter;översätter;översätter;översätter;översätter;översätter

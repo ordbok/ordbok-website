@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) jump;the jump;jumps;the jumps
+grammar:Neuter
+german
+translation:(ein) Sprung;der Sprung;Sprünge;die Sprünge
+grammar:Masculine
+new-norwegian
+translation:(eit) hopp;hoppet;hopp;hoppa
+grammar:Neuter
+norwegian
+translation:(et) hopp;hoppet;hopp;hoppene
+grammar:Neuter
+swedish
+translation:(ett) hopp;hoppet;hopp;hoppen
+grammar:Neuter

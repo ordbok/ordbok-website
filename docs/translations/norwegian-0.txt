@@ -9,10 +9,10 @@ translation:Norwegisch;-;-;-
 grammar:Neuter
 new-norwegian
 translation:norsk;-;-;-
-german:Neuter
+grammar:Neuter
 norwegian
 translation:norsk;-;-;-
-german:Neuter
+grammar:Neuter
 swedish
 translation:norska;-;-;-
-german:Neuter
+grammar:Neuter

@@ -1,0 +1,18 @@
+defaults
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) character;the character;characters;the characters
+grammar:Neuter
+german
+translation:(ein) Buchstabe;der Buchstabe;Buchstaben;die Buchstaben
+grammar:Masculine
+new-norwegian
+translation:(ein) bokstav;bokstaven;bokstavar;bokstavane
+grammar:Masculine
+norwegian
+translation:(en) bokstav;bokstaven;bokstaver;bokstavene
+grammar:Masculine
+swedish
+translation:(en) bokstav;bokstaven;bokstäver;bokstäverna
+grammar:Common

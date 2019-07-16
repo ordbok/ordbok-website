@@ -1,6 +1,6 @@
 defaults
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural , Masculine;Plural, Neuter
-grammar:Pronoun
+grammar:Pronoun;Indefinite
 english
 translation:which;which;which;which;which;which
 german

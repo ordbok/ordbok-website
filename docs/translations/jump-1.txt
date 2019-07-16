@@ -1,0 +1,13 @@
+defaults
+structure:Infinitive, Indefinite;Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:jump;jump;jump;jumps;jump;jump;jump
+german
+translation:springen;springe;springst;springt;springen;springt;springen
+new-norwegian
+translation:hoppa;hoppar;hoppar;hoppar;hoppar;hoppar;hoppar
+norwegian
+translation:hoppe;hopper;hopper;hopper;hopper;hopper;hopper
+swedish
+translation:hoppa;hoppar;hoppar;hoppar;hoppar;hoppar;hoppar
