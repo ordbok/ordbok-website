@@ -13,7 +13,7 @@
     "homepage": "https://github.com/ordbok/demo#readme",
     "repository": "https://github.com/ordbok/demo.git",
     "devDependencies": {
-        "@ordbok/core": "https://github.com/ordbok/core.git#v0.0.3",
+        "@ordbok/core": "https://github.com/ordbok/core.git#v0.0.4",
         "@ordbok/index-plugin": "https://github.com/ordbok/index-plugin.git#v0.0.1",
         "requirejs": "^2.3.6",
         "typescript": "^3.4.5"
