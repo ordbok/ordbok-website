@@ -1,4 +1,4 @@
-defaults
+meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
 grammar:Pronoun;Third Person
 english

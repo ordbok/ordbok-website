@@ -1,4 +1,4 @@
-defaults
+meta
 structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
 grammar:Adjective;Positive
 english

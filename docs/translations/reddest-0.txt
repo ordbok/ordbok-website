@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Superlative
+relation:red;redder;reddest
+english
+translation:reddest;reddest;reddest;reddest;reddest;reddest;reddest;reddest;reddest;reddest;reddest;reddest
+german
+translation:am rötesten;am rötesten;am rötesten;am rötesten;röteste;rötester;rötestes;röteste;röteste;röteste;röteste;rötesten
+new-norwegian
+translation:raudest;raudest;raudest;raudest;raudest;raudest;raudest;raudest;raudeste;raudeste;raudeste;raudeste
+norwegian
+translation:rødest;rødest;rødest;rødest;rødest;rødest;rødest;rödest;rødeste;rødeste;rødeste;rödeste
+swedish
+translation:rödast;rödast;rödast;rödast;rödast;rödast;rödast;rödast;rödaste;rödaste;rödaste;rödaste

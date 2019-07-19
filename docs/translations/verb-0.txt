@@ -2,17 +2,17 @@ meta
 structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
 grammar:Noun
 english
-translation:English;-;-;-
+translation:(a) verb;the verb;verbs;the verbs
 grammar:Neuter
 german
-translation:Englisch;-;-;-
+translation:(ein) Verb;das Verb;Verben;die Verben
 grammar:Neuter
 new-norwegian
-translation:engelsk;-;-;-
+translation:(eit) verb;verbet;verb;verba
 grammar:Neuter
 norwegian
-translation:engelsk;-;-;-
+translation:(et) verb;verbet;verb;verbene
 grammar:Neuter
 swedish
-translation:engelska;-;-;-
+translation:(ett) verb;verbet;verb;verben
 grammar:Neuter

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) potbelly;the potbelly;potbellies;the potbellies
+grammar:Neuter
+german
+translation:(eine) Wampe;die Wampe;Wampen;die Wampen
+grammar:Feminine
+new-norwegian
+translation:(ein) kulemage;kulemagen;kulemagar;kulemagane
+grammar:Masculine
+norwegian
+translation:(en) kulemage;kulemagen;kulemager;kulemagene
+grammar:Masculine
+swedish
+translation:(en) kalaskula;kalaskulan;kalaskulor;kalaskulorna
+grammar:Common

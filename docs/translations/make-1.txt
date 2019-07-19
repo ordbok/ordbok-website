@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:make;made
+english
+translation:make;make;makes;make;make;make
+german
+translation:mache;machst;macht;machen;macht;machen
+new-norwegian
+translation:lagar;lagar;lagar;lagar;lagar;lagar
+norwegian
+translation:lager;lager;lager;lager;lager;lager
+swedish
+translation:gör;gör;gör;gör;gör;gör

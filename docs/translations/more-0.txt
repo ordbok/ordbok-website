@@ -1,13 +1,14 @@
-defaults
-structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Comparative
+relation:much;more;most
 english
-translation:much;more;more;more;more;more;more
+translation:more;more;more;more;more;more;more;more;more;more;more;more
 german
-translation:viel;mehr;mehr;mehr;mehr;mehr;mehr
+translation:mehr;mehr;mehr;mehr;mehrere;mehrerer;mehreres;mehrere;mehrere;mehrere;mehrere;mehreren
 new-norwegian
-translation:mykje;meir;meir;meir;fleire;fleire;fleire
+translation:meir;meir;meir;fleire;meir;meir;meir;fleire;meir;meir;meir;fleire
 norwegian
-translation:mye;mer;mer : mer;flere;flere;flere
+translation:mer;mer : mer;flere;mer;mer;mer;flere;mer;mer;mer;flere
 swedish
-translation:mycken;mer;mer;mer;flera;flera;flera
+translation:mer;mer;mer;flera;mer;mer;mer;flera;mer;mer;mer;flera

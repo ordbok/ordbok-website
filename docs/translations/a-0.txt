@@ -1,4 +1,4 @@
-defaults
+meta
 structure:Feminine;Masculine;Neuter
 grammar:Determiner;Singular;Indefinite
 english

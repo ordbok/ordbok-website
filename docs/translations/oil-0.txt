@@ -2,17 +2,17 @@ meta
 structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
 grammar:Noun
 english
-translation:(a) book;the book;books;the books
+translation:(a) oil;the oil;oils;the oils
 grammar:Neuter
 german
-translation:(ein) Buch;das Buch;Bücher;die Bücher
+translation:(ein) Öl;das Öl;Öle;die Öle
 grammar:Neuter
 new-norwegian
-translation:(ei) bok;boka;boker;bokene
+translation:(ei) olje;olja;oljer;oljene
 grammar:Feminine
 norwegian
-translation:(ei) bok;boka;boker;bokene
+translation:(ei) olje;olja;oljer;oljene
 grammar:Feminine
 swedish
-translation:(en) bok;boken;böker;bökerna
+translation:(en) olja;oljan;oljor;oljorna
 grammar:Common

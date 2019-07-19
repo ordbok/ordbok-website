@@ -1,6 +1,6 @@
-defaults
-english
-german
-new-norwegian
-norwegian
-swedish
+Meta
+English
+German
+New Norwegian
+Norwegian
+Swedish

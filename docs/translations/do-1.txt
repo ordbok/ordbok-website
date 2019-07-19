@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:do;did
+english
+translation:do;do;does;do;do;do
+german
+translation:mache;machst;macht;machen;macht;machen
+new-norwegian
+translation:gjer;gjer;gjer;gjer;gjer;gjer
+norwegian
+translation:gjør;gjør;gjør;gjør;gjør;gjør
+swedish
+translation:gör;gör;gör;gör;gör;gör

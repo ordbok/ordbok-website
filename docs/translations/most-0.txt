@@ -1,13 +1,14 @@
-defaults
-structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Superlative
+relation:much;more;most
 english
-translation:much;most;most;most;most;most;most
+translation:most;most;most;most;most;most;most;most;most;most;most;most
 german
-translation:viel;meiste;meiste;meiste;meisten;meisten;meisten
+translation:am meisten;am meisten;am meisten;am meisten;meiste;meister;meistes;meiste;meiste;meiste;meiste;meisten;
 new-norwegian
-translation:mykje;mest;mest;mest;flest;flest;flest
+translation:mest;mest;mest;flest;mest;mest;mest;fleste;meste;meste;meste;fleste
 norwegian
-translation:mye;mest;mest;mest;flest;flest;flest
+translation:mest;mest;mest;flest;mest;mest;mest;fleste;meste;meste;meste;fleste
 swedish
-translation:mycken;mest;mest;mest;flesta;flesta;flesta
+translation:mest;mest;mest;flest;mest;mest;mest;flesta;mesta;meste;mesta;flesta;

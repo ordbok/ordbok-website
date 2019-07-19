@@ -1,14 +1,14 @@
 meta
 structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
-relation:much;more;most
+relation:red;redder;reddest
 english
-translation:much;much;much;many;much;much;much;many;many;many;many;many
+translation:red;red;red;red;red;red;red;red;red;red;red;red
 german
-translation:viel;viel;viel;viele;viel;viel;viel;viele;viele;viele;viele;vielen
+translation:rot;rot;rot;rot;rote;roter;rotes;rote;rote;rote;rote;roten
 new-norwegian
-translation:mykje;mykje;mykje;mange;mykje;mykje;mykje;mange;mange;mange;mange;mange
+translation:raud;raud;raudt;raude;raud;raud;raudt;raude;raude;raude;raude;raude
 norwegian
-translation:mye;mye;mye;mange;mye;mye;mye;mange;mange;mange;mange;mange
+translation:rød;rød;rødt;røde;rød;rød;rødt;røde;røde;røde;røde;røde
 swedish
-translation:mycken;mycken;mycket;många mycken;mycken;mycket;många mångna;mångne;mångna;många
+translation:röd;röd;rött;röda;röd;röd;rött;röda;röda;röde;röda;röda

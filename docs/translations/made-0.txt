@@ -1,13 +1,14 @@
-defaults
-structure:Infinitive, Indefinite;Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Past
+relation:make;made
 english
-translation:make;made;made;made;made;made;made
+translation:made;made;made;made;made;made
 german
-translation:machen;machte;machte;machte;machten;machtet;machten
+translation:machte;machte;machte;machten;machtet;machten
 new-norwegian
-translation:lage;laga;laga;laga;laga;laga;laga
+translation:laga;laga;laga;laga;laga;laga
 norwegian
-translation:lage;laget;laget;laget;laget;laget;laget
+translation:laget;laget;laget;laget;laget;laget
 swedish
-translation:göra;gjorde;gjorde;gjorde;gjorde;gjorde;gjorde
+translation:gjorde;gjorde;gjorde;gjorde;gjorde;gjorde

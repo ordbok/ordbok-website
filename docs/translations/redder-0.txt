@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Comparative
+relation:red;redder;reddest
+english
+translation:redder;redder;redder;redder;redder;redder;redder;redder;redder;redder;redder;redder
+german
+translation:röter;röter;röter;röter;rötere;röterer;röteres;rötere;rötere;rötere;rötere;röteren
+new-norwegian
+translation:raudere;raudere;raudere;raudere;raudere;raudere;raudere;raudere;raudere;raudere;raudere;raudere
+norwegian
+translation:rødere;rødere;rødere;rødere;rødere;rødere;rødere;rødere;rødere;rødere;rødere;rødere
+swedish
+translation:rödare;rödare;rödare;rödare;rödare;rödare;rödare;rödare;rödare;rödare;rödare;rödare

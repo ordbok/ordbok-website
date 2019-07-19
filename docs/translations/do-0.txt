@@ -1,13 +1,14 @@
-defaults
-structure:Infinitive, Indefinite;Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
-grammar:Verb;Present
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+relation:do;did
 english
-translation:do;do;do;does;do;do;do
+translation:to do;to do;to do;to do;to do;to do
 german
-translation:machen;mache;machst;macht;machen;macht;machen
+translation:zu machen;zu machen;zu machen;zu machen;zu machen;zu machen
 new-norwegian
-translation:gjere;gjer;gjer;gjer;gjer;gjer;gjer
+translation:å gjere;å gjere;å gjere;å gjere;å gjere;å gjere;
 norwegian
-translation:gjøre;gjør;gjør;gjør;gjør;gjør;gjør
+translation:å gjøre;å gjøre;å gjøre;å gjøre;å gjøre;å gjøre
 swedish
-translation:göra;gör;gör;gör;gör;gör;gör
+translation:att göra;att göra;att göra;att göra;att göra;att göra

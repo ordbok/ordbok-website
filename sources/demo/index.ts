@@ -3,7 +3,15 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
-import { Dictionary, IDictionaryEntry, Utilities } from '@ordbok/core';
+import {
+    Dictionary,
+    IDictionaryEntry,
+    Utilities
+} from '@ordbok/core';
+import {
+    IFileIndex,
+    Index
+} from '@ordbok/index-plugin';
 
 /* *
  *
@@ -11,8 +19,10 @@ import { Dictionary, IDictionaryEntry, Utilities } from '@ordbok/core';
  *
  * */
 
-const DEFAULTS_KEY = Utilities.getKey('Defaults');
-const ENGLISH_KEY = Utilities.getKey('English');
+/**
+ * Meta key
+ */
+const META_KEY = Utilities.getKey('Meta');
 
 /* *
  *
@@ -23,6 +33,8 @@ const ENGLISH_KEY = Utilities.getKey('English');
 let searchInput: HTMLInputElement;
 let resultOutput: HTMLTableElement;
 let dictionary: Dictionary;
+let index: Index;
+let languageTitles: Record<string, string>;
 
 /* *
  *
@@ -32,10 +44,34 @@ let dictionary: Dictionary;
 
 function find (): void {
 
-    dictionary
-        .loadEntry(Utilities.getKey(searchInput.value) + '-0')
-        .then(show)
-        .catch(alert);
+    const searchKey = Utilities.getKey(searchInput.value);
+
+    if (resultOutput) {
+        resultOutput.innerHTML = '';
+    }
+    else {
+        resultOutput = document.createElement('TABLE') as HTMLTableElement;
+        resultOutput.setAttribute('border', '1');
+        document.body.appendChild(resultOutput);
+    }
+
+    index
+        .loadFileIndex('English')
+        .then(function (fileIndex: IFileIndex) {
+
+            const pageIndex: (number|undefined) = fileIndex[searchKey];
+
+            if (typeof pageIndex === 'undefined') {
+                return;
+            }
+
+            for (var i = 0, ie = pageIndex ; i <= ie ; ++i) {
+                dictionary
+                    .loadEntry(searchKey, i)
+                    .then(show)
+                    .catch(alert);
+            }
+        })
 }
 
 function show (entry?: IDictionaryEntry): void {
@@ -44,40 +80,30 @@ function show (entry?: IDictionaryEntry): void {
         return;
     }
 
-    resultOutput.innerHTML = '';
-
-    showStructure(entry[DEFAULTS_KEY] && entry[DEFAULTS_KEY].structure || ['']);
+    showStructure(entry);
 
     Object
         .keys(entry)
-        .filter(languageKey => languageKey !== 'defaults')
-        .forEach(languageKey => {
-
-            let language = languageKey;
-
-            dictionary
-                .loadEntry(languageKey + '-0')
-                .then(keyEntry => {
-
-                    if (keyEntry) {
-                        language = keyEntry[ENGLISH_KEY].translation[0];
-                    }
-
-                    showTranslations(language, entry[languageKey].translation)
-                });
-        });
+        .filter(languageKey => languageKey !== META_KEY)
+        .forEach(languageKey => showTranslations(
+            languageKey,
+            entry[languageKey].translation
+        ));
 }
 
-function showStructure (structure: Array<string>): void {
+function showStructure (entry: IDictionaryEntry): void {
 
     const tr = document.createElement('TR');
 
+    resultOutput.appendChild(tr);
+
     let th = document.createElement('TH');
 
-    resultOutput.appendChild(tr);
     tr.appendChild(th);
 
     th.innerText = 'Language';
+
+    const structure = (entry[META_KEY] && entry[META_KEY].structure || ['']);
 
     structure.forEach(title => {
 
@@ -89,7 +115,7 @@ function showStructure (structure: Array<string>): void {
     });
 }
 
-function showTranslations (language: string, translations: Array<string>): void {
+function showTranslations (languageKey: string, translations: Array<string>): void {
 
     const th = document.createElement('TH');
     const tr = document.createElement('TR');
@@ -99,7 +125,7 @@ function showTranslations (language: string, translations: Array<string>): void 
     resultOutput.appendChild(tr);
     tr.appendChild(th);
 
-    th.innerText = language;
+    th.innerText = (languageTitles[languageKey] || languageKey);
 
     translations.forEach(translation => {
 
@@ -114,11 +140,17 @@ function showTranslations (language: string, translations: Array<string>): void 
 export function start (): void {
 
     dictionary = new Dictionary('translations/');
+    index = new Index('translations/');
+    languageTitles = {};
 
     searchInput = document.getElementById('search') as HTMLInputElement;
     searchInput.addEventListener('change', find);
 
-    resultOutput = document.createElement('TABLE') as HTMLTableElement;
-    resultOutput.setAttribute('border', '1');
-    document.body.appendChild(resultOutput);
+    index.loadHeadlines().then(languages => {
+        languages
+            .filter(language => language !== META_KEY)
+            .forEach(language => {
+                languageTitles[Utilities.getKey(language)] = language;
+            });
+    });
 }

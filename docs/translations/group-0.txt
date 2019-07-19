@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) group;the group;groups;the groups
+grammar:Neuter
+german
+translation:(eine) Gruppe;die Gruppe;Gruppen;die Gruppen
+grammar:Feminine
+new-norwegian
+translation:(ei) gruppe;gruppa;grupper;gruppene
+grammar:Feminine
+norwegian
+translation:(ei) gruppe;gruppa;grupper;gruppene
+grammar:Feminine
+swedish
+translation:(en) grupp;gruppen;grupper;grupperna
+grammar:Common

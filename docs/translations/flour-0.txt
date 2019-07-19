@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) flour;the flour;flours;the flours
+grammar:Neuter
+german
+translation:(ein) Mehl;das Mehl;Mehle;die Mehle
+grammar:Neuter
+new-norwegian
+translation:(eit) mjøl;mjølet;mjøl;mjøla
+grammar:Neuter
+norwegian
+translation:(et) mel;melet;mel;melene
+grammar:Neuter
+swedish
+translation:(ett) mjöl;mjölet;mjöler;mjölerna
+grammar:Neuter
