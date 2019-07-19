@@ -9,6 +9,6 @@ translation:mehr;mehr;mehr;mehr;mehrere;mehrerer;mehreres;mehrere;mehrere;mehrer
 new-norwegian
 translation:meir;meir;meir;fleire;meir;meir;meir;fleire;meir;meir;meir;fleire
 norwegian
-translation:mer;mer : mer;flere;mer;mer;mer;flere;mer;mer;mer;flere
+translation:mer;mer;mer;flere;mer;mer;mer;flere;mer;mer;mer;flere
 swedish
 translation:mer;mer;mer;flera;mer;mer;mer;flera;mer;mer;mer;flera

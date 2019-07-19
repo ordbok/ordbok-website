@@ -1,13 +1,13 @@
 meta
-structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
 english
-translation:swedish;swedish;swedish;swedish;swedish;swedish;swedish
+translation:swedish;swedish;swedish;swedish;swedish;swedish;swedish;swedish;swedish;swedish;swedish;swedish
 german
-translation:schwedisch;schwedische;schwedischer;schwedisches;schwedische;schwedische;schwedische
+translation:schwedisch;schwedisch;schwedisch;schwedisch;schwedische;schwedischer;schwedisches;schwedische;schwedische;schwedische;schwedische;schwedischen
 new-norwegian
-translation:svensk;svensk;svensk;svensk;svenske;svenske;svenske
+translation:svensk;svensk;svensk;svenske;svensk;svensk;svensk;svenske;svenske;svenske;svenske;svenske
 norwegian
-translation:svensk svensk;svensk;svensk;svenske;svenske;svenske
+translation:svensk;svensk;svensk;svenske;svensk;svensk;svensk;svenske;svenske;svenske;svenske;svenske
 swedish
-translation:svensk;svensk;svensk;svenskt;svenska;svenska;svenska
+translation:svensk;svensk;svenskt;svenska;svensk;svensk;svenskt;svenska;svenska;svenske;svenska;svenska

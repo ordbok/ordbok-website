@@ -11,4 +11,4 @@ translation:mykje;mykje;mykje;mange;mykje;mykje;mykje;mange;mange;mange;mange;ma
 norwegian
 translation:mye;mye;mye;mange;mye;mye;mye;mange;mange;mange;mange;mange
 swedish
-translation:mycken;mycken;mycket;många mycken;mycken;mycket;många mångna;mångne;mångna;många
+translation:mycken;mycken;mycket;många;mycken;mycken;mycket;många;mångna;mångne;mångna;många

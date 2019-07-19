@@ -1,13 +1,13 @@
 meta
-structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
 english
-translation:norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian
+translation:norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian;norwegian
 german
-translation:norwegisch;norwegische;norwegischer;norwegisches;norwegische;norwegische;norwegische
+translation:norwegisch;norwegisch;norwegisch;norwegisch;norwegische;norwegischer;norwegisches;norwegische;norwegische;norwegische;norwegische;norwegischen
 new-norwegian
-translation:norsk;norsk;norsk;norsk;norske;norske;norske
+translation:norsk;norsk;norsk;norske;norsk;norsk;norsk;norske;norske;norske;norske;norske
 norwegian
-translation:norsk norsk;norsk;norsk;norske;norske;norske
+translation:norsk;norsk;norsk;norske;norsk;norsk;norsk;norske;norske;norske;norske;norske
 swedish
-translation:norsk;norsk;norsk;norskt;norska;norska;norska
+translation:norsk;norsk;norskt;norska;norsk;norsk;norskt;norska;norska;norske;norska;norska

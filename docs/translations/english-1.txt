@@ -1,13 +1,13 @@
 meta
-structure:Indefinite, Common;Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
 english
-translation:english;english;english;english;english;english;english
+translation:english;english;english;english;english;english;english;english;english;english;english;english
 german
-translation:englisch;englische;englischer;englisches;englische;englische;englische
+translation:englisch;englisch;englisch;englisch;englische;englischer;englisches;englische;englische;englische;englische;englischen
 new-norwegian
-translation:engelsk;engelsk;engelsk;engelsk;engelske;engelske;engelske
+translation:engelsk;engelsk;engelsk;engelske;engelsk;engelsk;engelsk;engelske;engelske;engelske;engelske;engelske
 norwegian
-translation:engelsk;engelsk;engelsk;engelsk;engelske;engelske;engelske
+translation:engelsk;engelsk;engelsk;engelske;engelsk;engelsk;engelsk;engelske;engelske;engelske;engelske;engelske
 swedish
-translation:engelsk;engelsk;engelsk;engelskt;engelska;engelska;engelska
+translation:engelsk;engelsk;engelskt;engelska;engelsk;engelsk;engelskt;engelska;engelska;engelske;engelska;engelska

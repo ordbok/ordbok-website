@@ -5,10 +5,10 @@ relation:much;more;most
 english
 translation:most;most;most;most;most;most;most;most;most;most;most;most
 german
-translation:am meisten;am meisten;am meisten;am meisten;meiste;meister;meistes;meiste;meiste;meiste;meiste;meisten;
+translation:am meisten;am meisten;am meisten;am meisten;meiste;meister;meistes;meiste;meiste;meiste;meiste;meisten
 new-norwegian
 translation:mest;mest;mest;flest;mest;mest;mest;fleste;meste;meste;meste;fleste
 norwegian
 translation:mest;mest;mest;flest;mest;mest;mest;fleste;meste;meste;meste;fleste
 swedish
-translation:mest;mest;mest;flest;mest;mest;mest;flesta;mesta;meste;mesta;flesta;
+translation:mest;mest;mest;flest;mest;mest;mest;flesta;mesta;meste;mesta;flesta
