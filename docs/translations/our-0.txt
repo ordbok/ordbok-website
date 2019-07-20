@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;First Person;Plural
+english
+translation:our;our;our;our
+german
+translation:unsere;unser;unseres;unsere
+new-norwegian
+translation:vår;vår;vårt;våre
+norwegian
+translation:vår;vår;vårt;våre
+swedish
+translation:vår;vår;vårt;våra

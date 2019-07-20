@@ -1,13 +1,14 @@
 meta
-structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural, Masculine;Plural, Neuter
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Third Person
+relation:i;you;he;she;it;we;we together;they
 english
-translation:-;-;it;-;-;-
+translation:-;-;it;-
 german
-translation:-;-;es;-;-;-
+translation:-;-;es;-
 new-norwegian
-translation:-;-;det;-;-;-
+translation:-;-;det;-
 norwegian
-translation:-;-;det;-;-;-
+translation:-;-;det;-
 swedish
-translation:-;-;det;-;-;-
+translation:-;-;det;-

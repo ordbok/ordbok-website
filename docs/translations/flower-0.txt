@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) flower;the flower;flowers;the flowers
+grammar:Neuter
+german
+translation:(eine) Blume;die Blume;Blumen;die Blumen
+grammar:Feminine
+new-norwegian
+translation:(ein) blom;blomen;blomar;blomane
+grammar:Masculine
+norwegian
+translation:(en) blomst;blomsten;blomster;blomstene
+grammar:Masculine
+swedish
+translation:(en) blomma;blomman;blommor;blommorna
+grammar:Common

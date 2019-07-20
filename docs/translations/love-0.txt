@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) love;the love;loves;the loves
+grammar:Neuter
+german
+translation:(eine) Liebe;die Liebe;Lieben;die Lieben
+grammar:Feminine
+new-norwegian
+translation:(ein) kjærleik;kjærleiken;kjærleikar;kjærleikane
+grammar:Masculine
+norwegian
+translation:(en) kjærlighet;kjærligheten;kjærligheter;kjærlighetene
+grammar:Masculine
+swedish
+translation:(en) kärlek;kärleken;kärlekar;kärlekarna
+grammar:Common

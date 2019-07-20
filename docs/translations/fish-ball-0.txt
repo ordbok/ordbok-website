@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) fish ball;the fish ball;fish balls;the fish balls
+grammar:Neuter
+german
+translation:(ein) Fischklops;der Fischklops;Fischklöpse;die Fischklöpse
+grammar:Masculine
+new-norwegian
+translation:(ein) fiskebolle;fiskebollen;fiskebollar;fiskebollane
+grammar:Masculine
+norwegian
+translation:(en) fiskebolle;fiskebollen;fiskeboller;fiskebollene
+grammar:Masculine
+swedish
+translation:(en) fiskbulle;fiskbullen;fiskbullar;fiskbullarna
+grammar:Common

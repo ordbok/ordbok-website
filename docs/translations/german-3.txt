@@ -2,12 +2,12 @@ meta
 structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
 english
-translation:german;german;german;german;german;german;german
+translation:german;german;german;german;german;german;german;german;german;german;german;german
 german
-translation:deutsch;deutsche;deutscher;deutsches;deutschen;deutschen;deutschen
+translation:deutsch;deutsch;deutsch;deutsch;deutsche;deutscher;deutsches;deutsche;deutschen;deutschen;deutschen;deutschen
 new-norwegian
-translation:tysk;tysk;tysk;tysk;tyske;tyske;tyske
+translation:tysk;tysk;tysk;tyske;tysk;tysk;tysk;tyske;tyske;tyske;tyske;tyske
 norwegian
-translation:tysk;tysk;tysk;tysk;tyske;tyske;tyske
+translation:tysk;tysk;tysk;tyske;tysk;tysk;tysk;tyske;tyske;tyske;tyske;tyske
 swedish
 translation:tysk;tysk;tyskt;tyska;tysk;tysk;tyskt;tyska;tyska;tyske;tyska;tyska

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) marmalade;the marmalade;marmalades;the marmalades
+grammar:Neuter
+german
+translation:(eine) Marmelade;die Marmelade;Marmeladen;die Marmeladen
+grammar:Feminine
+new-norwegian
+translation:(ein) marmelade;marmeladen;marmeladar;marmeladane
+grammar:Masculine
+norwegian
+translation:(en) marmelade;marmeladen;marmelader;marmeladene
+grammar:Masculine
+swedish
+translation:(en) marmelad;marmeladen;marmelader;marmeladerna
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:romantic;romantic;romantic;romantic;romantic;romantic;romantic;romantic;romantic;romantic;romantic;romantic
+german
+translation:romantisch;romantisch;romantisch;romantisch;romantische;romantischer;romantisches;romantische;romantische;romantische;romantische;romantischen
+new-norwegian
+translation:romantisk;romantisk;romantisk;romantiske;romantisk;romantisk;romantisk;romantiske;romantiske;romantiske;romantiske;romantiske
+norwegian
+translation:romantisk;romantisk;romantisk;romantiske;romantisk;romantisk;romantisk;romantiske;romantiske;romantiske;romantiske;romantiske
+swedish
+translation:romantisk;romantisk;romantiskt;romantiska;romantisk;romantisk;romantiskt;romantiska;romantiska;romantiske;romantiska;romantiska

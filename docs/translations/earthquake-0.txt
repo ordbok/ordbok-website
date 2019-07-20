@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) earthquake;the earthquake;earthquakes;the earthquakes
+grammar:Neuter
+german
+translation:(ein) Erdbeben;das Erdbeben;Erdbeben;die Erdbeben
+grammar:Neuter
+new-norwegian
+translation:(eit) jordskjelv;jordskjelvet;jordskjelv;jordskjelva
+grammar:Neuter
+norwegian
+translation:(et) jordskjelv;jordskjelvet;jordskjelv;jordskjelvene
+grammar:Neuter
+relation:quake;earthquake
+swedish
+translation:(ett) jordskalv;jordskalvet;jordskalv;jordskalven
+grammar:Neuter

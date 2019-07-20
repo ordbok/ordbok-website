@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:translate
+english
+translation:translate;translate;translates;translate;translate;translate
+german
+translation:übersetze;übersetzt;übersetzt;übersetzen;übersetzt;übersetzen
+new-norwegian
+translation:omset;omset;omset;omset;omset;omset
+norwegian
+translation:oversetter;oversetter;oversetter;oversetter;oversetter;oversetter
+swedish
+translation:översätter;översätter;översätter;översätter;översätter;översätter

@@ -6,7 +6,7 @@ translation:(a) world;the world;worlds;the worlds
 grammar:Neuter
 german
 translation:(eine) Welt;die Welt;Welten;die Welten
-tags:Feminine
+grammar:Feminine
 new-norwegian
 translation:(ein) verd;verden;verdar;verdane
 grammar:Masculine
