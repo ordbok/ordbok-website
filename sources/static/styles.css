@@ -1,0 +1,85 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: linear-gradient(#FFF, #CCC);
+    font-family: sans-serif;
+}
+
+header ,
+#search ,
+#results ,
+footer {
+    display: block;
+    margin: 1em auto;
+    max-width: 720px;
+}
+
+/* *
+ *
+ *  Header
+ *
+ * */
+
+header h1 {
+    font-size: 1em;
+    margin: 0;
+    text-align: center;
+}
+
+/* *
+ *
+ *  Search
+ *
+ * */
+
+#search {
+    text-align: center;
+}
+
+/* *
+ *
+ *  Results
+ *
+ * */
+
+#results table {
+    background: #666;
+    border-spacing: 1px;
+    border-width: 0;
+    font-size: 1em;
+    white-space: nowrap;
+}
+
+#results table th {
+    background-color: #CDE;
+    padding: 0.25em 0.5em;
+}
+
+#results table td {
+    background-color: #EEE;
+    padding: 0.25em 0.5em;
+}
+
+#results table tr:nth-child(2n+1) th {
+    background-color: #BCD;
+}
+
+#results table tr:nth-child(2n+1) td {
+    background-color: #DDD;
+}
+
+/* *
+ *
+ *  Footer
+ *
+ * */
+
+footer h6 {
+    color: #666;
+    font-size: 0.75em;
+    margin: 0;
+    text-align: center;
+}

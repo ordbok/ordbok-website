@@ -3,12 +3,25 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
-        <script src="require.js"></script>
-        <script src="demo.js"></script>
-        <title></title>
+        <link rel="stylesheet" href="styles.css" type="text/css" />
+        <title>ORDBOK Demo</title>
     </head>
     <body>
-        <input id="search" placeholder="Type in english word" type="search" />
+        <header>
+            <h1>ORDBOK Demo</h1>
+        </header>
+        <content>
+            <section id="search">
+                <input placeholder="Write an english word" type="search" />
+                <button>Search</button>
+            </section>
+            <section id="results"></section>
+        </content>
+        <footer>
+            <h6>&copy; ORDBOK contributors</h6>
+        </footer>
+        <script src="require.js"></script>
+        <script src="demo.js"></script>
         <script>require(['demo'],function(demo){demo.start();});</script>
     </body>
 </html>

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) x-ray;the x-ray;x-rays;the x-rays
+grammar:Neuter
+german
+translation:(ein) Röntgenstrahl;der Röntgenstrahl;Röntgenstrahlen;die Röntgenstrahlen
+grammar:Masculine
+new-norwegian
+translation:(ein) røntgenstråle;røntgenstrålen;røntgenstrålar;røntgenstrålane
+grammar:Masculine
+norwegian
+translation:(en) røntgenstråle;røntgenstrålen;røntgenstråler;røntgenstrålene
+grammar:Masculine
+swedish
+translation:(en) röntgenstråle;röntgenstrålen;röntgenstrålar;röntgenstrålarna
+grammar:Common

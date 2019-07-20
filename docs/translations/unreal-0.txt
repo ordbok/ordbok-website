@@ -1,0 +1,13 @@
+meta
+translation:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive / Comparative / Superlative
+english
+translation:unreal;unreal;unreal;unreal;unreal;unreal;unreal;unreal;unreal;unreal;unreal;unreal
+german
+translation:unwirklich;unwirklich;unwirklich;unwirklich;unwirkliche;unwirklicher;unwirkliches;unwirkliche;unwirkliche;unwirkliche;unwirkliche;unwirklichen
+new-norwegian
+translation:uvirkelig;uvirkelig;uvirkelig;uvirkelige;uvirkelig;uvirkelig;uvirkelig;uvirkelige;uvirkelige;uvirkelige;uvirkelige;uvirkelige;
+norwegian
+translation:uvirkelig;uvirkelig;uvirkelig;uvirkelige;uvirkelig;uvirkelig;uvirkelig;uvirkelige;uvirkelige;uvirkelige;uvirkelige;uvirkelige;
+swedish
+translation:overklig;overklig;overkligt;overkliga;overklig;overklig;overkligt;overkliga;overkliga;overklige;overkliga;overkliga

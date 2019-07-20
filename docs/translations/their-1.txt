@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Third Person;Plural
+english
+translation:their;their;their;their
+german
+translation:ihre;ihr;ihr;ihre
+new-norwegian
+translation:deira;deira;deira;deira
+norwegian
+translation:deres;deres;deres;deres
+swedish
+translation:deras;deras;deras;deras

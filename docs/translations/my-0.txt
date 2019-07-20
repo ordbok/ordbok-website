@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;First Person;Singular;Common
+relation:my;your;her;his;its;our;your;their
+english
+translation:my;my;my;my
+german
+translation:meine;mein;mein;meine
+new-norwegian
+translation:mi;min;mitt;mine
+norwegian
+translation:mi;min;mitt;mine
+swedish
+translation:min;min;mitt;mina

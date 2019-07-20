@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Third Person;Singular;Neuter
+relation:my;your;her;his;its;our;your;their
+english
+translation:its;its;its;its
+german
+translation:seine;sein;sein;seine
+new-norwegian
+translation:dets;dets;dets;dets
+norwegian
+translation:dets;dets;dets;dets
+swedish
+translation:dess;dess;dess;dess

@@ -3,34 +3,22 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
-import * as Results from './results';
-import * as Search from './search';
+import {
+    Utilities
+} from '@ordbok/core';
 
 /* *
  *
- *  Functions
+ *  Constants
  *
  * */
 
-function start (): void {
+/**
+ * Base URL
+ */
+export const BASE_URL = 'translations/';
 
-    try {
-
-        Results.init();
-        Search.init();
-    }
-    catch (error) {
-
-        alert(error);
-    }
-}
-
-/* *
- *
- *  Exports
- *
- * */
-
-export {
-    start
-}
+/**
+ * Meta key
+ */
+export const META_KEY = Utilities.getKey('Meta');

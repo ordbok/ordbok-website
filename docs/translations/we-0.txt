@@ -1,6 +1,6 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Pronoun;First Person
+grammar:Pronoun;First Person;Plural
 relation:i;you;he;she;it;we;we together;they
 english
 translation:-;-;-;we

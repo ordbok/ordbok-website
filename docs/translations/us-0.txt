@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun
+relation:me;you;him;her;it;us;them
+english
+translation:-;-;-;us
+german
+translation:-;-;-;uns
+new-norwegian
+translation:-;-;-;vi
+norwegian
+translation:-;-;-;oss
+swedish
+translation:-;-;-;oss

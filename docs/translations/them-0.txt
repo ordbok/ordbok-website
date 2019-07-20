@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Third Person
+relation:me;you;him;her;it;us;them
+english
+translation:them;them;-;them
+german
+translation:Ihnen;Ihnen;-;ihnen
+new-norwegian
+translation:dei;dei;-;dei
+norwegian
+translation:den;den;-;dem
+swedish
+translation:de;de;-;de

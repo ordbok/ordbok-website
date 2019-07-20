@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) zebra;the zebra;zebras;the zebras
+grammar:Neuter
+german
+translation:(ein) Zebra;das Zebra;Zebras;die Zebras
+grammar:Neuter
+new-norwegian
+translation:(ein) sebra;sebraen;sebraar;sebraane
+grammar:Masculine
+norwegian
+translation:(en) sebra;sebraen;sebraer;sebraene
+grammar:Masculine
+swedish
+translation:(en) zebra;zebran;zebror;zebrorna
+grammar:Common

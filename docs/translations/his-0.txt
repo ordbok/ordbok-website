@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Third Person;Singular;Masculine
+relation:my;your;her;his;its;our;your;their
+english
+translation:his;his;his;his
+german
+translation:seine;sein;sein;seine
+new-norwegian
+translation:hans;hans;hans;hans
+norwegian
+translation:hans;hans;hans;hans
+swedish
+translation:hans;hans;hans;hans

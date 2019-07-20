@@ -1,14 +1,14 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Pronoun;Third Person;Singular
+grammar:Pronoun;First Person;Plural
 relation:i;you;he;she;it;we;we together;they
 english
-translation:-;-;it;-
+translation:-;-;-;we together
 german
-translation:-;-;es;-
+translation:-;-;-;wir zusammen
 new-norwegian
-translation:-;-;det;-
+translation:-;-;-;me
 norwegian
-translation:-;-;det;-
+translation:-;-;-;vi sammen
 swedish
-translation:-;-;det;-
+translation:-;-;-;vi samman

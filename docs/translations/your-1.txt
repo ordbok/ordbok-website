@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Second Person;Plural;Common
+relation:my;your;her;his;its;our;your;their
+english
+translation:your;your;your;your
+german
+translation:eure;euer;euer;eure
+new-norwegian
+translation:dykkar;dykkar;dykkar;dykkar
+norwegian
+translation:deres;deres;deres;deres
+swedish
+translation:er;er;ert;era
