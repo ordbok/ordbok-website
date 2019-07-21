@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(an) idiot;the idiot;idiots;the idiots
+grammar:Neuter
+german
+translation:(ein) Idiot;der Idiot;Idioten;die Idioten
+grammar:Masculine
+new-norwegian
+translation:(ein) idiot;idioten;idiotar;idiotane
+grammar:Masculine
+norwegian
+translation:(en) idiot;idioten;idioter;idiotene
+grammar:Masculine
+swedish
+translation:(en) idiot;idioten;idioter;idioterna
+grammar:Common

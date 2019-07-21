@@ -1,0 +1,13 @@
+meta
+translation:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:bad;bad;bad;bad;bad;bad;bad;bad;bad;bad;bad;bad
+german
+translation:schlecht;schlecht;schlecht;schlecht;schlechte;schlechter;schlechtes;schlechte;schlechte;schlechte;schlechte;schlechten
+new-norwegian
+translation:dårleg;dårleg;dårleg;dårlege;dårleg;dårleg;dårleg;dårlege;dårlege;dårlege;dårlege;dårlege
+norwegian
+translation:dårlig;dårlig;dårlig;dårlige;dårlig;dårlig;dårlig;dårlige;dårlige;dårlige;dårlige;dårlige
+swedish
+translation:dålig;dålig;dåligt;dåliga;dålig;dålig;dåligt;dåliga;dåliga;dålige;dåliga;dåliga

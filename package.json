@@ -16,7 +16,7 @@
         "@ordbok/core": "https://github.com/ordbok/core.git#v0.0.5",
         "@ordbok/index-plugin": "https://github.com/ordbok/index-plugin.git#v0.0.2",
         "requirejs": "2.3.6",
-        "typescript": "^3.4.5"
+        "typescript": "3.4.5"
     },
     "engines": {
         "node": ">=10.0.0"

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Indefinite
+english
+translation:only;only;only;only
+german
+translation:nur;nur;nur;nur
+new-norwegian
+translation:berre;berre;berre;berre
+norwegian
+translation:kun;kun;kun;kun
+swedish
+translation:bara;bara;bara;bara

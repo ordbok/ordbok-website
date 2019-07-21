@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) giant;the giant;giants;the giants
+grammar:Neuter
+german
+translation:(ein) Riese;der Riese;Riesen;die Riesen
+grammar:Masculine
+new-norwegian
+translation:(ei) kjempe;kjempa;kjemper;kjempene
+grammar:Feminine
+norwegian
+translation:(ei) kjempe;kjempa;kjemper;kjempene
+grammar:Feminine
+swedish
+translation:(en) jätte;jätten;jättar;jättarna
+grammar:Common

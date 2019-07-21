@@ -26,6 +26,11 @@ import * as Results from './results';
 let container: HTMLElement;
 
 /**
+ * Search countdown
+ */
+let countdown: number;
+
+/**
  * File index
  */
 let files: Index;
@@ -41,6 +46,9 @@ let translations: Dictionary;
  *
  * */
 
+/**
+ * Initializes search functionality.
+ */
 function init (): void {
 
     initTranslations();
@@ -48,6 +56,9 @@ function init (): void {
     initContainer();
 }
 
+/**
+ * Initializes user interface.
+ */
 function initContainer (): void {
 
     const element = document.getElementById('search');
@@ -62,6 +73,9 @@ function initContainer (): void {
     initContainerInput();
 }
 
+/**
+ * Initializes search button.
+ */
 function initContainerButton (): void {
 
     const element = container.getElementsByTagName('button')[0];
@@ -73,6 +87,9 @@ function initContainerButton (): void {
     element.addEventListener('click', onButtonClick)
 }
 
+/**
+ * Initializes search input field.
+ */
 function initContainerInput (): void {
 
     const element = container.getElementsByTagName('input')[0];
@@ -85,19 +102,31 @@ function initContainerInput (): void {
     element.addEventListener('keyup', onKeyUp);
 }
 
+/**
+ * Initializes file index.
+ */
 function initFiles (): void {
 
     files = new Index(Config.BASE_URL);
 }
 
+/**
+ * Initializes translations dictionary.
+ */
 function initTranslations (): void {
 
     translations = new Dictionary(Config.BASE_URL);
 }
 
-function onButtonClick (e: MouseEvent): void {
+/**
+ * Handles button event.
+ *
+ * @param mouseEvent
+ *        Mouse event
+ */
+function onButtonClick (mouseEvent: MouseEvent): void {
 
-    const element = e.target;
+    const element = mouseEvent.target;
 
     if (!(element instanceof HTMLButtonElement) ||
         !(element.previousSibling instanceof HTMLInputElement)
@@ -105,34 +134,73 @@ function onButtonClick (e: MouseEvent): void {
         return;
     }
 
-    searchIndex(element.previousSibling.value);
+    search(element.previousSibling.value);
 }
 
-function onInputChange (e: Event): void {
+/**
+ * Handles input event.
+ *
+ * @param inputEvent
+ *        Input event
+ */
+function onInputChange (inputEvent: Event): void {
 
-    const element = e.target;
+    const element = inputEvent.target;
 
     if (!(element instanceof HTMLInputElement)) {
         return;
     }
 
-    searchIndex(element.value);
+    if (!element.value) {
+        Results.clear();
+    }
 }
 
-function onKeyUp (e: KeyboardEvent): void {
+/**
+ * Handles keyboard event.
+ *
+ * @param keyboardEvent
+ *        Keyboard event
+ */
+function onKeyUp (keyboardEvent: KeyboardEvent): void {
 
-    const element = e.target;
+    const element = keyboardEvent.target;
 
     if (!(element instanceof HTMLInputElement)) {
         return;
     }
 
-    searchIndex(element.value);
+    search(element.value);
 }
 
+/**
+ * Starts search after a countdown of 500ms.
+ *
+ * @param query
+ *        Search query
+ */
+function search (query: string): void {
+
+    if (countdown) {
+        window.clearTimeout(countdown);
+    }
+
+    countdown = window.setTimeout(searchIndex, 500, query);
+}
+
+/**
+ * Search in the file index for a query match.
+ *
+ * @param query
+ *        Search query
+ */
 function searchIndex (query: string): void {
 
     const searchKey = Utilities.getKey(query);
+
+    if (translations.hasOpenRequests()) {
+        return;
+    }
 
     Results.clear();
 
@@ -150,11 +218,20 @@ function searchIndex (query: string): void {
         });
 }
 
-function searchTranslations (query: string, maxPageIndex: number): void {
+/**
+ * Collects translation details for result output.
+ *
+ * @param query
+ *        Search query
+ *
+ * @param lastPageIndex
+ *        Last page index to collect
+ */
+function searchTranslations (query: string, lastPageIndex: number): void {
 
     const searchKey = Utilities.getKey(query);
 
-    for (let pageIndex = 0; pageIndex <= maxPageIndex ; ++pageIndex) {
+    for (let pageIndex = 0; pageIndex <= lastPageIndex ; ++pageIndex) {
 
         translations
             .loadEntry(searchKey, pageIndex)

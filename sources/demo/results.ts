@@ -8,7 +8,6 @@ import {
     Utilities
 } from '@ordbok/core';
 import {
-    IFileIndex,
     Index
 } from '@ordbok/index-plugin';
 import * as Config from './config';
@@ -40,17 +39,26 @@ let languages: Record<string, string>;
  *
  * */
 
+/**
+ * Clears visible results
+ */
 function clear (): void {
 
     container.innerHTML = '';
 }
 
+/**
+ * Initialize results management.
+ */
 function init (): void {
 
     initContainer();
     initLanguages();
 }
 
+/**
+ * Initializes user interface.
+ */
 function initContainer (): void {
 
     const element = document.getElementById('results');
@@ -62,6 +70,9 @@ function initContainer (): void {
     container = element;
 }
 
+/**
+ * Initializes language index.
+ */
 function initLanguages (): void {
 
     languages = {};
@@ -88,33 +99,42 @@ function initLanguages (): void {
         });
 }
 
-function show (result: IDictionaryEntry): void {
+/**
+ * Shows a search result.
+ *
+ * @param searchResult
+ *        Search result
+ */
+function show (searchResult: IDictionaryEntry): void {
 
     const table = document.createElement('TABLE') as HTMLTableElement;
 
     container.appendChild(table);
 
-    showStructure(table, result);
+    showStructure(table, searchResult);
 
     Object
-        .keys(result)
-        .filter(languageKey => languageKey !== Config.META_KEY)
-        .forEach(languageKey => showTranslation(
-            table,
-            languageKey,
-            result[languageKey].translation,
-            ([] as Array<string>)
-                .concat(
-                    (result[Config.META_KEY] && result[Config.META_KEY].grammar),
-                    result[languageKey].grammar
-                )
-                .filter(function (grammar: (string|undefined)): boolean {
-                    return !!grammar;
-                })
-        ));
+        .keys(searchResult)
+        .filter(function (languageKey: string): boolean {
+
+            return (languageKey !== Config.META_KEY);
+        })
+        .forEach(function (languageKey: string): void {
+
+            showTranslation(table, searchResult, languageKey)
+        });
 }
 
-function showStructure (table: HTMLTableElement, entry: IDictionaryEntry): void {
+/**
+ * Adds a header to a result table.
+ *
+ * @param table
+ *        Result table
+ *
+ * @param searchResult
+ *        Search result
+ */
+function showStructure (table: HTMLTableElement, searchResult: IDictionaryEntry): void {
 
     const tr = document.createElement('TR');
 
@@ -126,7 +146,7 @@ function showStructure (table: HTMLTableElement, entry: IDictionaryEntry): void 
 
     th.innerText = 'Language';
 
-    const structure = (entry[Config.META_KEY] && entry[Config.META_KEY].structure || ['']);
+    const structure = (searchResult[Config.META_KEY] && searchResult[Config.META_KEY].structure || ['']);
 
     structure.forEach(title => {
 
@@ -138,12 +158,34 @@ function showStructure (table: HTMLTableElement, entry: IDictionaryEntry): void 
     });
 }
 
+/**
+ * Adds a translation to a result table.
+ *
+ * @param table
+ *        Result table
+ *
+ * @param searchResult
+ *        Search result
+ *
+ * @param languageKey
+ *        Language key of translation
+ */
 function showTranslation (
     table: HTMLTableElement,
-    languageKey: string,
-    translation: Array<string>,
-    grammar: Array<string>
+    searchResult: IDictionaryEntry,
+    languageKey: string
 ): void {
+
+    const grammar = ([] as Array<string>)
+        .concat(
+            (searchResult[Config.META_KEY] && searchResult[Config.META_KEY].grammar),
+            searchResult[languageKey].grammar
+        )
+        .filter(function (grammar: (string|undefined)): boolean {
+            return !!grammar;
+        });
+
+    const translation = searchResult[languageKey].translation;
 
     const tr = document.createElement('TR');
 

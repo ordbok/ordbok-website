@@ -1,0 +1,13 @@
+meta
+translation:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:cool;cool;cool;cool;cool;cool;cool;cool;cool;cool;cool;cool
+german
+translation:cool;cool;cool;cool;cool;cool;cool;cool;cool;cool;cool;cool
+new-norwegian
+translation:kul;kul;kult;kule;kul;kul;kult;kule;kule;kule;kule;kule
+norwegian
+translation:kul;kul;kult;kule;kul;kul;kult;kule;kule;kule;kule;kule
+swedish
+translation:kul;kul;kul;kul;kul;kul;kul;kul;kul;kul;kul;kul

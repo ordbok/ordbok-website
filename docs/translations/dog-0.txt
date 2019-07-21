@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) dog;the dog;dogs;the dogs
+grammar:Neuter
+german
+translation:(ein) Hund;der Hund;Hunde;die Hunde
+grammar:Masculine
+new-norwegian
+translation:(ein) hund;hunden;hundar;hundane
+grammar:Masculine
+norwegian
+translation:(en) hund;hunden;hunder;hundene
+grammar:Masculine
+swedish
+translation:(en) hund;hunden;hundar;hundarna
+grammar:Common
