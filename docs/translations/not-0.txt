@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:not
+german
+translation:nicht
+new-norwegian
+translation:ikkje
+norwegian
+translation:ikke
+swedish
+translation:inte

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:search;search;searchs;search;search;search
+german
+translation:suche;suchst;sucht;suchen;sucht;suchen
+new-norwegian
+translation:søkar;søkar;søkar;søkar;søkar;søkar
+norwegian
+translation:søker;søker;søker;søker;søker;søker
+swedish
+translation:söker;söker;söker;söker;söker;söker

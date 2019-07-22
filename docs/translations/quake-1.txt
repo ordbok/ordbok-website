@@ -1,7 +1,7 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Present
-relation:make;made
+relation:earthquake;quake
 english
 translation:quake;quake;quakes;quake;quake;quake
 german

@@ -1,6 +1,7 @@
 meta
 structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
 grammar:Noun
+relation:earthquake;quake
 english
 translation:(a) earthquake;the earthquake;earthquakes;the earthquakes
 grammar:Neuter
@@ -13,7 +14,6 @@ grammar:Neuter
 norwegian
 translation:(et) jordskjelv;jordskjelvet;jordskjelv;jordskjelvene
 grammar:Neuter
-relation:quake;earthquake
 swedish
 translation:(ett) jordskalv;jordskalvet;jordskalv;jordskalven
 grammar:Neuter

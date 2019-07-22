@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) soil;the soil;soils;the soils
+grammar:Neuter
+german
+translation:(eine) Erde;die Erde;Erden;die Erden
+grammar:Feminine
+new-norwegian
+translation:(ei) jord;jorda;jorder;jordene
+grammar:Feminine
+norwegian
+translation:(ei) jord;jorda;jorder;jordene
+grammar:Feminine
+swedish
+translation:(en) jord | jorden | jordar | jordarna
+grammar:Common

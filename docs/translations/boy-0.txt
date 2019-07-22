@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:boy;girl
+english
+translation:(a) boy;the boy;boys;the boys
+grammar:Masculine
+german
+translation:(ein) Junge;der Junge;Jungs;die Jungs
+grammar:Masculine
+new-norwegian
+translation:(ein) gut;guten;gutar;gutane
+grammar:Masculine
+norwegian
+translation:(en) gutt;gutten;gutter;guttene
+grammar:Masculine
+swedish
+translation:(en) pojke;pojken;pojkar;pojkarna
+grammar:Common

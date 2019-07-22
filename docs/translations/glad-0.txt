@@ -1,0 +1,13 @@
+meta
+translation:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:glad;glad;glad;glad;glad;glad;glad;glad;glad;glad;glad;glad
+german
+translation:fröhlich;fröhlich;fröhlich;fröhlich;fröhliche;fröhlicher;fröhliches;fröhliche;fröhliche;fröhliche;fröhliche;fröhlichen
+new-norwegian
+translation:glad;glad;glad;glade;glad;glad;glad;glade;glade;glade;glade;glade
+norwegian
+translation:glad;glad;glad;glade;glad;glad;glad;glade;glade;glade;glade;glade
+swedish
+translation:glad;glad;glatt;glada;glad;glad;glatt;glada;glada;glade;glada;glada

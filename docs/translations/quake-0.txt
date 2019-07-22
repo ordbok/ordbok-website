@@ -1,7 +1,7 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
-relation:quake;earthquake
+relation:earthquake;quake
 english
 translation:to quake;to quake;to quake;to quake;to quake;to quake
 german

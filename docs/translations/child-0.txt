@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:child;father;mother
+english
+translation:(a) child;the child;children;the children
+grammar:Neuter
+german
+translation:(ein) Kind;das Kind;Kinder;die Kinder
+grammar:Neuter
+new-norwegian
+translation:(eit) barn;barnet;barn;barna
+grammar:Neuter
+norwegian
+translation:(et) barn;barnet;barn;barnene
+grammar:Neuter
+swedish
+translation:(ett) barn;barnet;barn;barnen
+grammar:Neuter

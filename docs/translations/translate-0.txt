@@ -5,7 +5,7 @@ relation:translate
 english
 translation:to translate;to translate;to translate;to translate;to translate;to translate
 german
-translation:zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen;
+translation:zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen;zu übersetzen
 new-norwegian
 translation:å omsetje;å omsetje;å omsetje;å omsetje;å omsetje;å omsetje
 norwegian

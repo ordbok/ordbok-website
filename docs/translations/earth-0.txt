@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:Earth;the Earth;-;-
+grammar:Neuter
+german
+translation:Erde;die Erde;-;-
+grammar:Feminine
+new-norwegian
+translation:Jorda;Jorda;-;-
+grammar:Feminine
+norwegian
+translation:Jorden;Jorden;-;-
+grammar:Masculine
+swedish
+translation:Jorden;Jorden;-;-
+grammar:Common

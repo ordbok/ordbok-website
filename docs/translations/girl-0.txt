@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:boy;girl
+english
+translation:(a) girl;the girl;girls;the girls
+grammar:Feminine
+german
+translation:(ein) Mädchen;das Mädchen;Mädchen;die Mädchen
+grammar:Neuter
+new-norwegian
+translation:(ei) jente;jenta;jenter;jentene
+grammar:Feminine
+norwegian
+translation:(ei) jente;jenta;jenter;jentene
+grammar:Feminine
+swedish
+translation:(en) flicka;flickan;flickor;flickorna
+grammar:Common

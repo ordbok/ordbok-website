@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:man;woman
+english
+translation:(a) man;the man;men;the men
+grammar:Masculine
+german
+translation:(ein) Mann;der Mann;Männer;die Männer
+grammar:Masculine
+new-norwegian
+translation:(ein) mann;mannen;menn;mennene
+grammar:Masculine
+norwegian
+translation:(en) mann;mannen;menn;mennene
+grammar:Masculine
+swedish
+translation:(en) man;mannen;män;männen
+grammar:Common

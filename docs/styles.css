@@ -4,7 +4,9 @@ html {
 }
 
 body {
+    background-attachment: fixed;
     background-image: linear-gradient(#FFF, #CCC);
+    background-repeat: no-repeat;
     font-family: sans-serif;
 }
 
@@ -50,6 +52,7 @@ header h1 {
     border-spacing: 1px;
     border-width: 0;
     font-size: 1em;
+    margin: 0.5em;
     white-space: nowrap;
 }
 

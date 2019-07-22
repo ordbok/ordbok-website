@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Third Person
+relation:someone;something
+english
+translation:-;-;something;some
+german
+translation:-;-;etwas;einiges
+new-norwegian
+translation:-;-;noko;nokre
+norwegian
+translation:-;-;noe;noen
+swedish
+translation:-;-;något;några

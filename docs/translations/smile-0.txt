@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) smile;the smile;smiles;the smiles
+grammar:Neuter
+german
+translation:(ein) Lächeln;das Lächeln;Lächeln;die Lächeln
+grammar:Neuter
+new-norwegian
+translation:(eit) smil;smilet;smil;smila
+grammar:Neuter
+norwegian
+translation:(et) smil;smilet;smil;smilene
+grammar:Neuter
+swedish
+translation:(ett) leende;leendet;leenden;leendena
+grammar:Neuter

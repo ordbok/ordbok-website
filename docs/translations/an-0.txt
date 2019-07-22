@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Indefinite
+english
+translation:an;an;an;several
+german
+translation:eine;ein;ein;mehrere
+new-norwegian
+translation:ei;ein;eit;fleire
+norwegian
+translation:ei;en;et;flere
+swedish
+translation:en;en;ett;flera

@@ -1,0 +1,13 @@
+meta
+translation:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:crazy;crazy;crazy;crazy;crazy;crazy;crazy;crazy;crazy;crazy;crazy;crazy
+german
+translation:verrückt;verrückt;verrückt;verrückt;verrückte;verrückter;verrücktes;verrückte;verrückte;verrückte;verrückte;verrückten
+new-norwegian
+translation:galen;galen;galent;galne;galen;galen;gale;galne;galne;galne;galne;galne
+norwegian
+translation:gal;gal;galt;gale;gal;gal;galt;gale;gale;gale;gale;gale
+swedish
+translation:galen;galen;galet;galna;galen;galen;galet;galna;galna;galne;galna;galna

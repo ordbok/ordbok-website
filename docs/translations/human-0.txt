@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) human;the human;humans;the humans
+grammar:Neuter
+german
+translation:(ein) Mensch;der Mensch;Menschen;die Menschen
+grammar:Masculine
+new-norwegian
+translation:(eit) menneske;mennesket;menneske;menneska
+grammar:Neuter
+norwegian
+translation:(et) menneske;mennesket;menneske;menneskene
+grammar:Neuter
+swedish
+translation:(en) människa;människan;människor;människorna
+grammar:Common

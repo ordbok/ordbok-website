@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:to smile;to smile;to smile;to smile;to smile;to smile
+german
+translation:zu lächeln;zu lächeln;zu lächeln;zu lächeln;zu lächeln;zu lächeln
+new-norwegian
+translation:å smila;å smila;å smila;å smila;å smila;å smila
+norwegian
+translation:å smile;å smile;å smile;å smile;å smile;å smile
+swedish
+translation:att le;att le;att le;att le;att le;att le

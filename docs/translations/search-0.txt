@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) search;the search;searches;the searches
+grammar:Neuter
+german
+translation:(eine) Suche;die Suche;Suchen;die Suchen
+grammar:Feminine
+new-norwegian
+translation:(eit) søk;søket;søk;søka
+grammar:Neuter
+norwegian
+translation:(et) søk;søket;søk;søkene
+grammar:Neuter
+swedish
+translation:(en) sökning;sökningen;sökningar;sökningarna
+grammar:Common
