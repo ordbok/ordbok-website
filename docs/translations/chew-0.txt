@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:to chew;to chew;to chew;to chew;to chew;to chew
+german
+translation:zu kauen;zu kauen;zu kauen;zu kauen;zu kauen;zu kauen
+new-norwegian
+translation:å tygga;å tygga;å tygga;å tygga;å tygga;å tygga
+norwegian
+translation:å tygge;å tygge;å tygge;å tygge;å tygge;å tygge
+swedish
+translation:att tugga;att tugga;att tugga;att tugga;att tugga;att tugga

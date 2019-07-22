@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) pole;the pole;poles;the poles
+grammar:Neuter
+german
+translation:(ein) Pfahl;der Pfahl;Pfähle;die Pfähle
+grammar:Masculine
+new-norwegian
+translation:(ein) påle;pålen;pålar;pålane
+grammar:Masculine
+norwegian
+translation:(en) påle;pålen;påler;pålene
+grammar:Masculine
+swedish
+translation:(en) påle;pålen;pålar;pålarna
+grammar:Common

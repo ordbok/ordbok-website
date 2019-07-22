@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) plank;the plank;planks;the planks
+grammar:Neuter
+german
+translation:(eine) Bohle;die Bohle;Bohlen;die Bohlen
+grammar:Feminine
+new-norwegian
+translation:(ein) planke;planken;plankar;plankane
+grammar:Masculine
+norwegian
+translation:(en) planke;planken;planker;plankene
+grammar:Masculine
+swedish
+translation:(en) planka;plankan;plankor;plankorna
+grammar:Common

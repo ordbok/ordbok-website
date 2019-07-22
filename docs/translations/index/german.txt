@@ -1,6 +1,7 @@
 a:0
 adjective:0
 an:0
+and:0
 bad:0
 bathroom:0
 book:0
@@ -8,6 +9,7 @@ boy:0
 car:0
 cat:0
 character:0
+chew:1
 child:0
 contributor:0
 cool:1
@@ -22,6 +24,7 @@ earthquake:0
 english:1
 englishman:0
 englishwoman:0
+fence:0
 fish-ball:0
 fish:0
 flour:0
@@ -57,8 +60,9 @@ most:0
 much:0
 murderer:0
 my:0
+nail:0
 new-norwegian:0
-no:0
+no:1
 norwegian:1
 not:0
 noun:0
@@ -66,7 +70,9 @@ oil:0
 only:0
 or:0
 our:0
+plank:0
 plant:0
+pole:0
 potbelly:0
 quake:1
 red:0

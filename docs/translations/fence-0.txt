@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) fence;the fence;fences;the fences
+grammar:Neuter
+german
+translation:(ein) Zaun;der Zaun;Zäune;die Zäune
+grammar:Masculine
+new-norwegian
+translation:(eit) gjerde;gjerdet;gjerde;gjerda
+grammar:Neuter
+norwegian
+translation:(et) gjerde;gjerdet;gjerder;gjerdene
+grammar:Neuter
+swedish
+translation:(ett) stängsel;stängslet;stängsel;stängslen
+grammar:Neuter

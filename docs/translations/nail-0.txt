@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) nail;the nail;nails;the nails
+grammar:Neuter
+german
+translation:(ein) Nagel;der Nagel;Nägel;die Nägel
+grammar:Masculine
+new-norwegian
+translation:(ein) spikar;spikaren;spikrar;spikrane
+grammar:Masculine
+norwegian
+translation:(en) spiker;spikeren;spikrer;spikrene
+grammar:Masculine
+swedish
+translation:(en) spik;spiken;spikar;spikarna
+grammar:Common

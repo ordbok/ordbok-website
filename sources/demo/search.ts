@@ -198,7 +198,7 @@ function searchIndex (query: string): void {
 
     const searchKey = Utilities.getKey(query);
 
-    if (translations.hasOpenRequests()) {
+    if (translations.hasOpenRequest()) {
         return;
     }
 

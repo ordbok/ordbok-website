@@ -1,0 +1,13 @@
+meta
+translation:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Indefinite
+english
+translation:no;no;no;no
+german
+translation:keine;kein;kein;keine
+new-norwegian
+translation:ingen;inga;inkje;ingen
+norwegian
+translation:ingen;ingen;intet;ingen
+swedish
+translation:ingen;ingen;inget;inga
