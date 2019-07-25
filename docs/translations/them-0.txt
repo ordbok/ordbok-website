@@ -1,7 +1,7 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Third Person
-relation:me;you;him;her;it;us;them
+relation:me;you;her;him;it;us;you;them
 english
 translation:them;them;-;them
 german
@@ -11,4 +11,4 @@ translation:dei;dei;-;dei
 norwegian
 translation:den;den;-;dem
 swedish
-translation:de;de;-;de
+translation:henom;henom;-;dem

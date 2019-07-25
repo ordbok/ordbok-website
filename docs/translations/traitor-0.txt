@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) traitor;the traitor;traitors;the traitors
+grammar:Common
+german
+translation:(ein) Verräter;der Verräter;Verräter;die Verräter
+grammar:Masculine
+new-norwegian
+translation:(ein) svikar;svikaren;svikarar;svikarane
+grammar:Masculine
+norwegian
+translation:(en) forræder;forræderen;forrædere;forræderne
+grammar:Masculine
+swedish
+translation:(en) förrädare;förrädaren;förrädare;förrädarna
+grammar:Common

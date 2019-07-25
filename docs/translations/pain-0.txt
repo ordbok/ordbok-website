@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) pain;the pain;pains;the pains
+grammar:Neuter
+german
+translation:(ein) Schmerz;der Schmerz;Schmerzen;die Schmerzen
+grammar:Masculine
+new-norwegian
+translation:(ei) smerte;smerta;smerter;smertene
+grammar:Feminine
+norwegian
+translation:(en) smerte;smerten;smerter;smertene
+grammar:Masculine
+swedish
+translation:(en) smärta;smärtan;smärtor;smärtorna
+grammar:Common

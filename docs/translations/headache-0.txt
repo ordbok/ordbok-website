@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) headache;the headache;headaches;the headaches
+grammar:Neuter
+german
+translation:(ein) Kopfschmerz;der Kopfschmerz;Kopfschmerzen;die Kopfschmerzen
+grammar:Masculine
+new-norwegian
+translation:(ei) hovudpine;hovudpina;hovudpiner;hovudpinene
+grammar:Feminine
+norwegian
+translation:(en) hodepine;hodepinen;hodepiner;hodepinene
+grammar:Masculine
+swedish
+translation:(en) huvudvärk;huvudvärken;huvudvärkar;huvudvärkarna
+grammar:Common

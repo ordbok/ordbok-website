@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:simple;simple;simple;simple;simple;simple;simple;simple;simple;simple;simple;simple
+german
+translation:einfach;einfach;einfach;einfach;einfache;einfacher;einfaches;einfache;einfache;einfache;einfache;einfachen
+new-norwegian
+translation:enkel;enkel;enkelt;enkle;enkel;enkel;enkelt;enkle;enkle;enkle;enkle;enkle
+norwegian
+translation:enkel;enkel;enkelt;enkle;enkel;enkel;enkelt;enkle;enkle;enkle;enkle;enkle
+swedish
+translation:enkel;enkel;enkelt;enkla;enkel;enkel;enkelt;enkla;enkla;enkle;enkla;enkla

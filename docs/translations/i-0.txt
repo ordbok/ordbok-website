@@ -1,7 +1,7 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;First Person;Singular
-relation:i;you;he;she;it;we;we together;they
+relation:i;you;she;he;it;we;we together;you;they
 english
 translation:i;i;i;-
 german

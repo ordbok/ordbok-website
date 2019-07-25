@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:spring, summer, autumn, winter
+english
+translation:(a) spring;the spring;springs;the springs
+grammar:Neuter
+german
+translation:(ein) Frühling;der Frühling;Frühlinge;die Frühlinge
+grammar:Masculine
+new-norwegian
+translation:(ein) vår;våren;vårar;vårane
+grammar:Masculine
+norwegian
+translation:(en) vår;våren;vårer;vårene
+grammar:Masculine
+swedish
+translation:(en) vår;våren;vårar;vårarna
+grammar:Common

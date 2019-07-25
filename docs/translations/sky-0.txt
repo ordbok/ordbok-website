@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) sky;the sky;skies;the skies
+grammar:Neuter
+german
+translation:(ein) Himmel;der Himmel;Himmel;die Himmel
+grammar:Masculine
+new-norwegian
+translation:(ein) himmel;himmelen;himlar;himlane
+grammar:Masculine
+norwegian
+translation:(en) himmel;himmelen;himler;himlene
+grammar:Masculine
+swedish
+translation:(en) himmel | himlen | himlar | himlarna
+grammar:Common

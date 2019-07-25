@@ -1,14 +1,14 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Pronoun;First Person;Plural
+grammar:Pronoun;First Person;Singular
 relation:me;you;her;him;it;us;you;them
 english
-translation:-;-;-;us
+translation:me;me;me;-
 german
-translation:-;-;-;uns
+translation:mir;mir;mir;-
 new-norwegian
-translation:-;-;-;oss
+translation:meg;meg;meg;-
 norwegian
-translation:-;-;-;oss
+translation:meg;meg;meg;-
 swedish
-translation:-;-;-;oss
+translation:mig;mig;mig;-

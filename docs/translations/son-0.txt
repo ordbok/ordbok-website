@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) son;the son;sons;the sons
+grammar:Masculine
+german
+translation:(ein) Sohn;der Sohn;Söhne;die Söhne
+grammar:Masculine
+new-norwegian
+translation:(ein) son;sonen;søner;sønene
+grammar:Masculine
+norwegian
+translation:(en) sønn;sønnen;sønner;sønnene
+grammar:Masculine
+swedish
+translation:(en) son;sonen;söner;sönerna
+grammar:Common

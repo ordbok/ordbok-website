@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:jacket;leather jacket
+english
+translation:(a) jacket;the jacket;jackets;the jackets
+grammar:Neuter
+german
+translation:(eine) Jacke;die Jacke;Jacken;die Jacken
+grammar:Feminine
+new-norwegian
+translation:(ei) jakke;jakka;jakker;jakkene
+grammar:Feminine
+norwegian
+translation:(ei) jakke;jakka;jakker;jakkene
+grammar:Feminine
+swedish
+translation:(en) jacka;jackan;jackor;jackorna
+grammar:Common

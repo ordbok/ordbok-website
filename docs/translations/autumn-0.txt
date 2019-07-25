@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:spring, summer, autumn, winter
+english
+translation:(a) autumn;the autumn;autumns;the autumns
+grammar:Neuter
+german
+translation:(ein) Herbst;der Herbst;Herbste;die Herbste
+grammar:Masculine
+new-norwegian
+translation:(ein) haust;hausten;haustar;haustane
+grammar:Masculine
+norwegian
+translation:(en) høst;høsten;høster;høstene
+grammar:Masculine
+swedish
+translation:(en) höst;hösten;höstar;höstarna
+grammar:Common

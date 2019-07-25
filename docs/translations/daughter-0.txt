@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) daughter;the daughter;daughters;the daughters
+grammar:Feminine
+german
+translation:(eine) Tochter;die Tochter;Töchter;die Töchter
+grammar:Feminine
+new-norwegian
+translation:(ei) dotter;dottera;døtre;døtrene
+grammar:Feminine
+norwegian
+translation:(ei) datter;dattera;døtre;døtrene
+grammar:Feminine
+swedish
+translation:(en) dotter;dottern;döttrar;döttrarna
+grammar:Common

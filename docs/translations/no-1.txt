@@ -1,5 +1,5 @@
 meta
-translation:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Determiner;Indefinite
 english
 translation:no;no;no;no

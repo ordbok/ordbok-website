@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:spring, summer, autumn, winter
+english
+translation:(a) summer;the summer;summer;the summer
+grammar:Neuter
+german
+translation:(ein) Sommer;der Sommer;Sommer;die Sommer
+grammar:Masculine
+new-norwegian
+translation:(ein) sommar;sommaren;somrar;somrane
+grammar:Masculine
+norwegian
+translation:(en) sommer;sommeren;somre;somrene
+grammar:Masculine
+swedish
+translation:(en) sommar;sommaren;somrar;somrarna
+grammar:Common
