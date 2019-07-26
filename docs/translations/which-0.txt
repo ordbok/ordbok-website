@@ -1,13 +1,13 @@
 meta
-structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Feminine;Plural , Masculine;Plural, Neuter
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Indefinite
 english
-translation:which;which;which;which;which;which
+translation:which;which;which;which
 german
-translation:welche;welcher;welches;welche;welche;welche
+translation:welche;welcher;welches;welche
 new-norwegian
-translation:kva for ei;kva for ein;kvar for eit;kvar for;kvar for;kva for
+translation:kva for ei;kva for ein;kvar for eit;kva for
 norwegian
-translation:hvilken;hvilken;hvilket;hvilke;hvilke;hvilke
+translation:hvilken;hvilken;hvilket;hvilke
 swedish
-translation:vilken;vilken;vilket;vilka;vilka;vilka
+translation:vilken;vilken;vilket;vilka

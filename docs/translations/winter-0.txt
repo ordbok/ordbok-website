@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:spring, summer, autumn, winter
+english
+translation:(a) winter;the winter;winters;the winters
+grammar:Neuter
+german
+translation:(ein) Winter;der Winter;Winter;die Winter
+grammar:Masculine
+new-norwegian
+translation:(ein) vinter;vinteren;vintrar;vintrane
+grammar:Masculine
+norwegian
+translation:(en) vinter;vinteren;vintrer;vintrene
+grammar:Masculine
+swedish
+translation:(en) vinter;vintern;vintrar;vintrarna
+grammar:Common

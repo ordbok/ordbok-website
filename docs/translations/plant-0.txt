@@ -5,7 +5,7 @@ english
 translation:(a) plant;the plant;plants;the plants
 grammar:Neuter
 german
-translation:(eine) Pflanze;(die) Pflanze;Pflanzen;die Pflanzen
+translation:(eine) Pflanze;die Pflanze;Pflanzen;die Pflanzen
 grammar:Feminine
 new-norwegian
 translation:(ein) plante;planten;plantar;plantane

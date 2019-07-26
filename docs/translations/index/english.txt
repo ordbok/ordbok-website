@@ -3,6 +3,7 @@ ache:0
 adjective:0
 an:0
 and:0
+animal:0
 arm:0
 autumn:0
 bad:0
@@ -14,6 +15,7 @@ cat:0
 character:0
 chew:1
 child:0
+cloud:0
 contributor:0
 cool:1
 crazy:0
@@ -58,6 +60,7 @@ jump:2
 knickknack:0
 language:0
 leather-jacket:0
+life:0
 like-that:0
 love:0
 made:0
@@ -120,6 +123,7 @@ verb:0
 we-together:0
 we:0
 which:0
+winter:0
 woman:0
 word:0
 world:0

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) cloud;the cloud;clouds;the clouds
+grammar:Neuter
+german
+translation:(eine) Wolke;die Wolke;Wolken;die Wolken
+grammar:Feminine
+new-norwegian
+translation:(ei) sky;skya;skyer;skyene
+grammar:Feminine
+norwegian
+translation:(en) sky;skyen;skyer;skyene
+grammar:Masculine
+swedish
+translation:(ett) moln;molnet;moln;molnen
+grammar:Neuter
