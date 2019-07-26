@@ -11,12 +11,11 @@ body {
 }
 
 header ,
-#search ,
-#results ,
+content ,
 footer {
     display: block;
     margin: 1em auto;
-    max-width: 720px;
+    max-width: 768px;
 }
 
 /* *
@@ -80,9 +79,20 @@ header h1 {
  *
  * */
 
-footer h6 {
+footer {
     color: #666;
     font-size: 0.75em;
-    margin: 0;
     text-align: center;
+}
+
+footer>* {
+    border-top: 1px solid #DDD;
+    display: block;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+footer h6 {
+    font-size: inherit;
 }
