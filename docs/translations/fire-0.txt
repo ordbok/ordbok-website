@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) fire;the fire;fires;the fires
+grammar:Neuter
+german
+translation:(ein) Feuer;das Feuer;Feuer;die Feuer
+grammar:Neuter
+new-norwegian
+translation:(ein) eld;elden;eldar;eldane
+grammar:Masculine
+norwegian
+translation:(en) ild;ilden;ilder;ildene
+grammar:Masculine
+swedish
+translation:(en) eld;elden;eldar;eldarna
+grammar:Common

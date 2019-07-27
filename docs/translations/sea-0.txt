@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) sea;the sea;seas;the seas
+grammar:Neuter
+german
+translation:(ein) Meer;das Meer;Meere;die Meere
+grammar:Neuter
+new-norwegian
+translation:(eit) hav;havet;hav;hava
+grammar:Neuter
+norwegian
+translation:(et) hav;havet;hav;havene
+grammar:Neuter
+swedish
+translation:(ett) hav;havet;hav;haven
+grammar:Neuter

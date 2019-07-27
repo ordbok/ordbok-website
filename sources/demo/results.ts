@@ -3,6 +3,7 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
+import * as Config from './config';
 import {
     IDictionaryEntry,
     Utilities
@@ -10,7 +11,6 @@ import {
 import {
     Index
 } from '@ordbok/index-plugin';
-import * as Config from './config';
 
 /* *
  *
@@ -77,7 +77,7 @@ function initLanguages (): void {
 
     languages = {};
 
-    files = new Index(Config.BASE_URL);
+    files = new Index(Config.TRANSLATION_SUBFOLDER);
 
     files
         .loadHeadlines()
@@ -105,7 +105,11 @@ function initLanguages (): void {
  * @param searchResult
  *        Search result
  */
-function show (searchResult: IDictionaryEntry): void {
+function show (searchResult: (IDictionaryEntry|undefined)): void {
+
+    if (!searchResult) {
+        return;
+    }
 
     const table = document.createElement('TABLE') as HTMLTableElement;
 

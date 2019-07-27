@@ -31,6 +31,7 @@ english:1
 englishman:0
 englishwoman:0
 fence:0
+fire:0
 fish-ball:0
 fish:0
 flour:0
@@ -96,6 +97,7 @@ red:0
 redder:0
 reddest:0
 romantic:0
+sea:0
 search:2
 she:0
 simple:0
@@ -125,6 +127,7 @@ water:0
 we-together:0
 we:0
 which:0
+wind:0
 winter:0
 woman:0
 word:0

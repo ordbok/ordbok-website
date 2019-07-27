@@ -16,7 +16,7 @@ import {
 /**
  * Base URL
  */
-export const BASE_URL = 'translations/';
+export const TRANSLATION_SUBFOLDER = 'translations/';
 
 /**
  * Meta key

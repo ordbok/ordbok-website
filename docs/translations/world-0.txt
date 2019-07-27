@@ -15,4 +15,4 @@ translation:(en) verden;verdenen;verdener;verdenene
 grammar:Masculine
 swedish
 translation:(en) värld;världen;världar;världarna
-grammar:Masculine
+grammar:Common

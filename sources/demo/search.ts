@@ -3,6 +3,8 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
+import * as Config from './config';
+import * as Results from './results';
 import {
     Dictionary,
     Utilities
@@ -11,8 +13,6 @@ import {
     IFileIndex,
     Index
 } from '@ordbok/index-plugin';
-import * as Config from './config';
-import * as Results from './results';
 
 /* *
  *
@@ -39,6 +39,67 @@ let files: Index;
  * Translation dictionary
  */
 let translations: Dictionary;
+
+/* *
+ *
+ *  Events
+ *
+ * */
+
+/**
+ * Handles button interaction.
+ *
+ * @param evt
+ *        Event.
+ */
+function onButton (evt: Event): void {
+
+    const element = evt.target;
+
+    if (!(element instanceof HTMLButtonElement) ||
+        !(element.previousSibling instanceof HTMLInputElement)
+    ) {
+        return;
+    }
+
+    search(element.previousSibling.value);
+}
+
+/**
+ * Handles input interaction.
+ *
+ * @param evt
+ *        Event.
+ */
+function onInput (evt: Event): void {
+
+    const element = evt.target;
+
+    if (!(element instanceof HTMLInputElement)) {
+        return;
+    }
+
+    if (!element.value) {
+        Results.clear();
+    }
+}
+
+/**
+ * Handles keyboard event.
+ *
+ * @param evt
+ *        Keyboard event.
+ */
+function onKeyUp (evt: KeyboardEvent): void {
+
+    const element = evt.target;
+
+    if (!(element instanceof HTMLInputElement)) {
+        return;
+    }
+
+    search(element.value);
+}
 
 /* *
  *
@@ -84,7 +145,7 @@ function initContainerButton (): void {
         throw new Error('Search button not found!');
     }
 
-    element.addEventListener('click', onButtonClick)
+    element.addEventListener('click', onButton)
 }
 
 /**
@@ -98,7 +159,8 @@ function initContainerInput (): void {
         throw new Error('Search input not found!');
     }
 
-    element.addEventListener('change', onInputChange);
+    element.addEventListener('change', onInput);
+    element.addEventListener('click', onInput);
     element.addEventListener('keyup', onKeyUp);
 }
 
@@ -107,7 +169,7 @@ function initContainerInput (): void {
  */
 function initFiles (): void {
 
-    files = new Index(Config.BASE_URL);
+    files = new Index(Config.TRANSLATION_SUBFOLDER);
 }
 
 /**
@@ -115,62 +177,7 @@ function initFiles (): void {
  */
 function initTranslations (): void {
 
-    translations = new Dictionary(Config.BASE_URL);
-}
-
-/**
- * Handles button event.
- *
- * @param mouseEvent
- *        Mouse event
- */
-function onButtonClick (mouseEvent: MouseEvent): void {
-
-    const element = mouseEvent.target;
-
-    if (!(element instanceof HTMLButtonElement) ||
-        !(element.previousSibling instanceof HTMLInputElement)
-    ) {
-        return;
-    }
-
-    search(element.previousSibling.value);
-}
-
-/**
- * Handles input event.
- *
- * @param inputEvent
- *        Input event
- */
-function onInputChange (inputEvent: Event): void {
-
-    const element = inputEvent.target;
-
-    if (!(element instanceof HTMLInputElement)) {
-        return;
-    }
-
-    if (!element.value) {
-        Results.clear();
-    }
-}
-
-/**
- * Handles keyboard event.
- *
- * @param keyboardEvent
- *        Keyboard event
- */
-function onKeyUp (keyboardEvent: KeyboardEvent): void {
-
-    const element = keyboardEvent.target;
-
-    if (!(element instanceof HTMLInputElement)) {
-        return;
-    }
-
-    search(element.value);
+    translations = new Dictionary(Config.TRANSLATION_SUBFOLDER);
 }
 
 /**
