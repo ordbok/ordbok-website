@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) water;the water;waters;the waters
+grammar:Neuter
+german
+translation:(ein) Wasser;das Wasser;Wasser;die Wasser
+grammar:Neuter
+new-norwegian
+translation:(eit) vatn;vatnet;vatn;vatna
+grammar:Neuter
+norwegian
+translation:(et) vann;vannet;vann;vannene
+grammar:Neuter
+swedish
+translation:(ett) vatten;vattnet;vatten;vattnen
+grammar:Neuter

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) recreational vehicle;the recreational vehicle;recreational vehicles;the recreational vehicles
+grammar:Neuter
+german
+translation:(ein) Wohnmobil;das Wohnmobil;Wohnmobile;die Wohnmobile
+grammar:Neuter
+new-norwegian
+translation:(ein) bubil;bubilen;bubilar;bubilane
+grammar:Masculine
+norwegian
+translation:(en) bobil;bobilen;bobiler;bobilene
+grammar:Masculine
+swedish
+translation:(en) husbil;husbilen;husbilar;husbilarna
+grammar:Common

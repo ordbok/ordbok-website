@@ -91,6 +91,7 @@ plant:0
 pole:0
 potbelly:0
 quake:1
+recreational-vehicle:0
 red:0
 redder:0
 reddest:0
@@ -120,6 +121,7 @@ translation:0
 unreal:0
 us:0
 verb:0
+water:0
 we-together:0
 we:0
 which:0
