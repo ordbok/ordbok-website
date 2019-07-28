@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:naive;naive;naive;naive;naive;naive;naive;naive;naive;naive;naive;naive
+german
+translation:naiv;naiv;naiv;naiv;naive;naiver;naives;naive;naive;naive;naive;naiven
+new-norwegian
+translation:naiv;naiv;naivt;naive;naiv;naiv;naivt;naive;naive;naive;naive;naive
+norwegian
+translation:naiv;naiv;naivt;naive;naiv;naiv;naivt;naive;naive;naive;naive;naive
+swedish
+translation:naiv;naiv;naivt;naiva;naiv;naiv;naivt;naiva;naiva;naive;naiva;naiva

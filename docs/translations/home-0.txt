@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) home;the home;homes;the homes
+grammar:Neuter
+german
+translation:(ein) Zuhause;das Zuhause;Zuhause;die Zuhause
+grammar:Neuter
+new-norwegian
+translation:(eit) heim;heimet;heim;heima
+grammar:Neuter
+norwegian
+translation:(et) hjem;hjemet;hjem;hjemene
+grammar:Neuter
+swedish
+translation:(ett) hem;hemmet;hem;hemmen
+grammar:Neuter

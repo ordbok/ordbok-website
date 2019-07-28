@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) foundation;the foundation;foundations;the foundations
+grammar:Neuter
+german
+translation:(ein) Fundament;das Fundament;Fundamente;die Fundamente
+grammar:Neuter
+new-norwegian
+translation:(eit) fundament;fundamentet;fundament;fundamenta
+grammar:Neuter
+norwegian
+translation:(et) fundament;fundamentet;fundament;fundamentene
+grammar:Neuter
+swedish
+translation:(en) grund;grunden;grunder;grunderna
+grammar:Common

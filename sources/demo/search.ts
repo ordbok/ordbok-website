@@ -162,6 +162,7 @@ function initContainerInput (): void {
     element.addEventListener('change', onInput);
     element.addEventListener('click', onInput);
     element.addEventListener('keyup', onKeyUp);
+    element.focus();
 }
 
 /**

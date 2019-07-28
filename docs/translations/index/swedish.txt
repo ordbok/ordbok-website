@@ -36,6 +36,7 @@ fish-ball:0
 fish:0
 flour:0
 flower:0
+foundation:0
 german:3
 giant:0
 girl:0
@@ -50,7 +51,9 @@ hello:0
 her:1
 him:0
 his:0
+home:0
 homework:0
+house:0
 human:0
 i:0
 idiot:0
@@ -68,6 +71,7 @@ made:0
 make:1
 man:0
 marmelade:1
+marry:1
 me:0
 moon:0
 more:0
@@ -77,6 +81,7 @@ much:0
 murderer:0
 my:0
 nail:0
+naive:0
 new-norwegian:0
 no:1
 norwegian:1
@@ -87,6 +92,7 @@ only:0
 or:0
 our:0
 pain:0
+pantry:0
 plank:0
 plant:0
 pole:0
@@ -96,6 +102,8 @@ recreational-vehicle:0
 red:0
 redder:0
 reddest:0
+river:0
+road:0
 romantic:0
 sea:0
 search:2
@@ -110,6 +118,7 @@ something:0
 son:0
 spring:0
 stray:0
+street:0
 summer:0
 sun:0
 swedish:1
@@ -124,6 +133,7 @@ unreal:0
 us:0
 verb:0
 water:0
+way:0
 we-together:0
 we:0
 which:0

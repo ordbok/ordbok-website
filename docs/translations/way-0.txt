@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) way;the way;ways;the ways
+grammar:Neuter
+german
+translation:(ein) Weg;der Weg;Wege;die Wege
+grammar:Masculine
+new-norwegian
+translation:(ein) veg;vegen;vegar;vegane
+grammar:Masculine
+norwegian
+translation:(en) vei;veien;veier;veiene
+grammar:Masculine
+swedish
+translation:(en) väg;vägen;vägar;vägarna
+grammar:Common

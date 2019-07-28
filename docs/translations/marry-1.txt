@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:make;made
+english
+translation:marry;marry;marrys;marry;marry;marry
+german
+translation:heirate;heiratest;heiratet;heiraten;heiratet;heiraten
+new-norwegian
+translation:giftar;giftar;giftar;giftar;giftar;giftar
+norwegian
+translation:gifter;gifter;gifter;gifter;gifter;gifter
+swedish
+translation:gifter;gifter;gifter;gifter;gifter;gifter
