@@ -20,6 +20,7 @@ contributor:0
 cool:1
 crazy:0
 crime-novel:0
+dalmatian:0
 daughter:0
 dictionary:0
 did:0
@@ -65,6 +66,7 @@ knickknack:0
 language:0
 leather-jacket:0
 life:0
+lightning:0
 like-that:0
 love:0
 made:0
@@ -83,6 +85,7 @@ my:0
 nail:0
 naive:0
 new-norwegian:0
+newspaper:0
 no:1
 norwegian:1
 not:0
@@ -93,9 +96,11 @@ or:0
 our:0
 pain:0
 pantry:0
+papillon:0
 plank:0
 plant:0
 pole:0
+poodle:0
 potbelly:0
 quake:1
 recreational-vehicle:0
@@ -126,6 +131,7 @@ their:1
 them:0
 they:1
 thing:0
+thunder:0
 traitor:0
 translate:1
 translation:0

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) poodle;the poodle;poodles;the poodles
+grammar:Neuter
+german
+translation:(ein) Pudel;der Pudel;Pudel;die Pudel
+grammar:Masculine
+new-norwegian
+translation:(ein) puddel;puddelen;pudlar;pudlane
+grammar:Masculine
+norwegian
+translation:(en) puddel;puddelen;pudler;pudlene
+grammar:Masculine
+swedish
+translation:(en) pudel;pudeln;pudlar;pudlarna
+grammar:Common

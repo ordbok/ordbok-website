@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) papillon;the papillon;papillons;the papillons
+grammar:Neuter
+german
+translation:(ein) Zwergspaniel;der Zwergspaniel;Zwergspaniel;die Zwergspaniel
+grammar:Masculine
+new-norwegian
+translation:(ein) dvergspaniel;dvergspanielen;dvergspanielar;dvergspanielane
+grammar:Masculine
+norwegian
+translation:(en) dvergspaniel;dvergspanielen;dvergspanieler;dvergspanielene
+grammar:Masculine
+swedish
+translation:(en) fjärilshund;fjärilshunden;fjärilshundar;fjärilshundarna
+grammar:Common
