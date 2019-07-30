@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:avalanche, landslide, rockslide, snowslide
+english
+translation:(a) avalanche;the avalanche;avalanches;the avalanches
+grammar:Neuter
+german
+translation:(eine) Lawine;die Lawine;Lawinen;die Lawinen
+grammar:Feminine
+new-norwegian
+translation:(eit) ras;raset;ras;rasa
+grammar:Neuter
+norwegian
+translation:(et) skred;skredet;skred;skredene
+grammar:Neuter
+swedish
+translation:(en) lavin;lavinen;laviner;lavinerna
+grammar:Common

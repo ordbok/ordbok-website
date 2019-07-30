@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:avalanche, landslide, rockslide, snowslide
+english
+translation:(a) rockslide;the rockslide;rockslides;the rockslides
+grammar:Neuter
+german
+translation:(eine) Steinlawine;die Steinlawine;Steinlawinen;die Steinlawinen
+grammar:Feminine
+new-norwegian
+translation:(eit) steinras;steinraset;steinras;steinrasa
+grammar:Neuter
+norwegian
+translation:(et) steinskred;steinskredet;steinskred;steinskredene
+grammar:Neuter
+swedish
+translation:(en) stenlavin;stenlavinen;stenlaviner;stenlavinerna
+grammar:Common

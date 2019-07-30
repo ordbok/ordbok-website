@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:avalanche, landslide, rockslide, snowslide
+english
+translation:(a) snowslide;the snowslide;snowslides;the snowslides
+grammar:Neuter
+german
+translation:(eine) Schneelawine;die Schneelawine;Schneelawinen;die Schneelawinen
+grammar:Feminine
+new-norwegian
+translation:(eit) snøras;snøraset;snøras;snørasa
+grammar:Neuter
+norwegian
+translation:(et) snøskred;snøskredet;snøskred;snøskredene
+grammar:Neuter
+swedish
+translation:(ett) snöskred;snöskredet;snöskred;snöskreden
+grammar:Neuter
