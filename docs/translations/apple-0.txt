@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) apple;the apple;apples;the apples
+grammar:Neuter
+german
+translation:(ein) Apfel;der Apfel;Äpfel;die Äpfel
+grammar:Masculine
+new-norwegian
+translation:(eit) eple;eplet;eple;epla
+grammar:Neuter
+norwegian
+translation:(et) eple;eplet;epler;eplene
+grammar:Neuter
+swedish
+translation:(ett) äpple;äpplet;äpplen;äpplena
+grammar:Neuter

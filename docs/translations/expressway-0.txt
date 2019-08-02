@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:expressway;freeway
+english
+translation:(a) expressway;the expressway;expressways;the expressways
+grammar:Neuter
+german
+translation:(eine) Tangente;die Tangente;Tangenten;die Tangenten
+grammar:Feminine
+new-norwegian
+translation:(ein) motorveg;motorvegen;motorvegar;motorvegane
+grammar:Masculine
+norwegian
+translation:(en) motorvei;motorveien;motorveier;motorveiene
+grammar:Masculine
+swedish
+translation:(en) stadsmotorväg;stadsmotorvägen;stadsmotorvägar;stadsmotorvägarna
+grammar:Common

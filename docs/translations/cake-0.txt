@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) cake;the cake;cakes;the cakes
+grammar:Neuter
+german
+translation:(ein) Kuchen;der Kuchen;Kuchen;die Kuchen
+grammar:Masculine
+new-norwegian
+translation:(ei) kake;kaka;kaker;kakene
+grammar:Feminine
+norwegian
+translation:(en) kake;kaken;kaker;kakene
+grammar:Masculine
+swedish
+translation:(en) kaka;kakan;kakor;kakorna
+grammar:Common

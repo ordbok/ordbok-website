@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:waste;the waste;wastes;the wastes
+grammar:Neuter
+german
+translation:Abfall;der Abfall;Abfälle;die Abfälle
+grammar:Masculine
+new-norwegian
+translation:avfall;avfallet;avfall;avfalla
+grammar:Neuter
+norwegian
+translation:avfall;avfallet;avfall;avfallene
+grammar:Neuter
+swedish
+translation:avfall;avfallet;avfall;avfallen
+grammar:Neuter

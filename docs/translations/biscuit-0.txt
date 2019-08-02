@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:biscuit;christmas cookie;cookie
+english
+translation:(a) biscuit;the biscuit;biscuits;the biscuits
+grammar:Neuter
+german
+translation:(ein) Keks;der Keks;Kekse;die Kekse
+grammar:Masculine
+new-norwegian
+translation:(ein) kjeks;kjeksen;kjeksar;kjeksane
+grammar:Masculine
+norwegian
+translation:(en) kjeks;kjeksen;kjekser;kjeksene
+grammar:Masculine
+swedish
+translation:(ett) kex;kexet;kex;kexen
+grammar:Neuter

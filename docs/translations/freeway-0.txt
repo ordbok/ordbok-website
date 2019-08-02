@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:expressway;freeway
+english
+translation:(a) freeway;the freeway;freeways;the freeways
+grammar:Neuter
+german
+translation:(eine) Autobahn;die Autobahn;Autobahnen;die Autobahnen
+grammar:Feminine
+new-norwegian
+translation:(ein) motorveg;motorvegen;motorvegar;motorvegane
+grammar:Masculine
+norwegian
+translation:(en) motorvei;motorveien;motorveier;motorveiene
+grammar:Masculine
+swedish
+translation:(en) motorväg;motorvägen;motorvägar;motorvägarna
+grammar:Common

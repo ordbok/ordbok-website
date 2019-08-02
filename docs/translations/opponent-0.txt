@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) opponent;the opponent;opponents;the opponents
+grammar:Neuter
+german
+translation:(ein) Gegner;der Gegner;Gegner;die Gegner
+grammar:Masculine
+new-norwegian
+translation:(ein) motstandar;motstandaren;motstandarar;motstandarane
+grammar:Masculine
+norwegian
+translation:(en) motstander;motstanderen;motstandere;motstanderne
+grammar:Masculine
+swedish
+translation:(en) motståndare;motståndaren;motståndare;motståndarna
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:right;right;right;right;right;right;right;right;right;right;right;right
+german
+translation:rechts;rechts;rechts;rechts;rechte;rechter;rechtes;rechte;rechte;rechte;rechte;rechten
+new-norwegian
+translation:høgre;høgre;høgre;høgre;høgre;høgre;høgre;høgre;høgre;høgre;høgre;høgre
+norwegian
+translation:høyre;høyre;høyre;høyre;høyre;høyre;høyre;høyre;høyre;høyre;høyre;høyre
+swedish
+translation:höger;höger;höger;högra;höger;höger;höger;högra;högra;högre;högra;högra

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) dam;the dam;dams;the dams
+grammar:Neuter
+german
+translation:(ein) Staudamm;der Staudamm;Staudämme;die Staudämme
+grammar:Masculine
+new-norwegian
+translation:(ein) dam;dammen;dammar;dammane
+grammar:Masculine
+norwegian
+translation:(en) dam;dammen;dammer;dammene
+grammar:Masculine
+swedish
+translation:(en) damm;dammen;dammar;dammarna
+grammar:Common

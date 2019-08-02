@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) right;the right;rights;the rights
+grammar:Neuter
+german
+translation:(ein) Recht;das Recht;Rechte;die Rechte
+grammar:Neuter
+new-norwegian
+translation:(ein) rett;retten;rettar;rettane
+grammar:Masculine
+norwegian
+translation:(en) rett;retten;retter;rettene
+grammar:Masculine
+swedish
+translation:(en) rätt;rätten;rätter;rätterna
+grammar:Common

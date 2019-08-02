@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:biscuit;christmas cookie;cookie
+english
+translation:(a) christmas cookie;the christmas cookie;christmas cookies;the christmas cookies
+grammar:Neuter
+german
+translation:(ein) Plätzchen;das Plätzchen;Plätzchen;die Plätzchen
+grammar:Neuter
+new-norwegian
+translation:(ei) julekake;julekaka;julekaker;julekakene
+grammar:Feminine
+norwegian
+translation:(en) julekake;julekaken;julekaker;julekakene
+grammar:Masculine
+swedish
+translation:(en) småkaka;småkakan;småkakor;småkakorna
+grammar:Common

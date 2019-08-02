@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:left;left;left;left;left;left;left;left;left;left;left;left
+german
+translation:links;links;links;links;linke;linker;linkes;linke;linke;linke;linke;linken
+new-norwegian
+translation:venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre
+norwegian
+translation:venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre;venstre
+swedish
+translation:vänster;vänster;vänster;vänstra;vänster;vänster;vänster;vänstra;vänstra;vänstre;vänstra;vänstra
