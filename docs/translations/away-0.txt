@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common
+grammar:Adjective;Positive
+english
+translation:away;away;away;away
+german
+translation:weg;weg;weg;weg
+new-norwegian
+translation:vekk;vekk;vekk;vekk
+norwegian
+translation:borte;borte;borte;borte
+swedish
+translation:bort;bort;bort;bort

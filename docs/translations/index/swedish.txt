@@ -8,6 +8,7 @@ apple:0
 arm:0
 autumn:0
 avalanche:0
+away:0
 bad:0
 bathroom:0
 biscuit:0
@@ -33,6 +34,7 @@ dictionary:0
 did:0
 do:1
 dog:0
+doorbell:0
 earth:0
 earthquake:0
 english:1

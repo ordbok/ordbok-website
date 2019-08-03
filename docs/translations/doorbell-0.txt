@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) doorbell;the doorbell;doorbells;the doorbells
+grammar:Neuter
+german
+translation:(eine) Türklingel;die Türklingel;Türklingeln;die Türklingeln
+grammar:Feminine
+new-norwegian
+translation:(ei) dørklokke;dørklokka;dørklokker;dørklokkene
+grammar:Feminine
+norwegian
+translation:(ei) dørklokke;dørklokka;dørklokker;dørklokkene
+grammar:Feminine
+swedish
+translation:(en) dörrklocka;dörrklockan;dörrklockor;dörrklockorna
+grammar:Common
