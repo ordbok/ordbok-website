@@ -18,6 +18,7 @@ cake:0
 car:0
 cat:0
 character:0
+cheese:0
 chew:1
 child:0
 christmas-cookie:0
@@ -73,6 +74,7 @@ it:1
 its:0
 jacket:0
 jump:2
+kitty:0
 knickknack:0
 landslide:0
 language:0
@@ -116,6 +118,7 @@ plant:0
 pole:0
 poodle:0
 potbelly:0
+power:1
 quake:1
 recreational-vehicle:0
 red:0

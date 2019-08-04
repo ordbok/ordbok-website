@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) power;the power;powers;the powers
+grammar:Neuter
+german
+translation:(eine) Kraft;die Kraft;Kräfte;die Kräfte
+grammar:Feminine
+new-norwegian
+translation:(ei) kraft;krafta;krafter;kraftene
+grammar:Feminine
+norwegian
+translation:(en) kraft;kraften;krafter;kraftene
+grammar:Masculine
+swedish
+translation:(en) kraft;kraften;krafter;krafterna
+grammar:Common

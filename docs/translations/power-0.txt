@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) power;the power;powers;the powers
+grammar:Neuter
+german
+translation:(eine) Macht;die Macht;Mächte;die Mächte
+grammar:Feminine
+new-norwegian
+translation:(ei) makt;makta;makter;maktene
+grammar:Feminine
+norwegian
+translation:(en) makt;makten;makter;maktene
+grammar:Masculine
+swedish
+translation:(en) makt;makten;makter;makterna
+grammar:Common

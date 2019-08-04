@@ -3,17 +3,17 @@ structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Def
 grammar:Noun
 relation:cat;kitty
 english
-translation:(a) cat;the cat;cats;the cats
+translation:(a) kitty;the kitty;kitties;the kitties
 grammar:Neuter
 german
-translation:(eine) Katze;die Katze;Katzen;die Katzen
+translation:(eine) Mieze;die Mieze;Miezen;die Miezen
 grammar:Feminine
 new-norwegian
-translation:(ein) katt;katten;kattar;kattane
+translation:(ein) pus;pusen;pusar;pusene
 grammar:Masculine
 norwegian
-translation:(en) katt;katten;katter;kattene
+translation:(en) pus;pusen;puser;pusene
 grammar:Masculine
 swedish
-translation:(en) katt;katten;katter;katterna
+translation:(en) misse;missen;missar;missarna
 grammar:Common
