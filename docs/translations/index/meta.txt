@@ -15,8 +15,10 @@ biscuit:0
 book:0
 boy:0
 cake:0
+calf:0
 car:0
 cat:0
+cattle:0
 character:0
 cheese:0
 chew:1
@@ -26,6 +28,7 @@ cloud:0
 contributor:0
 cookie:0
 cool:1
+cow:0
 crazy:0
 crime-novel:0
 dalmatian:0
@@ -76,6 +79,7 @@ jacket:0
 jump:2
 kitty:0
 knickknack:0
+lamb:0
 landslide:0
 language:0
 leather-jacket:0
@@ -132,6 +136,7 @@ romantic:0
 sea:0
 search:2
 she:0
+sheep:0
 simple:0
 sky:0
 smile:2

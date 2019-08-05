@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:lamb;sheep
+english
+translation:(a) sheep;the sheep;sheeps;the sheeps
+grammar:Neuter
+german
+translation:(ein) Schaf;das Schaf;Schafe;die Schafe
+grammar:Neuter
+new-norwegian
+translation:(ein) sau;sauen;sauar;sauane
+grammar:Masculine
+norwegian
+translation:(en) sau;sauen;sauer;sauene
+grammar:Masculine
+swedish
+translation:(ett) får;fåret;får;fåren
+grammar:Neuter

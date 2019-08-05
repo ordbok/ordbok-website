@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:calf;cattle
+english
+translation:(a) cattle;the cattle;cattle;the cattle
+grammar:Neuter
+german
+translation:(ein) Rind;das Rind;Rinder;die Rinder
+grammar:Neuter
+new-norwegian
+translation:(eit) storfe;storfeet;storfe;storfea
+grammar:Neuter
+norwegian
+translation:(et) storfe;storfeet;storfe;storfeene
+grammar:Neuter
+swedish
+translation:(ett) nötkreatur;nötkreaturet;nötkreatur;nötkreaturen
+grammar:Neuter

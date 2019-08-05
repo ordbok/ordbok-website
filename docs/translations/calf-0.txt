@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:calf;cattle
+english
+translation:(a) calf;the calf;calfs;the calfs
+grammar:Neuter
+german
+translation:(ein) Kalb;das Kalb;Kälber;die Kälber
+grammar:Neuter
+new-norwegian
+translation:(ein) kalv;kalven;kalvar;kalvane
+grammar:Masculine
+norwegian
+translation:(en) kalv;kalven;kalver;kalvene
+grammar:Masculine
+swedish
+translation:(en) kalv;kalven;kalvar;kalvarna
+grammar:Common

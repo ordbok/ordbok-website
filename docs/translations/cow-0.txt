@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) cow;the cow;cows;the cows
+grammar:Neuter
+german
+translation:(eine) Kuh;die Kuh;Kühe;die Kühe
+grammar:Feminine
+new-norwegian
+translation:(ei) ku;kua;kyr;kyrne
+grammar:Feminine
+norwegian
+translation:(en) ku;kuen;kuer;kuene
+grammar:Masculine
+swedish
+translation:(en) ko;kon;kor;korna
+grammar:Common

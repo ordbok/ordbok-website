@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:lamb;sheep
+english
+translation:(a) lamb;the lamb;lambs;the lambs
+grammar:Neuter
+german
+translation:(ein) Lamm;das Lamm;Lämmer;die Lämmer
+grammar:Neuter
+new-norwegian
+translation:(eit) lam;lammet;lam;lamma
+grammar:Neuter
+norwegian
+translation:(et) lam;lammet;lam;lammene
+grammar:Neuter
+swedish
+translation:(ett) lamm;lammet;lamm;lammen
+grammar:Neuter
