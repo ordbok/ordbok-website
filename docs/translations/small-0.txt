@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:small;small;small;small;small;small;small;small;small;small;small;small
+german
+translation:klein;klein;klein;klein;kleine;kleiner;kleines;kleine;kleine;kleine;kleine;kleinen
+new-norwegian
+translation:lita;liten;lite;små;lita;liten;lite;små;vesle;vesle;vesle;vesle
+norwegian
+translation:liten;liten;lite;små;liten;liten;lite;små;lille;lille;lille;lille
+swedish
+translation:liten;liten;litet;små;liten;liten;litet;små;lilla;lille;lilla;små

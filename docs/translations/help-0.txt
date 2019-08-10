@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) help;the help;helps;the helps
+grammar:Neuter
+german
+translation:(eine) Hilfe;die Hilfe;Hilfen;die Hilfen
+grammar:Feminine
+new-norwegian
+translation:(ei) hjelp;hjelpa;hjelper;hjelpene
+grammar:Feminine
+norwegian
+translation:(ei) hjelp;hjelpa;hjelper;hjelpene
+grammar:Feminine
+swedish
+translation:(en) hjälp;hjälpen;hjälpar;hjälparna
+grammar:Common

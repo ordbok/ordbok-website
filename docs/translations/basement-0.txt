@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) basement;the basement;basements;the basements
+grammar:Neuter
+german
+translation:(ein) Keller;der Keller;Keller;die Keller
+grammar:Masculine
+new-norwegian
+translation:(ein) kjellar;kjellaren;kjellarar;kjellarane
+grammar:Masculine
+norwegian
+translation:(en) kjeller;kjelleren;kjellere;kjellerne
+grammar:Masculine
+swedish
+translation:(en) källare;källaren;källare;källarna
+grammar:Common

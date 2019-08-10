@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) iron;the iron;irons;the irons
+grammar:Neuter
+german
+translation:(ein) Eisen;das Eisen;Eisen;die Eisen
+grammar:Neuter
+new-norwegian
+translation:(eit) jarn;jarnet;jarn;jarna
+grammar:Neuter
+norwegian
+translation:(et) jern;jernet;jern;jernene
+grammar:Neuter
+swedish
+translation:(ett) järn;järnet;järn;järnen
+grammar:Neuter

@@ -1,0 +1,12 @@
+meta
+grammar:Phrase
+english
+translation:Thanks yourself.
+german
+translation:Danke, gleichfalls.
+new-norwegian
+translation:Sjølv takk.
+norwegian
+translation:Selv takk.
+swedish
+translation:Takk själv.

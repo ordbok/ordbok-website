@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) arson;the arson;arsons;the arsons
+grammar:Neuter
+german
+translation:(eine) Brandstiftung;die Brandstiftung;Brandstiftungen;die Brandstiftungen
+grammar:Feminine
+new-norwegian
+translation:(ein) brannstiftelse;brannstiftelsen;brannstiftelsar;brannstiftelsane
+grammar:Masculine
+norwegian
+translation:(en) brannstiftelse;brannstiftelsen;brannstiftelser;brannstiftelsene
+grammar:Masculine
+swedish
+translation:(en) mordbrand;mordbranden;mordbränder;mordbränderna
+grammar:Common

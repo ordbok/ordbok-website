@@ -1,15 +1,19 @@
 a:0
 ache:0
+actual:0
+actually:0
 adjective:0
 an:0
 and:0
 animal:0
 apple:0
 arm:0
+arson:0
 autumn:0
 avalanche:0
 away:0
 bad:0
+basement:0
 bathroom:0
 biscuit:0
 book:0
@@ -53,6 +57,7 @@ flour:0
 flower:0
 foundation:0
 freeway:0
+gang-violence:0
 german:3
 giant:0
 girl:0
@@ -64,6 +69,7 @@ he:0
 head:0
 headache:0
 hello:0
+help:2
 her:1
 him:0
 his:0
@@ -73,12 +79,14 @@ house:0
 human:0
 i:0
 idiot:0
+iron:0
 it:1
 its:0
 jacket:0
 jump:2
 kitty:0
 knickknack:0
+lake:0
 lamb:0
 landslide:0
 language:0
@@ -88,6 +96,7 @@ life:0
 lightning:0
 like-that:0
 love:0
+small:0
 made:0
 make:1
 man:0
@@ -152,6 +161,7 @@ street:0
 summer:0
 sun:0
 swedish:1
+thanks-yourself:0
 their:1
 them:0
 they:1

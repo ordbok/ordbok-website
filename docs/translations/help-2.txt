@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:help;help;helps;help;help;help
+german
+translation:helfe;hilfst;hilft;helfen;helft;helfen
+new-norwegian
+translation:hjelper;hjelper;hjelper;hjelper;hjelper;hjelper
+norwegian
+translation:hjelper;hjelper;hjelper;hjelper;hjelper;hjelper
+swedish
+translation:hjälper;hjälper;hjälper;hjälper;hjälper;hjälper

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) lake;the lake;lakes;the lakes
+grammar:Neuter
+german
+translation:(ein) See;der See;Seen;die Seen
+grammar:Masculine
+new-norwegian
+translation:(ein) sjø;sjøen;sjøar;sjøane
+grammar:Masculine
+norwegian
+translation:(en) sjø;sjøen;sjøer;sjøene
+grammar:Masculine
+swedish
+translation:(en) sjö;sjön;sjöar;sjöarna
+grammar:Common

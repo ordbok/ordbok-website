@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:-;-;-;-;actual;actual;actual;actual;actual;actual;actual;actual
+german
+translation:-;-;-;-;tatsächliche;tatsächlicher;tatsächliches;tatsächliche;tatsächliche;tatsächliche;tatsächliche;tatsächlichen
+new-norwegian
+translation:-;-;-;-;faktisk;faktisk;faktisk;faktiske;faktiske;faktiske;faktiske;faktiske
+norwegian
+translation:-;-;-;-;faktisk;faktisk;faktisk;faktiske;faktiske;faktiske;faktiske;faktiske
+swedish
+translation:-;-;-;-;faktisk;faktisk;faktiskt;faktiska;faktiska;faktiske;faktiska;faktiska

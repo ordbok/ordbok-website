@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) gang violence;the gang violence;gang violences;the gang violences
+grammar:Neuter
+german
+translation:(eine) Gang-Gewalt;die Gang-Gewalt;Gang-Gewalttätigkeiten;die Gang-Gewalttätigkeiten
+grammar:Feminine
+new-norwegian
+translation:(ein) gjengvald;gjengvalden;gjengvaldar;gjengvaldane
+grammar:Masculine
+norwegian
+translation:(en) gjengvold;gjengvolden;gjengvolder;gjengvoldene
+grammar:Masculine
+swedish
+translation:(ett) gängvåld;gängvåldet;gängvåld;gängvålden
+grammar:Neuter
