@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:helpful;helpful;helpful;helpful;helpful;helpful;helpful;helpful;helpful;helpful;helpful;helpful
+german
+translation:hilfreich;hilfreich;hilfreich;hilfreich;hilfreiche;hilfreicher;hilfreiches;hilfreiche;hilfreiche;hilfreiche;hilfreiche;hilfreichen
+new-norwegian
+translation:hjelpsam;hjelpsam;hjelpsamt;hjelpsame;hjelpsam;hjelpsam;hjelpsamt;hjelpsame;hjelpsame;hjelpsame;hjelpsame;hjelpsame
+norwegian
+translation:hjelpsom;hjelpsom;hjelpsomt;hjelpsomme;hjelpsom;hjelpsom;hjelpsomt;hjelpsomme;hjelpsomme;hjelpsomme;hjelpsomme;hjelpsomme
+swedish
+translation:hjälpsam;hjälpsam;hjälpsamt;hjälpsamma;hjälpsam;hjälpsam;hjälpsamt;hjälpsamma;hjälpsamma;hjälpsamme;hjälpsamma;hjälpsamma

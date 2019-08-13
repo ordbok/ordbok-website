@@ -1,5 +1,5 @@
 meta
-structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common
 grammar:Adjective;Positive
 english
 translation:actually;actually;actually;actually

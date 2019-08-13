@@ -70,6 +70,7 @@ head:0
 headache:0
 hello:0
 help:2
+helpful:0
 her:1
 him:0
 his:0
@@ -78,6 +79,7 @@ homework:0
 house:0
 human:0
 i:0
+ice:0
 idiot:0
 iron:0
 it:1
