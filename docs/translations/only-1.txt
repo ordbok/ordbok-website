@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:only
+german
+translation:nur
+new-norwegian
+translation:berre
+norwegian
+translation:bare
+swedish
+translation:bara

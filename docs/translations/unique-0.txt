@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:unique;unique;unique;unique;unique;unique;unique;unique;unique;unique;unique;unique
+german
+translation:einzigartig;einzigartig;einzigartig;einzigartig;einzigartige;einzigartiger;einzigartiges;einzigartige;einzigartige;einzigartige;einzigartige;einzigartigen
+new-norwegian
+translation:unik;unik;unikt;unike;unik;unik;unikt;unike;unike;unike;unike;unike
+norwegian
+translation:unik;unik;unikt;unike;unik;unik;unikt;unike;unike;unike;unike;unike
+swedish
+translation:unik;unik;unikt;unika;unik;unik;unikt;unika;unika;unike;unika;unika

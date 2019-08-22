@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) view;the view;views;the views
+grammar:Neuter
+german
+translation:(eine) Sicht;die Sicht;Sichten;die Sichten
+grammar:Feminine
+new-norwegian
+translation:(ei) sikt;sikta;sikter;siktene
+grammar:Feminine
+norwegian
+translation:(en) sikt;sikten;sikter;siktene
+grammar:Masculine
+swedish
+translation:(ett) sikt;sikten;siktar;siktarna
+grammar:Neuter

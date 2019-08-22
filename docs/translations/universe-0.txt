@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) universe;the universe;universes;the universes
+grammar:Neuter
+german
+translation:(ein) Universum;das Universum;Universen;die Universen
+grammar:Neuter
+new-norwegian
+translation:(eit) univers;universet;univers;universa
+grammar:Neuter
+norwegian
+translation:(et) univers;universet;univers;universene
+grammar:Neuter
+swedish
+translation:(ett) universum;universumet;universum;universumen
+grammar:Neuter

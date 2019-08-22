@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Indefinite;Common
+english
+translation:each;each;each;-
+german
+translation:jede;jeder;jedes;-
+new-norwegian
+translation:hver;hver;hvert;-
+norwegian
+translation:hver;hver;hvert;-
+swedish
+translation:varje;varje;vartje;-

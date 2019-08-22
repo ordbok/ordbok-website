@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite;Plural
+english
+translation:everyone;everyone;everyone;-
+german
+translation:jede;jeder;jedes;-
+new-norwegian
+translation:alle;alle;alt;-
+norwegian
+translation:alle;alle;alt;-
+swedish
+translation:envar;envar;ettvart;-

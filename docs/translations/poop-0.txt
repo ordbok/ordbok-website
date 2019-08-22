@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) poop;the poop;poops;the poops
+grammar:Neuter
+german
+translation:(eine) Kacke;die Kacke;-;-
+grammar:Feminine
+new-norwegian
+translation:(ein) bæsj;bæsjen;bæsjar;bæsjane
+grammar:Masculine
+norwegian
+translation:(en) bæsj;bæsjen;bæsjer;bæsjene
+grammar:Masculine
+swedish
+translation:(ett) bajs;bajset;-;-
+grammar:Neuter

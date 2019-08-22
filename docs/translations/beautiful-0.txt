@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful;beautiful
+german
+translation:wunderschön;wunderschön;wunderschön;wunderschön;wunderschöne;wunderschöner;wunderschönes;wunderschöne;wunderschöne;wunderschöne;wunderschöne;wunderschönen
+new-norwegian
+translation:vakker;vakker;vakkert;vakre;vakker;vakker;vakkert;vakre;vakre;vakre;vakre;vakre
+norwegian
+translation:vakker;vakker;vakkert;vakre;vakker;vakker;vakkert;vakre;vakre;vakre;vakre;vakre
+swedish
+translation:vacker;vacker;vackert;vackra;vacker;vacker;vackert;vackra;vackra;vackre;vackra;vackra

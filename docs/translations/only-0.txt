@@ -4,10 +4,10 @@ grammar:Determiner;Indefinite
 english
 translation:only;only;only;only
 german
-translation:nur;nur;nur;nur
+translation:einzige;einziger;einziges;einzige
 new-norwegian
-translation:berre;berre;berre;berre
+translation:einaste;einaste;einaste;einaste
 norwegian
-translation:kun;kun;kun;kun
+translation:eneste;eneste;eneste;eneste
 swedish
-translation:bara;bara;bara;bara
+translation:endast;endast;endast;endast

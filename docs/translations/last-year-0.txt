@@ -1,0 +1,12 @@
+meta
+grammar:Phrase
+english
+translation:last year
+german
+translation:letztes Jahr
+new-norwegian
+translation:i fjor
+norwegian
+translation:i fjor
+swedish
+translation:i fjol
