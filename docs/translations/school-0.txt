@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) school;the school;schools;the schools
+grammar:Neuter
+german
+translation:(eine) Schule;die Schule;Schulen;die Schulen
+grammar:Feminine
+new-norwegian
+translation:(ein) skule;skulen;skular;skulane
+grammar:Masculine
+norwegian
+translation:(en) skole;skolen;skoler;skolene
+grammar:Masculine
+swedish
+translation:(en) skola;skolan;skolor;skolorna
+grammar:Common

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) mouse;the mouse;mice;the mice
+grammar:Neuter
+german
+translation:(eine) Maus;die Maus;Mäuse;die Mäuse
+grammar:Feminine
+new-norwegian
+translation:(ei) mus;musa;myser;mysene
+grammar:Feminine
+norwegian
+translation:(en) mus;musen;mus;musene
+grammar:Masculine
+swedish
+translation:(en) mus;musen;möss;mössen
+grammar:Common

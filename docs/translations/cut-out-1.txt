@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:cut out;cut out;cuts out;cut out;cut out;cut out
+german
+translation:schneide aus;schneidest aus;schneidet aus;schneiden aus;schneidet aus;schneiden aus
+new-norwegian
+translation:klipper ut;klipper ut;klipper ut;klipper ut;klipper ut;klipper ut
+norwegian
+translation:klipper ut;klipper ut;klipper ut;klipper ut;klipper ut;klipper ut
+swedish
+translation:klipper ut;klipper ut;klipper ut;klipper ut;klipper ut;klipper ut

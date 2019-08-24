@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) resistance;the resistance;resistances;the resistances
+grammar:Neuter
+german
+translation:(ein) Widerstand;der Widerstand;Widerstände;die Widerstände
+grammar:Masculine
+new-norwegian
+translation:(ein) motstand;motstanden;motstandar;motstandane
+grammar:Masculine
+norwegian
+translation:(en) motstand;motstanden;motstander;motstandene
+grammar:Masculine
+swedish
+translation:(ett) motstånd;motståndet;motstånd;motstånden
+grammar:Neuter

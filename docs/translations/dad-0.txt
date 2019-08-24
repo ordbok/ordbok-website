@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:dad;kid;mom
+english
+translation:(a) dad;the dad;dads;the dads
+grammar:Masculine
+german
+translation:(ein) Papa;der Papa;Papas;die Papas
+grammar:Masculine
+new-norwegian
+translation:(ein) pappa;pappaen;pappaar;pappaane
+grammar:Masculine
+norwegian
+translation:(en) pappa;pappaen;pappaer;pappaene
+grammar:Masculine
+swedish
+translation:(en) pappa;pappan;pappor;papporna
+grammar:Common

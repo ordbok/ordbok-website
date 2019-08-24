@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:child;father;mother
+english
+translation:(a) father;the father;fathers;the fathers
+grammar:Masculine
+german
+translation:(ein) Vater;der Vater;Väter;die Väter
+grammar:Masculine
+new-norwegian
+translation:(ein) far;faren;fedrar;fedrane
+grammar:Masculine
+norwegian
+translation:(en) far;faren;fedre;fedrene
+grammar:Masculine
+swedish
+translation:(en) fader;fadern;fäder;fäderna
+grammar:Common

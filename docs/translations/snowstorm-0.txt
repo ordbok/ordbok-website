@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) snowstorm;the snowstorm;snowstorms;the snowstorms
+grammar:Neuter
+german
+translation:(ein) Schneesturm;der Schneesturm;Schneestürme;die Schneestürme
+grammar:Masculine
+new-norwegian
+translation:(ein) snøstorm;snøstormen;snøstormar;snøstormane
+grammar:Masculine
+norwegian
+translation:(en) snøstorm;snøstormen;snøstormer;snøstormene
+grammar:Masculine
+swedish
+translation:(en) snöstorm;snöstormen;snöstormar;snöstormarna
+grammar:Common

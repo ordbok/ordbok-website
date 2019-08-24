@@ -14,5 +14,5 @@ norwegian
 translation:(ei) jord;jorda;jorder;jordene
 grammar:Feminine
 swedish
-translation:(en) jord | jorden | jordar | jordarna
+translation:(en) jord;jorden;jordar;jordarna
 grammar:Common
