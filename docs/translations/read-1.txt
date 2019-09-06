@@ -4,7 +4,7 @@ grammar:Verb;Present
 english
 translation:read;read;reads;read;read;read
 german
-translation:lese;liest;liest;lesen;liest;lesen
+translation:lese;liest;liest;lesen;lest;lesen
 new-norwegian
 translation:les;les;les;les;les;les
 norwegian

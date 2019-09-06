@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) rainforest;the rainforest;rainforests;the rainforests
+grammar:Neuter
+german
+translation:(ein) Regenwald;der Regenwald;Regenwälder;die Regenwälder
+grammar:Masculine
+new-norwegian
+translation:(ein) regnskog;regnskogen;regnskogar;regnskogane
+grammar:Masculine
+norwegian
+translation:(en) regnskog;regnskogen;regnskoger;regnskogene
+grammar:Masculine
+swedish
+translation:(en) regnskog;regnskogen;regnskogar;regnskogarna
+grammar:Common

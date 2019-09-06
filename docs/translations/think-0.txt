@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:to think;to think;to think;to think;to think;to think
+german
+translation:zu denken;zu denken;zu denken;zu denken;zu denken;zu denken
+new-norwegian
+translation:å tenke;å tenke;å tenke;å tenke;å tenke;å tenke
+norwegian
+translation:å tenke;å tenke;å tenke;å tenke;å tenke;å tenke
+swedish
+translation:att tänka;att tänka;att tänka;att tänka;att tänka;att tänka

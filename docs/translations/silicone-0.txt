@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:silicon;silicone
+english
+translation:(a) silicone;the silicone;silicones;the silicones
+grammar:Neuter
+german
+translation:(ein) Silikon;das Silikon;Silikone;die Silikone
+grammar:Neuter
+new-norwegian
+translation:(eit) silikon;silikonet;silikon;silikona
+grammar:Neuter
+norwegian
+translation:(et) et silikon;silikonet;silikoner;silikonene
+grammar:Neuter
+swedish
+translation:(ett) silikon;silikonet;silikoner;silikonerna
+grammar:Neuter

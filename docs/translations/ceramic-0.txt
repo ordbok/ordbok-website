@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) ceramic;the ceramic;ceramics;the ceramics
+grammar:Neuter
+german
+translation:(eine) Keramik;die Keramik;Keramiken;die Keramiken
+grammar:Feminine
+new-norwegian
+translation:(ein) keramikk;keramikken;keramikkar;keramikkane
+grammar:Masculine
+norwegian
+translation:(en) keramikk;keramikken;keramikker;keramikkene
+grammar:Masculine
+swedish
+translation:(en) keramik;keramiken;keramikar;keramikarna
+grammar:Common

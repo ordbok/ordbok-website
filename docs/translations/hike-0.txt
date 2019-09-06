@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) hike;the hike;hikes;the hikes
+grammar:Neuter
+german
+translation:(eine) Wanderung;die Wanderung;Wanderungen;die Wanderungen
+grammar:Feminine
+new-norwegian
+translation:(ei) vandring;vandringa;vandringar;vandringane
+grammar:Feminine
+norwegian
+translation:(en) vandring;vandringen;vandringer;vandringene
+grammar:Masculine
+swedish
+translation:(en) vandring;vandringen;vandringar;vandringarna
+grammar:Common

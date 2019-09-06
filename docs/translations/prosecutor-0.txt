@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) prosecutor;the prosecutor;prosecutors;the prosecutors
+grammar:Common
+german
+translation:(ein) Staatsanwalt;der Staatsanwalt;Staatsanwälte;die Staatsanwälte
+grammar:Masculine
+new-norwegian
+translation:(ein) aktor;aktoren;aktorar;aktorane
+grammar:Masculine
+norwegian
+translation:(en) aktor;aktoren;aktorer;aktorene
+grammar:Masculine
+swedish
+translation:(en) åklagare;åklagaren;åklagare;åklagarna
+grammar:Common

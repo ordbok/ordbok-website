@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:silicon;silicone
+english
+translation:(a) silicon;the silicon;silicons;the silicons
+grammar:Neuter
+german
+translation:(ein) Silizium;das Silizium;Silizien;die Silizien
+grammar:Neuter
+new-norwegian
+translation:(eit) silisium;silisiumet;silisium;silisiuma
+grammar:Neuter
+norwegian
+translation:(et) silisium;silisiumet;silisium;silisiumene
+grammar:Neuter
+swedish
+translation:(ett) kisel;kislet;kisel;kiseln
+grammar:Neuter

@@ -1,0 +1,12 @@
+meta
+grammar:Phrase
+english
+translation:Get well!
+german
+translation:Gute Besserung!
+new-norwegian
+translation:God betring!
+norwegian
+translation:God bedring!
+swedish
+translation:Krya på dig!

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:steep;steep;steep;steep;steep;steep;steep;steep;steep;steep;steep;steep
+german
+translation:steil;steil;steil;steil;steile;steiler;steiles;steile;steile;steile;steile;steilen
+new-norwegian
+translation:bratt;bratt;bratt;bratte;bratt;bratt;bratt;bratte;bratte;bratte;bratte;bratte
+norwegian
+translation:bratt;bratt;bratt;bratte;bratt;bratt;bratt;bratte;bratte;bratte;bratte;bratte
+swedish
+translation:brant;brant;brant;branta;brant;brant;brant;branta;branta;branta;branta;branta

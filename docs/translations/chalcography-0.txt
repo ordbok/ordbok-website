@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) chalcography;the chalcography;chalcographies;the chalcographies
+grammar:Neuter
+german
+translation:(ein) Kupferstich;der Kupferstich;Kupferstiche;die Kupferstiche
+grammar:Masculine
+new-norwegian
+translation:(eit) koparstikk;koparstikket;koparstikk;koparstikka
+grammar:Neuter
+norwegian
+translation:(et) kopperstikk;kopperstikket;kopperstikk;kopperstikkene
+grammar:Neuter
+swedish
+translation:(ett) kopparstick;kopparsticket;kopparstick;kopparsticken
+grammar:Neuter

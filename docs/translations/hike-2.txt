@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Presents
+english
+translation:hike;hike;hikes;hike;hike;hike
+german
+translation:wandere;wanderst;wandert;wandern;wandert;wandern
+new-norwegian
+translation:vandrar;vandrar;vandrar;vandrar;vandrar;vandrar
+norwegian
+translation:vandrer;vandrer;vandrer;vandrer;vandrer;vandrer
+swedish
+translation:vandrar;vandrar;vandrar;vandrar;vandrar;vandrar

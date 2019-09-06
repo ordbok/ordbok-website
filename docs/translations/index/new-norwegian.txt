@@ -24,6 +24,8 @@ calf:0
 car:0
 cat:0
 cattle:0
+ceramic:0
+chalcography:0
 character:0
 chase-after:0
 cheese:0
@@ -47,6 +49,7 @@ did:0
 do:1
 dog:0
 doorbell:0
+draft:0
 each:0
 earth:0
 earthquake:0
@@ -64,10 +67,12 @@ fish:0
 flour:0
 flower:0
 fog:0
+forest:0
 foundation:0
 freeway:0
 gang-violence:0
 german:3
+get-well:0
 giant:0
 girl:0
 glad:0
@@ -81,6 +86,7 @@ hello:0
 help:2
 helpful:0
 her:1
+hike:2
 him:0
 his:0
 home:0
@@ -134,6 +140,7 @@ no:1
 norwegian:1
 not:0
 noun:0
+offer:0
 oil:0
 only:1
 opponent:0
@@ -150,8 +157,10 @@ poodle:0
 poop:2
 potbelly:0
 power:1
+prosecutor:0
 quake:1
 quick:0
+rainforest:0
 read:1
 recreational-vehicle:0
 red:0
@@ -168,6 +177,8 @@ sea:0
 search:2
 she:0
 sheep:0
+silicon:0
+silicone:0
 simple:0
 sky:0
 smile:2
@@ -179,6 +190,7 @@ someone:0
 something:0
 son:0
 spring:0
+steep:0
 stray:0
 street:0
 summer:0
@@ -189,6 +201,7 @@ their:1
 them:0
 they:1
 thing:0
+think:1
 thunder:0
 traitor:0
 translate:1
@@ -216,4 +229,5 @@ x-ray:0
 yes:0
 you:3
 your:1
+youth:0
 zebra:0

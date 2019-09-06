@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:youth;the youth;youths;the youths
+grammar:Neuter
+german
+translation:(eine) Jugend;die Jugend;Jugenden;die Jugenden
+grammar:Feminine
+new-norwegian
+translation:(ein) ungdom;ungdomen;ungdomar;ungdomane
+grammar:Masculine
+norwegian
+translation:(en) ungdom;ungdommen;ungdommer;ungdommene
+grammar:Masculine
+swedish
+translation:(en) ungdom;ungdomen;ungdomar;ungdomarna
+grammar:Common
