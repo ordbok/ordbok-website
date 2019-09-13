@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:to taint;to taint;to taint;to taint;to taint;to taint
+german
+translation:zu anstecken;zu anstecken;zu anstecken;zu anstecken;zu anstecken;zu anstecken
+new-norwegian
+translation:å smitta;å smitta;å smitta;å smitta;å smitta;å smitta
+norwegian
+translation:å smitte;å smitte;å smitte;å smitte;å smitte;å smitte
+swedish
+translation:att smitta;att smitta;att smitta;att smitta;att smitta;att smitta

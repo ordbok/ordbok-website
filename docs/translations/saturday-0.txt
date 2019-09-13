@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Saturday;the Saturday;Saturdays;the Saturdays
+grammar:Neuter
+german
+translation:(ein) Samstag;der Samstag;Samstage;die Samstage
+grammar:Masculine
+new-norwegian
+translation:(ein) laurdag;laurdagen;laurdagar;laurdagane
+grammar:Masculine
+norwegian
+translation:(en) lørdag;lørdagen;lørdager;lørdagane
+grammar:Masculine
+swedish
+translation:(en) lördag;lördagen;lördagar;lördagarna
+grammar:Common

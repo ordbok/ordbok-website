@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Friday;the Friday;Fridays;the Fridays
+grammar:Neuter
+german
+translation:(ein) Freitag;der Freitag;Freitage;die Freitage
+grammar:Masculine
+new-norwegian
+translation:(ein) fredag;fredagen;fredagar;fredagane
+grammar:Masculine
+norwegian
+translation:(en) fredag;fredagen;fredager;fredagene
+grammar:Masculine
+swedish
+translation:(en) fredag;fredagen;fredagar;fredagarna
+grammar:Common

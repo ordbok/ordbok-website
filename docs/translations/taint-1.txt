@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:taint;taint;taints;taint;taint;taint
+german
+translation:stecke an;steckst an;steckt an;stecken an;steckt an;stecken an
+new-norwegian
+translation:smittar;smittar;smittar;smittar;smittar;smittar
+norwegian
+translation:smitter;smitter;smitter;smitter;smitter;smitter
+swedish
+translation:smittar;smittar;smittar;smittar;smittar;smittar

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:pale;pale;pale;pale;pale;pale;pale;pale;pale;pale;pale;pale
+german
+translation:blass;blass;blass;blass;blasse;blasser;blasses;blasse;blasse;blasse;blasse;blassen
+new-norwegian
+translation:bleik;bleik;bleikt;bleike;bleik;bleik;bleikt;bleike;bleike;bleike;bleike;bleike
+norwegian
+translation:blek;blek;blekt;bleke;blek;blek;blekt;bleke;bleke;bleke;bleke;bleke
+swedish
+translation:blek;blek;blekt;bleka;blek;blek;blekt;bleka;bleka;bleke;bleka;bleka

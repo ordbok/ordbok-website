@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Wednesday;the Wednesday;Wednesdays;the Wednesdays
+grammar:Neuter
+german
+translation:(ein) Mittwoch;der Mittwoch;Mittwoche;die Mittwoche
+grammar:Masculine
+new-norwegian
+translation:(ein) onsdag;onsdagen;onsdagar;onsdagane
+grammar:Masculine
+norwegian
+translation:(en) onsdag;onsdagen;onsdager;onsdagene
+grammar:Masculine
+swedish
+translation:(en) onsdag;onsdagen;onsdagar;onsdagarna
+grammar:Common

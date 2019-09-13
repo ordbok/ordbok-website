@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) napkin;the napkin;napkins;the napkins
+grammar:Neuter
+german
+translation:(eine) Serviette;die Serviette;Servietten;die Servietten
+grammar:Feminine
+new-norwegian
+translation:(ein) serviett;servietten;serviettar;serviettane
+grammar:Masculine
+norwegian
+translation:(en) serviett;servietten;servietter;serviettene
+grammar:Masculine
+swedish
+translation:(en) servett;servetten;servetter;servetterna
+grammar:Common

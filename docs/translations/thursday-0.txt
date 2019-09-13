@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Thursday;the Thursday;Thursdays;the Thursdays
+grammar:Neuter
+german
+translation:(ein) Donnerstag;der Donnerstag;Donnerstage;die Donnerstage
+grammar:Masculine
+new-norwegian
+translation:(ein) torsdag;torsdagen;torsdagar;torsdagane
+grammar:Masculine
+norwegian
+translation:(en) torsdag;torsdagen;torsdager;torsdagene
+grammar:Masculine
+swedish
+translation:(en) torsdag;torsdagen;torsdagar;torsdagarna
+grammar:Common

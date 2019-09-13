@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+relation:first;second;third;fourth;fifth;sixth;seventh;eighth;ninth;tenth;eleventh;twelfth;thirteenth twentieth;twenties oneth
+english
+translation:seventh;seventh;seventh;seventh;seventh;seventh;seventh;seventh;seventh;seventh;seventh;seventh
+german
+translation:siebent;siebent;siebent;siebent;siebente;siebenter;siebentes;siebente;siebente;siebente;siebente;siebenten
+new-norwegian
+translation:syvende;syvende;syvende;syvende;syvende;syvende;syvende;syvende;syvende;syvende;syvende;syvende
+norwegian
+translation:sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende;sjuende
+swedish
+translation:sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde;sjunde

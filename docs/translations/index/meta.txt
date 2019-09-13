@@ -33,6 +33,7 @@ chew:1
 child:0
 christmas-cookie:0
 cloud:0
+contagion:0
 contributor:0
 cookie:0
 cool:1
@@ -59,6 +60,7 @@ englishwoman:0
 everyone:0
 experience:0
 expressway:0
+fart:0
 father:0
 fence:0
 fire:0
@@ -70,6 +72,7 @@ fog:0
 forest:0
 foundation:0
 freeway:0
+friday:0
 gang-violence:0
 german:3
 get-well:0
@@ -116,6 +119,7 @@ lightning:0
 like-that:0
 love:0
 small:0
+the-lord-of-the-rings:0
 made:0
 make:1
 man:0
@@ -134,6 +138,7 @@ murderer:0
 my:0
 nail:0
 naive:0
+napkin:0
 new-norwegian:0
 newspaper:0
 no:1
@@ -147,6 +152,7 @@ opponent:0
 or:0
 our:0
 pain:0
+pale:0
 pantry:0
 papillon:0
 pear:0
@@ -172,9 +178,11 @@ river:0
 road:0
 rockslide:0
 romantic:0
+saturday:0
 school:0
 sea:0
 search:2
+seventh:0
 she:0
 sheep:0
 silicon:0
@@ -195,7 +203,9 @@ stray:0
 street:0
 summer:0
 sun:0
+sunday:0
 swedish:1
+taint:1
 thanks-yourself:0
 their:1
 them:0
@@ -203,6 +213,8 @@ they:1
 thing:0
 think:1
 thunder:0
+thursday:0
+tick:0
 traitor:0
 translate:1
 translation:0
@@ -218,6 +230,7 @@ water:0
 way:0
 we-together:0
 we:0
+wednesday:0
 which:0
 wind:0
 winter:0
