@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Tuesday;the Tuesday;Tuesdays;the Tuesdays
+grammar:Neuter
+german
+translation:(ein) Dienstag;der Dienstag;Dienstage;die Dienstage
+grammar:Masculine
+new-norwegian
+translation:(ein) tysdag;tysdagen;tysdagar;tysdagane
+grammar:Masculine
+norwegian
+translation:(en) tirsdag;tirsdagen;tirsdager;tirsdagene
+grammar:Masculine
+swedish
+translation:(en) tisdag;tisdagen;tisdagar;tisdagarna
+grammar:Common

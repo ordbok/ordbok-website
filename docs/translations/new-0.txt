@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+relation:new;old
+english
+translation:new;new;new;new;new;new;new;new;new;new;new;new
+german
+translation:neu;neu;neu;neu;neue;neuer;neues;neue;neue;neue;neue;neuen
+new-norwegian
+translation:ny;ny;nytt;nye;ny;ny;nytt;nye;nye;nye;nye;nye
+norwegian
+translation:ny;ny;nytt;nye;ny;ny;nytt;nye;nye;nye;nye;nye;
+swedish
+translation:ny;ny;nytt;nya;ny;ny;nytt;nya;nya;nye;nya;nya

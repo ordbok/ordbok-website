@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:to be fond of;to be fond of;to be fond of;to be fond of;to be fond of;to be fond of
+german
+translation:zu gernhaben von;zu gernhaben von;zu gernhaben von;zu gernhaben von;zu gernhaben von;zu gernhaben von
+new-norwegian
+translation:å være glad i;å være glad i;å være glad i;å være glad i;å være glad i;å være glad i
+norwegian
+translatiom:å være glad i;å være glad i;å være glad i;å være glad i;å være glad i;å være glad i
+swedish
+translation:att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday
+english
+translation:(a) Monday;the Monday;Mondays;the Mondays
+grammar:Neuter
+german
+translation:(ein) Montag;der Montag;Montage;die Montage
+grammar:Masculine
+new-norwegian
+translation:(ein) måndag;måndagen;måndagar;måndagane
+grammar:Masculine
+norwegian
+translation:(en) mandag;mandagen;mandager;mandagene
+grammar:Masculine
+swedish
+translation:(en) måndag;måndagen;måndagar;måndagarna
+grammar:Common

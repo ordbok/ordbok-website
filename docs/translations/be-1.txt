@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:am;are;is;are;are;are
+german
+translation:bin;bist;ist;sind;seid;sind
+new-norwegian
+translation:er;er;er;er;er;er
+norwegian
+translation:er;er;er;er;er;er
+swedish
+translation:är;är;är;är;är;är

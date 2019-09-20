@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:free;free;free;free;free;free;free;free;free;free;free;free
+german
+translation:frei;frei;frei;frei;freie;freier;freies;freie;freie;freie;freie;freien
+new-norwegian
+translation:fri;fri;fritt;frie;fri;fri;fritt;frie;frie;frie;frie;frie
+norwegian
+translation:fri;fri;fritt;frie;fri;fri;fritt;frie;frie;frie;frie;frie
+swedish
+translation:fri;fri;fritt;fria;fri;fri;fritt;fria;fria;frie;fria;fria

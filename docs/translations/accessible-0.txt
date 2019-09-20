@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:accessible;accessible;accessible;accessible;accessible;accessible;accessible;accessible;accessible;accessible;accessible;accessible
+german
+translation:zugänglich;zugänglich;zugänglich;zugänglich;zugängliche;zugänglicher;zugängliches;zugängliche;zugängliche;zugängliche;zugängliche;zugänglichen
+new-norwegian
+translation:tilgjengeleg;tilgjengeleg;tilgjengeleg;tilgjengelege;tilgjengeleg;tilgjengeleg;tilgjengeleg;tilgjengelege;tilgjengelege;tilgjengelege;tilgjengelege;tilgjengelege
+norwegian
+translation:tilgjengelig;tilgjengelig;tilgjengelig;tilgjengelige;tilgjengelig;tilgjengelig;tilgjengelig;tilgjengelige;tilgjengelige;tilgjengelige;tilgjengelige;tilgjengelige
+swedish
+translation:tillgänglig;tillgänglig;tillgängligt;tillgängliga;tillgänglig;tillgänglig;tillgängligt;tillgängliga;tillgängliga;tillgänglige;tillgängliga;tillgängliga

@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+relation:first;second;third;fourth;fifth;sixth;seventh;eighth;ninth;tenth;eleventh;twelfth;thirteenth twentieth;twenties oneth
+english
+translation:first;first;first;first;first;first;first;first;first;first;first;first
+german
+translation:erst;erst;erst;erst;erste;erster;erstes;erste;erste;erste;erste;ersten
+new-norwegian
+translation:fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste
+norwegian
+translation:første;første;første;første;første;første;første;første;første;første;første;første
+swedish
+translation:förste;förste;förste;förste;förste;förste;förste;förste;förste;förste;förste;förste

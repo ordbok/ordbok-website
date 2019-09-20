@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:enough;enough;enough;enough;enough;enough;enough;enough;enough;enough;enough;enough
+german
+translation:genug;genug;genug;genug;genügend;genügend;genügend;genügend;genügenden;genügenden;genügenden;genügenden
+new-norwegian
+translation:tilstrekkeleg;tilstrekkeleg;tilstrekkeleg;tilstrekkelege;tilstrekkeleg;tilstrekkeleg;tilstrekkeleg;tilstrekkelege;tilstrekkelege;tilstrekkelege;tilstrekkelege;tilstrekkelege
+norwegian
+translation:tilstrekkelig;tilstrekkelig;tilstrekkelig;tilstrekkelige;tilstrekkelig;tilstrekkelig;tilstrekkelig;tilstrekkelige;tilstrekkelige;tilstrekkelige;tilstrekkelige;tilstrekkelige
+swedish
+translation:tillräcklig;tillräcklig;tillräckligt;tillräckliga;tillräcklig;tillräcklig;tillräckligt;tillräckliga;tillräckliga;tillräcklige;tillräckliga;tillräckliga

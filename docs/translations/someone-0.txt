@@ -1,11 +1,11 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Third Person
-relation:someone;something
+relation:somebody;someone;something
 english
 translation:someone;someone;-;some
 german
-translation:jemand;jemand;-;jemand
+translation:jemand;jemand;-;einige
 new-norwegian
 translation:nokon;noka;-;nokre
 norwegian

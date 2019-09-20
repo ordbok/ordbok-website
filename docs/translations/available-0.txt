@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:available;available;available;available;available;available;available;available;available;available;available;available
+german
+translation:verfügbar;verfügbar;verfügbar;verfügbar;verfügbare;verfügbarer;verfügbares;verfügbare;verfügbare;verfügbare;verfügbare;verfügbaren
+new-norwegian
+translation:disponibel;disponibel;disponibelt;disponible;disponibel;disponibel;disponibelt;disponible;disponible;disponible;disponible;disponible
+norwegian
+translation:disponibel;disponibel;disponibelt;disponible;disponibel;disponibel;disponibelt;disponible;disponible;disponible;disponible;disponible
+swedish
+translation:disponibel;disponibel;disponibelt;disponibla;disponibel;disponibel;disponibelt;disponibla;disponibla;disponible;disponibla;disponibla

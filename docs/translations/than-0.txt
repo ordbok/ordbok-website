@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:than
+german
+translation:als
+new-norwegian
+translation:enn
+norwegian
+translation:enn
+swedish
+translation:än

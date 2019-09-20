@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) elder;the elder;elders;the elders
+grammar:Masculine
+german
+translation:(ein) Alter;der Alte;Alten;die Alten
+grammar:Masculine
+new-norwegian
+translation:(ein) gamling;gamlingen;gamlingar;gamlingane
+grammar:Masculine
+norwegian
+translation:(en) gamling;gamlingen;gamlinger;gamlingene
+grammar:Masculine
+swedish
+translation:(en) åldring;åldringen;åldringar;åldringarna
+grammar:Common

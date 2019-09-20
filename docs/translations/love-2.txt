@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:love;love;loves;love;love;love
+german
+translation:liebe;liebst;liebt;lieben;liebt;lieben
+new-norwegian
+translation:elskar;elskar;elskar;elskar;elskar;elskar
+norwegian
+translation:elsker;elsker;elsker;elsker;elsker;elsker
+swedish
+translation:älskar;älskar;älskar;älskar;älskar;älskar

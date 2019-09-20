@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:without
+german
+translation:ohne
+new-norwegian
+translation:utan
+norwegian
+translation:uten
+swedish
+translation:utan

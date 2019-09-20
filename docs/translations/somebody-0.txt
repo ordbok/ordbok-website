@@ -3,12 +3,12 @@ structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Third Person
 relation:somebody;someone;something
 english
-translation:-;-;something;some
+translation:somebody;somebody;-;some
 german
-translation:-;-;etwas;einiges
+translation:jemand;jemand;-;einige
 new-norwegian
-translation:-;-;noko;nokre
+translation:nokon;noka;-;nokre
 norwegian
-translation:-;-;noe;noen
+translation:noen;noen;-;noen
 swedish
-translation:-;-;något;några
+translation:någon;någon;-;några
