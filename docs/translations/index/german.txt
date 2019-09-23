@@ -23,6 +23,7 @@ beautiful:0
 biscuit:0
 book:0
 boy:0
+bucket:0
 cake:0
 calf:0
 car:0
@@ -63,11 +64,14 @@ english:1
 englishman:0
 englishwoman:0
 enough:0
+every:0
 everyone:0
+everywhere:0
 experience:0
 expressway:0
 fart:0
 father:0
+february:0
 fence:0
 file:0
 fire:0
@@ -88,9 +92,12 @@ get-well:0
 giant:0
 girl:0
 glad:0
+glasses:0
 good:0
 group:0
+had:0
 happy:0
+have:1
 he:0
 head:0
 headache:0
@@ -106,12 +113,14 @@ homework:0
 house:0
 human:0
 i:0
+ice-cream:0
 ice:0
 idiot:0
 iron:0
 it:1
 its:0
 jacket:0
+january:0
 jump:2
 kid:0
 kitty:0
@@ -154,6 +163,7 @@ new-norwegian:0
 new:0
 newspaper:0
 no:1
+noise-cancellation:0
 norwegian:1
 not:0
 noun:0
@@ -195,6 +205,7 @@ saturday:0
 school:0
 sea:0
 search:2
+second:1
 seventh:0
 she:0
 sheep:0
@@ -242,12 +253,14 @@ unreal:0
 us:0
 verb:0
 view:0
+was:0
 waste:0
 water:0
 way:0
 we-together:0
 we:0
 wednesday:0
+whether:0
 which:0
 wind:0
 winter:0
@@ -263,3 +276,4 @@ you:3
 your:1
 youth:0
 zebra:0
+zenith:0

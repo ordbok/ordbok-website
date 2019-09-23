@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) pair of glasses;the pair of glasses;glasses;the glasses
+grammar:Neuter
+german
+translation:(eine) Brille;die Brille;Brillen;die Brillen
+grammar:Feminine
+new-norwegian
+translation:(ei) brille;brilla;briller;brillene
+grammar:Feminine
+norwegian
+translation:(ei) brille;brilla;briller;brillene
+grammar:Feminine
+swedish
+translation:(ett) par glasöga;paret glasöga;glasögon;glasögonen
+grammar:Neuter

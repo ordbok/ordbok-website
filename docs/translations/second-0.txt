@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) second;the second;seconds;the seconds
+grammar:Neuter
+german
+translation:(eine) Sekunde;die Sekunde;Sekunden;die Sekunden
+grammar:Feminine
+new-norwegian
+translation:(eit) sekund;sekundet;sekund;sekunda
+grammar:Neuter
+norwegian
+translation:(et) sekund;sekundet;sekund;sekundene
+grammar:Neuter
+swedish
+translation:(en) sekund;sekunden;sekunder;sekunderna
+grammar:Common

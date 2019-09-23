@@ -1,9 +1,9 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Determiner;Indefinite;Common
+grammar:Pronoun;Indefinite;Plural
 relation:each;every
 english
-translation:each;each;each;-
+translation:every;every;every;-
 german
 translation:jede;jeder;jedes;-
 new-norwegian
@@ -11,4 +11,4 @@ translation:kvar;kvar;kvart;-
 norwegian
 translation:hver;hver;hvert;-
 swedish
-translation:varje;varje;vartje;-
+translation:var;var;vart;-

@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+relation:have;had
+english
+translation:to have;to have;to have;to have;to have;to have
+german
+translation:zu haben;zu haben;zu haben;zu haben;zu haben;zu haben
+new-norwegian
+translation:å ha;å ha;å ha;å ha;å ha;å ha
+norwegian
+translation:å ha;å ha;å ha;å ha;å ha;å ha
+swedish
+translation:att ha;att ha;att ha;att ha;att ha;att ha

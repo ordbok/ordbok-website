@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:second;second;second;second;second;second;second;second;second;second;second;second
+german
+translation:zweit;zweit;zweit;zweit;zweite;zweiter;zweites;zweite;zweite;zweite;zweite;zweiten
+new-norwegian
+translation:andre;andre;andre;andre;andre;andre;andre;andre;andre;andre;andre;andre
+norwegian
+translation:anna;annen;annet;andre;anna;annen;annet;andre;andre;andre;andre;andre
+swedish
+translation:annan;annan;annan;andra;annan;annan;annan;andra;andra;andre;annat;andra;

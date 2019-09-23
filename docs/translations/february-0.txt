@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:month;january;february;march;april;may;june;july;august;september;october;november;december
+english
+translation:(a) February;the February;Februaries;the Februaries
+grammar:Neuter
+german
+translation:(ein) Februar;der Februar;Februare;die Februare
+grammar:Masculine
+new-norwegian
+translation:(ein) februar;februaren;februarar;februarane
+grammar:Masculine
+norwegian
+translation:februar;februarmåneden;februarmåneder;februarmånedene
+grammar:Masculine
+swedish
+translation:februari;februarimånaden;februarimånader;februarimånaderna
+grammar:Common

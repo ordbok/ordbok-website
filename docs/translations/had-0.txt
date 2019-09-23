@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:have;had
+english
+translation:had;had;had;had;had;had
+german
+translation:hatte;hattest;hatte;hatten;hattet;hatten
+new-norwegian
+translation:hadde;hadde;hadde;hadde;hadde;hadde
+norwegian
+translation:hadde;hadde;hadde;hadde;hadde;hadde
+swedish
+translation:hade;hade;hade;hade;hade;hade

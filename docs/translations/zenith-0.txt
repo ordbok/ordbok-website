@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) zenith;the zenith;zeniths;the zeniths
+grammar:Neuter
+german
+translation:(ein) Zenit;der Zenit;Zenite;die Zenite
+grammar:Masculine
+new-norwegian
+translation:(eit) senit;senitet;senit;senita
+grammar:Neuter
+norwegian
+translation:(et) senit;senitet;senit;senitene
+grammar:Neuter
+swedish
+translation:(en) zenit;zenit;zenit;zenit
+grammar:Common

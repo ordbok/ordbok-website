@@ -8,6 +8,6 @@ translation:zu gernhaben von;zu gernhaben von;zu gernhaben von;zu gernhaben von;
 new-norwegian
 translation:å være glad i;å være glad i;å være glad i;å være glad i;å være glad i;å være glad i
 norwegian
-translatiom:å være glad i;å være glad i;å være glad i;å være glad i;å være glad i;å være glad i
+translation:å være glad i;å være glad i;å være glad i;å være glad i;å være glad i;å være glad i
 swedish
 translation:att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i;att vara förtjust i

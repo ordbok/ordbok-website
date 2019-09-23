@@ -11,4 +11,4 @@ translation:fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrste;fyrst
 norwegian
 translation:første;første;første;første;første;første;første;første;første;første;første;første
 swedish
-translation:förste;förste;förste;förste;förste;förste;förste;förste;förste;förste;förste;förste
+translation:första;första;första;första;första;första;första;första;första;förste;första;första

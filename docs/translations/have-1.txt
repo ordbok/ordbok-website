@@ -1,14 +1,14 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Present
-relation:be;was
+relation:have;had
 english
-translation:am;are;is;are;are;are
+translation:have;have;has;have;have;have
 german
-translation:bin;bist;ist;sind;seid;sind
+translation:habe;hast;hat;haben;habt;haben
 new-norwegian
-translation:er;er;er;er;er;er
+translation:har;har;har;har;har;har
 norwegian
-translation:er;er;er;er;er;er
+translation:har;har;har;har;har;har
 swedish
-translation:är;är;är;är;är;är
+translation:har;har;har;har;har;har
