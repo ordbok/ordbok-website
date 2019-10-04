@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:shall;shall;shall;shall;shall;shall
+german
+translation:soll;sollst;soll;sollen;sollt;sollen
+new-norwegian
+translation:skal;skal;skal;skal;skal;skal
+norwegian
+translation:skal;skal;skal;skal;skal;skal
+swedish
+translation:skall;skall;skall;skall;skall;skall

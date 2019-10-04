@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) chat;(to) chat;(to) chat;(to) chat;(to) chat;(to) chat
+german
+translation:(zu) plaudern;(zu) plaudern;(zu) plaudern;(zu) plaudern;(zu) plaudern;(zu) plaudern
+new-norwegian
+translation:(å) prata;(å) prata;(å) prata;(å) prata;(å) prata;(å) prata
+norwegian
+translation:(å) prate;(å) prate;(å) prate;(å) prate;(å) prate;(å) prate
+swedish
+translation:(att) prata;(att) prata;(att) prata;(att) prata;(att) prata;(att) prata

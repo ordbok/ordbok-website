@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) hairstyle;the hairstyle;hairstyles;the hairstyles
+grammar:Neuter
+german
+translation:(eine) Frisur;die Frisur;Frisuren;die Frisuren
+grammar:Feminine
+new-norwegian
+translation:(ein) frisyre;frisyren;frisyrar;frisyrane
+grammar:Masculine
+norwegian
+translation:(en) frisyre;frisyren;frisyrer;frisyrene
+grammar:Masculine
+swedish
+translation:(en) frisyr;frisyren;frisyrer;frisyrerna
+grammar:Common

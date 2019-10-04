@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:ambulance;EMS vehicle
+english
+translation:(a) ambulance;the ambulance;ambulances;the ambulances
+grammar:Neuter
+german
+translation:(ein) Krankenwagen;der Krankenwagen;Krankenwagen;die Krankenwagen
+grammar:Masculine
+new-norwegian
+translation:(ein) ambulanse;ambulansen;ambulansar;ambulansane
+grammar:Masculine
+norwegian
+translation:(en) ambulanse;ambulansen;ambulanser;ambulansene
+grammar:Masculine
+swedish
+translation:(en) ambulans;ambulansen;ambulanser;ambulanserna
+grammar:Common

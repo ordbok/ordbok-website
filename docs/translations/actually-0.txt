@@ -10,4 +10,4 @@ translation:faktisk;faktisk;faktisk;faktiske
 norwegian
 translation:faktisk;faktisk;faktisk;faktiske
 swedish
-translation:faktisk;faktisk;faktiskt;faktiska
+translation:faktiskt;faktiskt;faktiskt;faktiskt

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) haircut;the haircut;haircuts;the haircuts
+grammar:Neuter
+german
+translation:(ein) Haarschnitt;der Haarschnitt;Haarschnitte;die Haarschnitte
+grammar:Masculine
+new-norwegian
+translation:(ein) hårklipp;hårklippen;hårklippar;hårklippane
+grammar:Masculine
+norwegian
+translation:(en) hårklipp;hårklippen;hårklipper;hårklippene
+grammar:Masculine
+swedish
+translation:(en) klippning;klippningen;klippningar;klippningarna
+grammar:Common

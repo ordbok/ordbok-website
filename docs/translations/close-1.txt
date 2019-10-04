@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:close;close;closes;close;close;close
+german
+translation:schließe;schließt;schließt;schließen;schließt;schließen
+new-norwegian
+translation:lukkar;lukkar;lukkar;lukkar;lukkar;lukkar
+norwegian
+translation:lukker;lukker;lukker;lukker;lukker;lukker
+swedish
+translation:stänger;stänger;stänger;stänger;stänger;stänger

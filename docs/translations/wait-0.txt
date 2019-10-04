@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:wait;wait;wait;wait;wait;wait
+german
+translation:warten;warten;warten;warten;warten;warten
+new-norwegian
+translation:venta;venta;venta;venta;venta;venta
+norwegian
+translation:vente;vente;vente;vente;vente;vente
+swedish
+translation:vänta;vänta;vänta;vänta;vänta;vänta

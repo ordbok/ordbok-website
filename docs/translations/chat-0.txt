@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) chat;the chat;chats;the chats
+grammar:Neuter
+german
+translation:(eine) Plauderei;die Plauderei;Plaudereien;die Plaudereien
+grammar:Feminine
+new-norwegian
+translation:(ein) prat;praten;pratar;pratane
+grammar:Masculine
+norwegian
+translation:(en) prat;praten;prater;pratene
+grammar:Masculine
+swedish
+translation:(ett) prat;pratet;praten;pratena
+grammar:Neuter

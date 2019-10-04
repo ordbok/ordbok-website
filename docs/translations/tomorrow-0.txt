@@ -1,0 +1,13 @@
+meta
+grammar:Particle
+relation:today;tomorrow;yesterday
+english
+translation:tomorrow
+german
+translation:morgen
+new-norwegian
+translation:i morgon
+norwegian
+translation:i morgen
+swedish
+translation:i morgon

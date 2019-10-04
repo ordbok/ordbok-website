@@ -1,0 +1,13 @@
+meta
+grammar:Particle
+relation:today;tomorrow;yesterday
+english
+translation:today
+german
+translation:heute
+new-norwegian
+translation:i dag
+norwegian
+translation:i dag
+swedish
+translation:i dag

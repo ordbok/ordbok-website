@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:doubt;doubt;doubts;doubt;doubt;doubt
+german
+translation:zweifle;zweiflest;zweifelt;zweifeln;zweifelt;zweifeln
+new-norwegian
+translation:tvilar;tvilar;tvilar;tvilar;tvilar;tvilar
+norwegian
+translation:tviler;tviler;tviler;tviler;tviler;tviler
+swedish
+translation:tvivlar;tvivlar;tvivlar;tvivlar;tvivlar;tvivlar

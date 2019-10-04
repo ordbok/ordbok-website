@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) doubt;the doubt;doubts;doubts
+grammar:Neuter
+german
+translation:(ein) Zweifel;der Zweifel;Zweifel;die Zweifel
+grammar:Masculine
+new-norwegian
+translation:(ein) tvil;tvilen;tvilar;tvilane
+grammar:Masculine
+norwegian
+translation:(en) tvil;tvilen;tviler;tvilene
+grammar:Masculine
+swedish
+translation:(ett) tvivel;tvivlet;tvivel;tvivlen
+grammar:Neuter

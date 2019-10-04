@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) hood;the hood;hoods;the hoods
+grammar:Neuter
+german
+translation:(eine) Kapuze;die Kapuze;Kapuzen;die Kapuzen
+grammar:Feminine
+new-norwegian
+translation:(ei) hette;hetta;hetter;hettene
+grammar:Feminine
+norwegian
+translation:(ei) hette;hetta;hetter;hettene
+grammar:Feminine
+swedish
+translation:(en) huva;huvan;huvor;huvorna
+grammar:Common

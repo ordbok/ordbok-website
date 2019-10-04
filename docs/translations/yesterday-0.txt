@@ -1,0 +1,13 @@
+meta
+grammar:Particle
+relation:today;tomorrow;yesterday
+english
+translation:yesterday
+german
+translation:gestern
+new-norwegian
+translation:i går
+norwegian
+translation:i går
+swedish
+translation:i går

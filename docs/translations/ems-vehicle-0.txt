@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:ambulance;EMS vehicle
+english
+translation:(a) EMS vehicle;the EMS vehicle;EMS vehicles;the EMS vehicles
+grammar:Neuter
+german
+translation:(ein) Notarztwagen;der Notarztwagen;Notarztwagen;die Notarztwagen
+grammar:Masculine
+new-norwegian
+translation:(en) akuttbil;akuttbilen;akuttbilar;akuttbilane
+grammar:Masculine
+norwegian
+translation:(en) akuttbil;akuttbilen;akuttbiler;akuttbilene
+grammar:Masculine
+swedish
+translation:(en) akutbil;akutbilen;akutbilar;akutbilarna
+grammar:Common

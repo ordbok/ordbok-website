@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:close;close;close;close;close;close;close;close;close;close;close;close
+german
+translation:nah;nah;nah;nah;nahe;naher;nahes;nahe;nahe;nahe;nahe;nahen
+new-norwegian
+translation:nær;nær;nært;nære;nær;nær;nært;nære;nære;nære;nære;nære
+norwegian
+translation:nær;nær;nært;nære;nær;nær;nært;nære;nære;nære;nære;nære
+swedish
+translation:nära;nära;nära;nära;nära;nära;nära;nära;nära;näre;nära;nära

@@ -1,9 +1,11 @@
 a:0
 accessible:0
+account:0
 ache:0
 actual:0
 actually:0
 adjective:0
+ambulance:0
 an:0
 and:0
 animal:0
@@ -15,6 +17,7 @@ available:0
 avalanche:0
 away:0
 bad:0
+banana:0
 basement:0
 bathroom:0
 be-fond-of:0
@@ -34,11 +37,15 @@ ceramic:0
 chalcography:0
 character:0
 chase-after:0
+chat:2
 cheese:0
 chew:1
 child:0
+chocolate:0
 christmas-cookie:0
+close:2
 cloud:0
+come:1
 contagion:0
 contributor:0
 cookie:0
@@ -56,11 +63,13 @@ did:0
 do:1
 dog:0
 doorbell:0
+doubt:2
 draft:0
 each:0
 earth:0
 earthquake:0
 elder:1
+ems-vehicle:0
 english:1
 englishman:0
 englishwoman:0
@@ -94,9 +103,14 @@ giant:0
 girl:0
 glad:0
 glasses:0
+go:1
 good:0
 group:0
 had:0
+hair:0
+haircut:0
+hairdresser:1
+hairstyle:0
 happy:0
 have:1
 he:0
@@ -111,6 +125,7 @@ him:0
 his:0
 home:0
 homework:0
+hood:0
 house:0
 human:0
 i:0
@@ -142,10 +157,12 @@ the-lord-of-the-rings:0
 made:0
 make:1
 man:0
+march:0
 marmelade:1
 marry:1
 me:0
 miss:1
+moat:0
 mom:0
 monday:0
 moon:0
@@ -160,6 +177,7 @@ my:0
 nail:0
 naive:0
 napkin:0
+never:0
 new-norwegian:0
 new:0
 newspaper:0
@@ -168,6 +186,7 @@ noise-cancellation:0
 norwegian:1
 not:0
 noun:0
+now:0
 offer:0
 oil:0
 old:0
@@ -208,6 +227,7 @@ sea:0
 search:2
 second:1
 seventh:0
+shall:1
 she:0
 sheep:0
 silicon:0
@@ -227,9 +247,11 @@ spring:0
 steep:0
 stray:0
 street:0
+strew:1
 summer:0
 sun:0
 sunday:0
+support:1
 swedish:1
 taint:1
 than:0
@@ -243,6 +265,8 @@ think:1
 thunder:0
 thursday:0
 tick:0
+today:0
+tomorrow:0
 traitor:0
 translate:1
 translation:0
@@ -254,6 +278,8 @@ unreal:0
 us:0
 verb:0
 view:0
+wait-for:1
+wait:1
 was:0
 waste:0
 water:0
@@ -273,6 +299,7 @@ world:0
 write:1
 x-ray:0
 yes:0
+yesterday:0
 you:3
 your:1
 youth:0

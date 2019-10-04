@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common
+grammar:Adjective;Positive
+english
+translation:never;never;never;never
+german
+translation:niemals;niemals;niemals;niemals
+new-norwegian
+translation:aldri;aldri;aldri;aldri
+norwegian
+translation:aldri;aldri;aldri;aldri
+swedish
+translation:aldrig;aldrig;aldrig;aldrig

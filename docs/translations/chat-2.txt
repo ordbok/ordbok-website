@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:chat;chat;chats;chat;chat;chat
+german
+translation:plaudere;plauderst;plaudert;plaudern;plaudert;plaudern
+new-norwegian
+translation:pratar;pratar;pratar;pratar;pratar;pratar
+norwegian
+translation:prater;prater;prater;prater;prater;prater
+swedish
+translation:pratar;pratar;pratar;pratar;pratar;pratar

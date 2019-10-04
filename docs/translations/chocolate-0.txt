@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) chocolate;the chocolate;chocolates;the chocolates
+grammar:Neuter
+german
+translation:(eine) Schokolade;die Schokolade;Schokoladen;die Schokoladen
+grammar:Neuter
+new-norwegian
+translation:(ein) sjokolade;sjokoladen;sjokoladar;sjokoladane
+grammar:Masculine
+norwegian
+translation:(en) sjokolade;sjokoladen;sjokolader;sjokoladene
+grammar:Masculine
+swedish
+translation:(en) choklad;chokladen;choklader;chokladerna
+grammar:Common

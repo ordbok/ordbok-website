@@ -2,12 +2,12 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:to write;to write;to write;to write;to write;to write
+translation:(to) write;(to) write;(to) write;(to) write;(to) write;(to) write
 german
-translation:zu schreiben;zu schreiben;zu schreiben;zu schreiben;zu schreiben;zu schreiben
+translation:(zu) schreiben;(zu) schreiben;(zu) schreiben;(zu) schreiben;(zu) schreiben;(zu) schreiben
 new-norwegian
-translation:å skriva;å skriva;å skriva;å skriva;å skriva;å skriva
+translation:(å) skriva;(å) skriva;(å) skriva;(å) skriva;(å) skriva;(å) skriva
 norwegian
-translation:å skrive;å skrive;å skrive;å skrive;å skrive;å skrive
+translation:(å) skrive;(å) skrive;(å) skrive;(å) skrive;(å) skrive;(å) skrive
 swedish
-translation:att skriva;att skriva;att skriva;att skriva;att skriva;att skriva
+translation:(att) skriva;(att) skriva;(att) skriva;(att) skriva;(att) skriva;(att) skriva

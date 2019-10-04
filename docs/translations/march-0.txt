@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:month;january;february;march;april;may;june;july;august;september;october;november;december
+english
+translation:(a) March;the March;Marches;the Marches
+grammar:Neuter
+german
+translation:(ein) März;der März;Märze;die Märze
+grammar:Masculine
+new-norwegian
+translation:(ein) mars;marsen;marsar;marsane
+grammar:Masculine
+norwegian
+translation:mars;marsmåneden;marsmåneder;marsmånedene
+grammar:Masculine
+swedish
+translation:mars;marsmånaden;marsmånader;marsmånaderna
+grammar:Common

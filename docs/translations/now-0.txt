@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:now
+german
+translation:jetzt
+new-norwegian
+translation:no
+norwegian
+translation:nå
+swedish
+translation:nu

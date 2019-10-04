@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) banana;the banana;bananas;the bananas
+grammar:Neuter
+german
+translation:(eine) Banane;die Banane;Bananen;die Bananen
+grammar:Feminine
+new-norwegian
+translation:(ein) banan;bananen;bananar;bananane
+grammar:Masculine
+norwegian
+translation:(en) banan;bananen;bananer;bananene
+grammar:Masculine
+swedish
+translation:(en) banan;bananen;bananer;bananerna
+grammar:Common
