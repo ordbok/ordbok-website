@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:chase after (…);chase after (…);chases after (…);chase after (…);chase after (…);chase after (…)
+german
+translation:jage hinter (…) her;jagst hinter (…) her;jagt hinter (…) her;jagen hinter (…) her;jagt hinter (…) her;jagen hinter (…) her
+new-norwegian
+translation:jagar på (…);jagar på (…);jagar på (…);jagar på (…);jagar på (…);jagar på (…)
+norwegian
+translation:jager på (…);jager på (…);jager på (…);jager på (…);jager på (…);jager på (…)
+swedish
+translation:jagar efter (…);jagar efter (…);jagar efter (…);jagar efter (…);jagar efter (…);jagar efter (…)

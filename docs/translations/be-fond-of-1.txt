@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:am fond of (…);are fond of (…);is fond of (…);are fond of (…);are fond of (…);are fond of (…)
+german
+translation:bin verliebt in (…);bist verliebt in (…);ist verliebt in (…);sind verliebt in (…);seid verliebt in (…);sind verliebt in (…)
+new-norwegian
+translation:er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…)
+norwegian
+translation:er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…)
+swedish
+translation:är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…)

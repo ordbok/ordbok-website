@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:believe;believe;believes;believe;believe;believe
+german
+translation:glaube;glaubst;glaubt;glauben;glaubt;glauben
+new-norwegian
+translation:trur;trur;trur;trur;trur;trur
+norwegian
+translation:tror;tror;tror;tror;tror;tror
+swedish
+translation:tror;tror;tror;tror;tror;tror

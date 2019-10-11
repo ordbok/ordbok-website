@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) yeast;the yeast;yeasts;the yeasts
+grammar:Neuter
+german
+translation:(eine) Hefe;die Hefe;Hefen;die Hefen
+grammar:Feminine
+new-norwegian
+translation:(ein) gjær;gjæren;gjærar;gjærane
+grammar:Masculine
+norwegian
+translation:(en) gjær;gjæren;gjærer;gjærene
+grammar:Masculine
+swedish
+translation:(en) jäst;jästen;jästar;jästarne
+grammar:Common

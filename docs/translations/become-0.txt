@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+relation:become;became
+english
+translation:(to) become (…);(to) become (…);(to) become (…);(to) become (…);(to) become (…);(to) become (…)
+german
+translation:(…) (zu) werden;(…) (zu) werden;(…) (zu) werden;(…) (zu) werden;(…) (zu) werden;(…) (zu) werden
+new-norwegian
+translation:(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…)
+norwegian
+translation:(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…);(å) bli (…)
+swedish
+translation:(att) bli (…);(att) bli (…);(att) bli (…);(att) bli (…);(att) bli (…);(att) bli (…)

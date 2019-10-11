@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:be;was
 english
-translation:to be;to be;to be;to be;to be;to be
+translation:(to) be;(to) be;(to) be;(to) be;(to) be;(to) be
 german
-translation:zu sein;zu sein;zu sein;zu sein;zu sein;zu sein
+translation:(zu) sein;(zu) sein;(zu) sein;(zu) sein;(zu) sein;(zu) sein
 new-norwegian
-translation:å vere;å vere;å vere;å vere;å vere;å vere
+translation:(å) vere;(å) vere;(å) vere;(å) vere;(å) vere;(å) vere
 norwegian
-translation:å være;å være;å være;å være;å være;å være
+translation:(å) vere;(å) vere;(å) vere;(å) vere;(å) vere;(å) vere
 swedish
-translation:att vara;att vara;att vara;att vara;att vara;att vara
+translation:(att) vara;(att) vara;(att) vara;(att) vara;(att) vara;(att) vara

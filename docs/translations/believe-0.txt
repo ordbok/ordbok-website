@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) believe;(to) believe;(to) believe;(to) believe;(to) believe;(to) believe
+german
+translation:(zu) glauben;(zu) glauben;(zu) glauben;(zu) glauben;(zu) glauben;(zu) glauben
+new-norwegian
+translation:(å) tru;(å) tru;(å) tru;(å) tru;(å) tru;(å) tru
+norwegian
+translation:(å) tro;(å) tro;(å) tro;(å) tro;(å) tro;(å) tro
+swedish
+translation:(att) tro;(att) tro;(att) tro;(att) tro;(att) tro;(att) tro

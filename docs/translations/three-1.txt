@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Definite;Plural;Common
+relation:zero;one;two;three;four;five;six;seven;eight;nine ten;eleven;twelve;thirteen;fourteen;fifteen;sixteen;seventeen;eighteen;nineteen
+english
+translation:-;-;-;three
+german
+translation:-;-;-;drei
+new-norwegian
+translation:-;-;-;tre
+norwegian
+translation:-;-;-;tre
+swedish
+translation:-;-;-;tre

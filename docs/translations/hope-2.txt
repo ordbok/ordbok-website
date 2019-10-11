@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:hope;hope;hopes;hope;hope;hope
+german
+translation:hoffe;hoffst;hofft;hoffen;hofft;hoffen
+new-norwegian
+translation:håpar;håpar;håpar;håpar;håpar;håpar
+norwegian
+translation:håper;håper;håper;håper;håper;håper
+swedish
+translation:hoppas;hoppas;hoppas;hoppas;hoppas;hoppas

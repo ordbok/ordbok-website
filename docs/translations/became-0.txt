@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:become;became
+english
+translation:became (…);became (…);became (…);became (…);became (…);became (…)
+german
+translation:wurde (…);wurdest (…);werde (…);wurden (…);wurdet (…);wurden (…)
+new-norwegian
+translation:blei (…);blei (…);blei (…);blei (…);blei (…);blei (…)
+norwegian
+translation:ble (…);ble (…);ble (…);ble (…);ble (…);ble (…)
+swedish
+translation:blev (…);blev (…);blev (…);blev (…);blev (…);blev (…)

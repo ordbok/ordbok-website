@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:injured;injured;injured;injured;injured;injured;injured;injured;injured;injured;injured;injured
+german
+translation:verletzt;verletzt;verletzt;verletzt;verletzte;verletzter;verletztes;verletzte;verletzte;verletzte;verletzte;verletzten
+new-norwegian
+translation:skadet;skadet;skadet;skadete;skadet;skadet;skadet;skadete;skadete;skadete;skadete;skadete
+norwegian
+translation:skadet;skadet;skadet;skadete;skadet;skadet;skadet;skadete;skadete;skadete;skadete;skadete
+swedish
+translation:skadad;skadad;skadat;skadade;skadad;skadad;skadat;skadade;skadade;skadade;skadade;skadade

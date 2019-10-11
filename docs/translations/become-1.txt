@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:become;became
+english
+translation:become (…);become (…);becomes (…);become (…);become (…);become (…)
+german
+translation:werde (…);wirst (…);wird (…);werden (…);werdet (…);werden (…)
+new-norwegian
+translation:blir (…);blir (…);blir (…);blir (…);blir (…);blir (…)
+norwegian
+translation:blir (…);blir (…);blir (…);blir (…);blir (…);blir (…)
+swedish
+translation:blir (…);blir (…);blir (…);blir (…);blir (…);blir (…)

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:zero;one;two;three;four;five;six;seven;eight;nine ten;eleven;twelve;thirteen;fourteen;fifteen;sixteen;seventeen;eighteen;nineteen
+english
+translation:(a) three;the three;three'ers;the three'ers
+grammar:Neuter
+german
+translation:(eine) Drei;die Drei;Dreier;die Dreier
+grammar:Feminine
+new-norwegian
+translation:(ein) tre;treen;trear;treane
+grammar:Masculine
+norwegian
+translation:(en) tre;treen;treer;treene
+grammar:Masculine
+swedish
+translation:(en) trea;trean;treor;treorna
+grammar:Common

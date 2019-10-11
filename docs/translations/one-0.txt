@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:zero;one;two;three;four;five;six;seven;eight;nine ten;eleven;twelve;thirteen;fourteen;fifteen;sixteen;seventeen;eighteen;nineteen
+english
+translation:(a) one;the one;ones;the ones
+grammar:Neuter
+german
+translation:(eine) Eins;die Eins;Einser;die Einser
+grammar:Feminine
+new-norwegian
+translation:(ein) ein;einen;einar;einane
+grammar:Masculine
+norwegian
+translation:(en) en;enen;ener;enene
+grammar:Masculine
+swedish
+translation:(en) ett;etten;ettar;ettane
+grammar:Common

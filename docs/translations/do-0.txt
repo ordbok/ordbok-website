@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:do;did
 english
-translation:to do;to do;to do;to do;to do;to do
+translation:(to) do;(to) do;(to) do;(to) do;(to) do;(to) do
 german
-translation:zu machen;zu machen;zu machen;zu machen;zu machen;zu machen
+translation:(zu) machen;(zu) machen;(zu) machen;(zu) machen;(zu) machen;(zu) machen
 new-norwegian
-translation:å gjere;å gjere;å gjere;å gjere;å gjere;å gjere
+translation:(å) gjere;(å) gjere;(å) gjere;(å) gjere;(å) gjere;(å) gjere
 norwegian
-translation:å gjøre;å gjøre;å gjøre;å gjøre;å gjøre;å gjøre
+translation:(å) gjøre;(å) gjøre;(å) gjøre;(å) gjøre;(å) gjøre;(å) gjøre
 swedish
-translation:att göra;att göra;att göra;att göra;att göra;att göra
+translation:(att) göra;(att) göra;(att) göra;(att) göra;(att) göra;(att) göra

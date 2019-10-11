@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) applause;the applause;applauses;the applauses
+grammar:Neuter
+german
+translation:(ein) Applaus;der Applaus;Applause;die Applause
+grammar:Masculine
+new-norwegian
+translation:(ein) applaus;applausen;applausar;applausane
+grammar:Masculine
+norwegian
+translation:(en) applaus;applausen;applauser;applausene
+grammar:Masculine
+swedish
+translation:(en) applåd;applåden;applåder;applåderna
+grammar:Common

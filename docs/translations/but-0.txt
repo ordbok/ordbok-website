@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:but
+german
+translation:aber
+new-norwegian
+translation:men
+norwegian
+translation:men
+swedish
+translation:men

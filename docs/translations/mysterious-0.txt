@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious;mysterious
+german
+translation:mysteriös;mysteriös;mysteriös;mysteriös;mysteriöse;mysteriöser;mysteriöses;mysteriöse;mysteriöse;mysteriöse;mysteriöse;mysteriösen
+new-norwegian
+translation:mistenkjeleg;mistenkjeleg;mistenkjeleg;mistenkjelege;mistenkjeleg;mistenkjeleg;mistenkjeleg;mistenkjelege;mistenkjelege;mistenkjelege;mistenkjelege;mistenkjelege
+norwegian
+translation:mistenkelig;mistenkelig;mistenkelig;mistenkelige;mistenkelig;mistenkelig;mistenkelig;mistenkelige;mistenkelige;mistenkelige;mistenkelige;mistenkelige
+swedish
+translation:mystisk;mystisk;mystiskt;mystiska;mystisk;mystisk;mystiskt;mystiska;mystiska;mystiske;mystiska;mystiska

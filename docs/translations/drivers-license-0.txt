@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) driver's license;the driver's license;driver's licenses;the driver's license
+grammar:Neuter
+german
+translation:(ein) Führerschein;der Führerschein;Führerscheine;die Führerscheine
+grammar:Masculine
+new-norwegian
+translation:(eit) førarkort;førarkortet;førarkort;førarkorta
+grammar:Neuter
+norwegian
+translation:(et) førerkort;førerkortet;førerkort;førerkortene
+grammar:Neuter
+swedish
+translation:(ett) körkort;körkortet;körkort;körkorten
+grammar:Neuter

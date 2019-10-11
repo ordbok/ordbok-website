@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) naprapathy;the naprapathy;naprapathies;the naprapathies
+grammar:Neuter
+german
+translation:(eine) Naprapathie;die Naprapathie;Naprapathien;die Naprapathien
+grammar:Feminine
+new-norwegian
+translation:(ein) naprapati;naprapatien;naprapatiar;naprapatiane
+grammar:Masculine
+norwegian
+translation:(en) naprapati;naprapatien;naprapatier;naprapatiene
+grammar:Masculine
+swedish
+translation:(en) naprapati;naprapatin;naprapati;naprapatin
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:sign (…) off work;sign (…) off work;signs (…) off work;sign (…) off work;sign (…) off work;sign (…) off work
+german
+translation:schreibe (…) krank;schreibst (…) krank;schreibt (…) krank;schreiben (…) krank;schreibt (…) krank;schreiben (…) krank
+new-norwegian
+translation:(å) sjukemelde (…);(å) sjukemelde (…);(å) sjukemelde (…);(å) sjukemelde (…);(å) sjukemelde (…);(å) sjukemelde (…)
+norwegian
+translation:(å) sykemelde (…);(å) sykemelde (…);(å) sykemelde (…);(å) sykemelde (…);(å) sykemelde (…);(å) sykemelde (…)
+swedish
+translation:(att) sjukskriva (…);(att) sjukskriva (…);(att) sjukskriva (…);(att) sjukskriva (…);(att) sjukskriva (…);(att) sjukskriva (…)

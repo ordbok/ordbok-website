@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:because
+german
+translation:weil
+new-norwegian
+translation:for
+norwegian
+translation:for
+swedish
+translation:för

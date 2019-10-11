@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:zero;one;two;three;four;five;six;seven;eight;nine ten;eleven;twelve;thirteen;fourteen;fifteen;sixteen;seventeen;eighteen;nineteen
+english
+translation:(a) two;the two;twoers;the twoers
+grammar:Neuter
+german
+translation:(eine) Zwei;die Zwei;Zweier;die Zweier
+grammar:Feminine
+new-norwegian
+translation:(ein) to;toen;toar;toane
+grammar:Masculine
+norwegian
+translation:(en) to;toen;toer;toene
+grammar:Masculine
+swedish
+translation:(en) tvåa;tvåan;tvåor;tvåorna
+grammar:Common
