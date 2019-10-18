@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) window;the window;windows;the windows
+grammar:Neuter
+german
+translation:(ein) Fenster;das Fenster;Fenster;die Fenster
+grammar:Neuter
+new-norwegian
+translation:(eit) vindauge;vindauget;vindauge;vindauga
+grammar:Neuter
+norwegian
+translation:(et) vindu;vinduet;vindu;vinduene
+grammar:Neuter
+swedish
+translation:(ett) fönster;fönstret;fönster;fönstren
+grammar:Neuter

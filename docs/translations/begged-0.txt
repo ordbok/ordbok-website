@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:beg;begged
+english
+translation:begged;begged;begged;begged;begged;begged
+german
+translation:bat;batest;bat;baten;batet;baten
+new-norwegian
+translation:bad;bad;bad;bad;bad;bad
+norwegian
+translation:bad;bad;bad;bad;bad;bad
+swedish
+translation:bad;bad;bad;bad;bad;bad

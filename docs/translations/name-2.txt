@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:name;name;names;name;name;name
+german
+translation:nenne;nennst;nennt;nennen;nennt;nennen
+new-norwegian
+translation:namngir;namngir;namngir;namngir;namngir;namngir
+norwegian
+translation:navngir;navngir;navngir;navngir;navngir;navngir
+swedish
+translation:namnger;namnger;namnger;namnger;namnger;namnger

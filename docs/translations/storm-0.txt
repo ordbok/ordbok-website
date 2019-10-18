@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) storm;the storm;storms;the storms
+grammar:Neuter
+german
+translation:(ein) Sturm;der Sturm;Stürme;die Stürme
+grammar:Masculine
+new-norwegian
+translation:(ein) storm;stormen;stormar;stormane
+grammar:Masculine
+norwegian
+translation:(en) storm;stormen;stormer;stormene
+grammar:Masculine
+swedish
+translation:(en) storm;stormen;stormar;stormarna
+grammar:Masculine

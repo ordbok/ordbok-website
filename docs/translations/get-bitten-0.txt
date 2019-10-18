@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+relation:get bitten;have been bitten
+english
+translation:(to) get bitten;(to) get bitten;(to) get bitten;(to) get bitten;(to) get bitten;(to) get bitten
+german
+translation:gebissen (zu) werden;gebissen (zu) werden;gebissen (zu) werden;gebissen (zu) werden;gebissen (zu) werden;gebissen (zu) werden
+new-norwegian
+translation:(å) bli bite;(å) bli bite;(å) bli bite;(å) bli bite;(å) bli bite;(å) bli bite
+norwegian
+translation:(å) bli bitt;(å) bli bitt;(å) bli bitt;(å) bli bitt;(å) bli bitt;(å) bli bitt
+swedish
+translation:(att) bli bitet;(att) bli bitet;(att) bli bitet;(att) bli bitet;(att) bli bitet;(att) bli bitet

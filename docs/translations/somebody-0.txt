@@ -1,7 +1,7 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
 grammar:Pronoun;Third Person
-relation:somebody;someone;something
+relation:some;somebody;someone;something
 english
 translation:somebody;somebody;-;some
 german

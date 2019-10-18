@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) number;the number;numbers;the numbers
+grammar:Neuter
+german
+translation:(eine) Nummer;die Nummer;Nummern;die Nummern
+grammar:Feminine
+new-norwegian
+translation:(eit) nummer;nummeret;nummer;nummera
+grammar:Neuter
+norwegian
+translation:(et) nummer;nummeret;numre;numrene
+grammar:Neuter
+swedish
+translation:(ett) nummer;numret;nummer;numren
+grammar:Neuter

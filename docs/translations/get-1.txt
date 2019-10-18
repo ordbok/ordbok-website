@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:get;get;gets;get;get;get
+german
+translation:bekomme;bekommst;bekommt;bekommen;bekommt;bekommen
+new-norwegian
+translation:får;får;får;får;får;får
+norwegian
+translation:får;får;får;får;får;får
+swedish
+translation:får;får;får;får;får;får

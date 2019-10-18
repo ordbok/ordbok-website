@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:call (…);call (…);calls (…);call (…);call (…);call (…)
+german
+translation:rufe (…) an;rufst (…) an;ruft (…) an;rufen (…) an;ruft (…) an;rufen (…) an
+new-norwegian
+translation:ringer (…);ringer (…);ringer (…);ringer (…);ringer (…);ringer (…)
+norwegian
+translation:ringer (…);ringer (…);ringer (…);ringer (…);ringer (…);ringer (…)
+swedish
+translation:ringer (…);ringer (…);ringer (…);ringer (…);ringer (…);ringer (…)

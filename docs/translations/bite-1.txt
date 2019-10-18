@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:bite;bit
+english
+translation:bite;bite;bites;bite;bite;bite
+german
+translation:beiße;beißt;beißt;beißen;beißt;beißen
+new-norwegian
+translation:bit;bit;bit;bit;bit;bit
+norwegian
+translation:biter;biter;biter;biter;biter;biter
+swedish
+translation:biter;biter;biter;biter;biter;biter

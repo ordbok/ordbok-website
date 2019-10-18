@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) duck;the duck;ducks;the ducks
+grammar:Neuter
+german
+translation:(eine) Ente;die Ente;Enten;die Enten
+grammar:Feminine
+new-norwegian
+translation:(ei) and;anda;ander;andene
+grammar:Feminine
+norwegian
+translation:(ei) and;anda;ander;andene
+grammar:Feminine
+swedish
+translation:(en) and;anden;änder;änderna
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:call;call;calls;call;call;call
+german
+translation:nenne;nennst;nennt;nennen;nennt;nennen
+new-norwegian
+translation:kallar;kallar;kallar;kallar;kallar;kallar
+norwegian
+translation:kaller;kaller;kaller;kaller;kaller;kaller
+swedish
+translation:kallar;kallar;kallar;kallar;kallar;kallar

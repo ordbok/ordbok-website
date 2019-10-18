@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) recipe;the recipe;recipes;the recipes
+grammar:Neuter
+german
+translation:(ein) Rezept;das Rezept;Rezepte;die Rezepte
+grammar:Neuter
+new-norwegian
+translation:(ei) oppskrift;oppskrifta;oppskrifter;oppskriftene
+grammar:Feminine
+norwegian
+translation:(ei) oppskrift;oppskrifta;oppskrifter;oppskriftene
+grammar:Feminine
+swedish
+translation:(ett) recept;receptet;recept;recepten
+grammar:Neuter

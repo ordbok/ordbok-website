@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:piss;piss;piss;piss;piss;piss
+german
+translation:pisse;pisst;pisst;pissen;pisst;pissen
+new-norwegian
+translation:pissar;pissar;pissar;pissar;pissar;pissar
+norwegian
+translation:pisser;pisser;pisser;pisser;pisser;pisser
+swedish
+translation:pissar;pissar;pissar;pissar;pissar;pissar

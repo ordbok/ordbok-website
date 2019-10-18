@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) vacuum cleaner;the vacuum cleaner;vacuum cleaners;the vacuum cleaners
+grammar:Neuter
+german
+translation:(ein) Staubsauger;der Staubsauger;Staubsauger;die Staubsauger
+grammar:Masculine
+new-norwegian
+translation:(ein) støvsugar;støvsugaren;støvsugarar;støvsugarane
+grammar:Masculine
+norwegian
+translation:(en) støvsuger;støvsugeren;støvsugere;støvsugerne
+grammar:Masculine
+swedish
+translation:(en) dammsugare;dammsugaren;dammsugare;dammsugarna
+grammar:Common

@@ -1,27 +1,27 @@
 {
     "private": true,
-    "name": "@ordbok/demo",
-    "version": "0.0.2",
     "author": "ORDBOK contributors",
-    "license": "MIT",
-    "description": "Implementation example",
-    "keywords": [
-        "dictionary",
-        "ordbok"
-    ],
     "bugs": "https://github.com/ordbok/core/issues",
+    "description": "Implementation example",
     "homepage": "https://github.com/ordbok/demo#readme",
+    "main": "docs/demo.js",
+    "name": "@ordbok/demo",
     "repository": "https://github.com/ordbok/demo.git",
+    "version": "0.0.2",
+    "license": "MIT",
     "devDependencies": {
         "@ordbok/core": "github:ordbok/core#v0.0.8",
         "@ordbok/index-plugin": "github:ordbok/index-plugin#v0.0.4",
         "requirejs": "2.3.6",
-        "typescript": "3.4.5"
+        "typescript": "~3.6.4"
     },
     "engines": {
         "node": ">=10.0.0"
     },
-    "main": "docs/demo.js",
+    "keywords": [
+        "dictionary",
+        "ordbok"
+    ],
     "scripts": {
         "build": "npm run clean && npm run build-1 && npm run build-2 && npm run build-3 && npm run build-4",
         "build-1": "tsc --build tsconfig.json",

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) name;the name;names;the names
+grammar:Neuter
+german
+translation:(ein) Name;der Name;Namen;die Namen
+grammar:Masculine
+new-norwegian
+translation:(eit) namn;namnet;namn;namna
+grammar:Neuter
+norwegian
+translation:(et) navn;navnet;navn;navnene
+grammar:Neuter
+swedish
+translation:(ett) namn;namnet;namn;namnen
+grammar:Neuter

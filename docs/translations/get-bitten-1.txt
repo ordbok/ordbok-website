@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:get bitten;have been bitten
+english
+translation:get bitten;get bitten;gets bitten;get bitten;get bitten;get bitten
+german
+translation:werde gebissen;wirst gebissen;wird gebissen;werden gebissen;bekommt;bekommen
+new-norwegian
+translation:blir bite;blir bite;blir bite;blir bite;blir bite;blir bite
+norwegian
+translation:blir bitt;blir bitt;blir bitt;blir bitt;blir bitt;blir bitt
+swedish
+translation:blir bitet;blir bitet;blir bitet;blir bitet;blir bitet;blir bitet

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:common;feminine;masculine;neuter
+english
+translation:(a) common;the common;commons;the commons
+grammar:Neuter
+german
+translation:(ein) Utrum;das Utrum;Utra;die Utra
+grammar:Neuter
+new-norwegian
+translation:(eit) likekjønn;likekjønnet;likekjønn;likekjønna
+grammar:Neuter
+norwegian
+translation:(et) likekjønn;likekjønnet;likekjønn;likekjønna
+grammar:Neuter
+swedish
+translation:(ett) utrum;utret;utrer;utrerna
+grammar:Neuter

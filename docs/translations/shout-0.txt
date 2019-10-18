@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) shout;the shout;shouts;the shouts
+grammar:Neuter
+german
+translation:(ein) Ruf;der Ruf;Rufe;die Rufe
+grammar:Masculine
+new-norwegian
+translation:(eit) rop;ropet;rop;ropa
+grammar:Neuter
+norwegian
+translation:(et) rop;ropet;rop;ropene
+grammar:Neuter
+swedish
+translation:(ett) rop;ropet;rop;ropen
+grammar:Neuter

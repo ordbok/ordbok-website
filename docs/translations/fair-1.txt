@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:fair;fair;fair;fair;fair;fair;fair;fair;fair;fair;fair;fair
+german
+translation:gerecht;gerecht;gerecht;gerecht;gerechte;gerechter;gerechtes;gerechte;gerechte;gerechte;gerechte;gerechten
+new-norwegian
+translation:rettferdig;rettferdig;rettferdig;rettferdige;rettferdig;rettferdig;rettferdig;rettferdige;rettferdige;rettferdige;rettferdige;rettferdige
+norwegian
+translation:rettferdig;rettferdig;rettferdig;rettferdige;rettferdig;rettferdig;rettferdig;rettferdige;rettferdige;rettferdige;rettferdige;rettferdige
+swedish
+translation:rättvis;rättvis;rättvist;rättvisa;rättvis;rättvis;rättvist;rättvisa;rättvisa;rättvise;rättvisa;rättvisa

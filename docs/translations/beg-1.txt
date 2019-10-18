@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:beg;begged
+english
+translation:beg;beg;begs;beg;beg;beg
+german
+translation:bitte;bittest;bittet;bitten;bittet;bitten
+new-norwegian
+translation:ber;ber;ber;ber;ber;ber
+norwegian
+translation:ber;ber;ber;ber;ber;ber
+swedish
+translation:ber;ber;ber;ber;ber;ber

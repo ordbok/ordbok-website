@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:landlady;landlord
+english
+translation:(a) landlord;the landlord;landlords;the landlords
+grammar:Masculine
+german
+translation:(ein) Vermieter;der Vermieter;Vermieter;die Vermieter
+grammar:Masculine
+new-norwegian
+translation:(ein) vert;verten;vertar;vertane
+grammar:Masculine
+norwegian
+translation:(ei) vert;verten;verter;vertene
+grammar:Masculine
+swedish
+translation:(en) värd;värden;värdar;värdarna
+grammar:Common

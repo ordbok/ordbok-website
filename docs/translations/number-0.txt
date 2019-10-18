@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) number;the number;numbers;the numbers
+grammar:Neuter
+german
+translation:(eine) Zahl;die Zahl;Zahlen;die Zahlen
+grammar:Feminine
+new-norwegian
+translation:(eit) tal;talet;tal;tala
+grammar:Neuter
+norwegian
+translation:(et) tall;tallet;tall;tallene
+grammar:Neuter
+swedish
+translation:(ett) tal;talet;tal;talen
+grammar:Neuter

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:common;feminine;masculine;neuter
+english
+translation:(a) masculine;the masculine;masculines;the masculines
+grammar:Neuter
+german
+translation:(ein) Maskulinum;das Maskulinum;Maskulina;die Maskulina
+grammar:Neuter
+new-norwegian
+translation:(eit) hankjønn;hankjønnet;hankjønn;hankjønna
+grammar:Neuter
+norwegian
+translation:(et) hankjønn;hankjønnet;hankjønn;hankjønna
+grammar:Neuter
+swedish
+translation:(ett) maskulinum;maskulinet;maskuliner;maskulinerna
+grammar:Neuter

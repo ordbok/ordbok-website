@@ -1,6 +1,6 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Pronoun;Indefinite;Plural
+grammar:Determiner;Definite;Singular;Common
 relation:each;every
 english
 translation:every;every;every;-

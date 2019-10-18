@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:can;can;can;can;can;can
+german
+translation:kann;kannst;kann;können;könnt;können
+new-norwegian
+translation:kan;kan;kan;kan;kan;kan
+norwegian
+translation:kan;kan;kan;kan;kan;kan
+swedish
+translation:kan;kan;kan;kan;kan;kan

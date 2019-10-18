@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:mean;meant
+english
+translation:meant;meant;meant;meant;meant;meant
+german
+translation:meinte;meintest;meinte;meinten;meintet;meinten
+new-norwegian
+translation:meinte;meinte;meinte;meinte;meinte;meinte
+norwegian
+translation:mente;mente;mente;mente;mente;mente
+swedish
+translation:menade;menade;menade;menade;menade;menade

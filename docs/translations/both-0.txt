@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Determiner;Definite;Plural;Common
+english
+translation:-;-;-;both
+german
+translation:-;-;-;beide
+new-norwegian
+translation:-;-;-;begge
+norwegian
+translation:-;-;-;begge
+swedish
+translation:-;-;-;bägge

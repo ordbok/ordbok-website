@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:remember;remember;remembers;remember;remember;remember
+german
+translation:erinnere mich;erinnerst dich;erinnert sich;erinnern uns;erinnert euch;erinnern sich
+new-norwegian
+translation:(å) huska;(å) huska;(å) huska;(å) huska;(å) huska;(å) huska
+norwegian
+translation:(å) huske;(å) huske;(å) huske;(å) huske;(å) huske;(å) huske
+swedish
+translation:(att) minnas;(att) minnas;(att) minnas;(att) minnas;(att) minnas;(att) minnas

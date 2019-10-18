@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) shout;(to) shout;(to) shout;(to) shout;(to) shout;(to) shout
+german
+translation:(zu) rufen;(zu) rufen;(zu) rufen;(zu) rufen;(zu) rufen;(zu) rufen
+new-norwegian
+translation:(å) ropa;(å) ropa;(å) ropa;(å) ropa;(å) ropa;(å) ropa
+norwegian
+translation:(å) rope;(å) rope;(å) rope;(å) rope;(å) rope;(å) rope
+swedish
+translation:(att) ropa;(att) ropa;(att) ropa;(att) ropa;(att) ropa;(att) ropa

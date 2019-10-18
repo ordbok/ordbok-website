@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) name;(to) name;(to) name;(to) name;(to) name;(to) name
+german
+translation:(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen
+new-norwegian
+translation:(å) namngi;(å) namngi;(å) namngi;(å) namngi;(å) namngi;(å) namngi
+norwegian
+translation:(å) navngi;(å) navngi;(å) navngi;(å) navngi;(å) navngi;(å) navngi
+swedish
+translation:(att) namnge;(att) namnge;(att) namnge;(att) namnge;(att) namnge;(att) namnge

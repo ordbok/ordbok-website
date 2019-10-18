@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) call;(to) call;(to) call;(to) call;(to) call;(to) call
+german
+translation:(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen;(zu) nennen
+new-norwegian
+translation:(å) kalla;(å) kalla;(å) kalla;(å) kalla;(å) kalla;(å) kalla
+norwegian
+translation:(å) kalle;(å) kalle;(å) kalle;(å) kalle;(å) kalle;(å) kalle
+swedish
+translation:(att) kalla;(att) kalla;(att) kalla;(att) kalla;(att) kalla;(att) kalla

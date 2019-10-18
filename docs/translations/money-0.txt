@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:money;the money;monies;the monies
+grammar:Neuter
+german
+translation:Geld;das Geld;Gelder;die Gelder
+grammar:Neuter
+new-norwegian
+translation:penge;pengen;pengar;pengane
+grammar:Masculine
+norwegian
+translation:penge;pengen;penger;pengene
+grammar:Masculine
+swedish
+translation:peng;pengen;pengar;pengarne
+grammar:Common

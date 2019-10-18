@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:stay overnight;stayed overnight
+english
+translation:stay overnight;stay overnight;stays overnight;stay overnight;stay overnight;stay overnight
+german
+translation:übernachte;übernachtest;übernachtet;übernachten;übernachtet;übernachten
+new-norwegian
+translation:overnattar;overnattar;overnattar;overnattar;overnattar;overnattar
+norwegian
+translation:overnatter;overnatter;overnatter;overnatter;overnatter;overnatter
+swedish
+translation:övernattar;övernattar;övernattar;övernattar;övernattar;övernattar

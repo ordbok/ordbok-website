@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:landlady;landlord
+english
+translation:(a) landlady;the landlady;landladies;the landladies
+grammar:Feminine
+german
+translation:(eine) Vermieterin;die Vermieterin;Vermieterinnen;die Vermieterinnen
+grammar:Feminine
+new-norwegian
+translation:(ei) vertinne;vertinna;vertinner;vertinnene
+grammar:Feminine
+norwegian
+translation:(ei) vertinne;vertinna;vertinner;vertinnene
+grammar:Feminine
+swedish
+translation:(en) värdinna;värdinnan;värdinnor;värdinnorna
+grammar:Common

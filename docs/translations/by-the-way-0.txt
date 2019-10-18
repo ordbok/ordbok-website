@@ -1,0 +1,12 @@
+meta
+grammar:Phrase
+english
+translation:by the way
+german
+translation:übrigens
+new-norwegian
+translation:forresten
+norwegian
+translation:forresten
+swedish
+translation:förresten

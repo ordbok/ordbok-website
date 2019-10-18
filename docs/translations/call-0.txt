@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) call (…);(to) call (…);(to) call (…);(to) call (…);(to) call (…);(to) call (…)
+german
+translation:(…) an (zu) rufen;(…) an (zu) rufen;(…) an (zu) rufen;(…) an (zu) rufen;(…) an (zu) rufen;(…) an (zu) rufen
+new-norwegian
+translation:(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…)
+norwegian
+translation:(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…);(å) ringe (…)
+swedish
+translation:(att) ringa (…);(att) ringa (…);(att) ringa (…);(att) ringa (…);(att) ringa (…);(att) ringa (…)

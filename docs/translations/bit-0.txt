@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:bite;bit
+english
+translation:bit;bit;bit;bit;bit;bit
+german
+translation:biss;bisst;biss;bissen;bisst;bissen
+new-norwegian
+translation:beit;beit;beit;beit;beit;beit
+norwegian
+translation:bet;bet;bet;bet;bet;bet
+swedish
+translation:bet;bet;bet;bet;bet;bet
