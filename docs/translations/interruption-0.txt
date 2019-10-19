@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) interruption;the interruption;interruptions;the interruptions
+grammar:Neuter
+german
+translation:(eine) Unterbrechung;die Unterbrechung;Unterbrechungen;die Unterbrechungen
+grammar:Feminine
+new-norwegian
+translation:(eit) avbrot;avbrotet;avbrot;avbrota
+grammar:Neuter
+norwegian
+translation:(et) avbrudd;avbruddet;avbrudd;avbruddene
+grammar:Neuter
+swedish
+translation:(ett) avbrott;avbrottet;avbrott;avbrotten
+grammar:Neuter

@@ -4,7 +4,7 @@ grammar:Noun
 english
 translation:blood;the blood;-;-
 grammar:Neuter
-germam
+german
 translation:Blut;das Blut;-;-
 grammar:Neuter
 new-norwegian

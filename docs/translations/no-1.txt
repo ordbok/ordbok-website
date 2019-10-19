@@ -6,8 +6,10 @@ translation:no;no;no;no
 german
 translation:keine;kein;kein;keine
 new-norwegian
-translation:ingen;inga;inkje;ingen
+translation:inga;ingen;inkje;ingen
 norwegian
 translation:ingen;ingen;intet;ingen
+polish
+translation:żadna;żaden;żadne;żadni
 swedish
 translation:ingen;ingen;inget;inga

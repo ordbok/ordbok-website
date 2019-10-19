@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:dark;dark;dark;dark;dark;dark;dark;dark;dark;dark;dark;dark
+german
+translation:dunkel;dunkel;dunkel;dunkel;dunkle;dunkler;dunkles;dunkle;dunkle;dunkle;dunkle;dunklen
+new-norwegian
+translation:mørk;mørk;mørkt;mørke;mørk;mørk;mørkt;mørke;mørke;mørke;mørke;mørke;
+norwegian
+translation:mørk;mørk;mørkt;mørke;mørk;mørk;mørkt;mørke;mørke;mørke;mørke;mørke;
+swedish
+translation:mörk;mörk;mörkt;mörka;mörk;mörk;mörkt;mörka;mörka;mörke;mörka;mörka;

@@ -1,0 +1,13 @@
+meta
+grammar:Phrase
+relation:Too bad.;What a pity!
+english
+translation:What a pity!
+german
+translation:Wie schade!
+new-norwegian
+translation:Så synd!
+norwegian
+translation:Så synd!
+swedish
+translation:Vad synd!

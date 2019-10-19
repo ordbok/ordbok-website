@@ -1,12 +1,12 @@
 meta
 grammar:Phrase
 english
-translation:okay
+translation:Okay!
 german
-translation:okay
+translation:Okay!
 new-norwegian
-translation:okey
+translation:Okey!
 norwegian
-translation:okey
+translation:Okey!
 swedish
-translation:okej
+translation:Okej!

@@ -1,0 +1,14 @@
+meta
+grammar:Particle
+english
+translation:against
+german
+translation:gegen
+new-norwegian
+translation:imot
+norwegian
+translation:imot
+polish
+translation:przeciw
+swedish
+translation:emot

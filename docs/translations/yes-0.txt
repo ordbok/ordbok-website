@@ -8,5 +8,7 @@ new-norwegian
 translation:ja
 norwegian
 translation:ja
+polish
+translation:tak
 swedish
 translation:ja

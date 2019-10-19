@@ -1,0 +1,14 @@
+meta
+grammar:Phrase
+english
+translation:Bye!
+german
+translation:Tschüss!
+new-norwegian
+translation:Ha det!
+norwegian
+translation:Ha det!
+polish
+translation:Cześć!
+swedish
+translation:Hejdå!

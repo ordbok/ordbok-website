@@ -1,0 +1,14 @@
+meta
+grammar:Phrase
+english
+translation:Thank you!
+german
+translation:Vielen Dank!
+new-norwegian
+translation:Tusen takk!
+norwegian
+translation:Tusen takk!
+polish
+translation:Dziękuję bardzo!
+swedish
+translation:Tusen tack!

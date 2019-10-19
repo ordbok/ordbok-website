@@ -1,0 +1,14 @@
+meta
+grammar:Phrase
+english
+translation:Thanks!
+german
+translation:Danke!
+new-norwegian
+translation:Takk!
+norwegian
+translation:Takk!
+polish
+translation:Dzięki!
+swedish
+translation:Tack!

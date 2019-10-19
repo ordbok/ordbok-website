@@ -1,0 +1,14 @@
+meta
+grammar:Particle
+english
+translation:please
+german
+translation:bitte
+new-norwegian
+translation:være så snill
+norwegian
+translation:være så snill
+polish
+translation:proszę
+swedish
+translation:snälla

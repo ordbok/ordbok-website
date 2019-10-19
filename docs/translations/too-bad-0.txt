@@ -1,0 +1,13 @@
+meta
+grammar:Phrase
+relation:Too bad.;What a pity!
+english
+translation:Too bad.
+german
+translation:Schade.
+new-norwegian
+translation:Det var synd.
+norwegian
+translation:Det var synd.
+swedish
+translation:Synd.

@@ -8,5 +8,7 @@ new-norwegian
 translation:nei
 norwegian
 translation:nei
+polish
+translation:nie
 swedish
 translation:nej

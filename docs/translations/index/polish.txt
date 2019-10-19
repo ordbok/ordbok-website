@@ -1,0 +1,8 @@
+against:0
+bye:0
+no:1
+please:0
+thank-you-very-much:0
+thank-you:0
+thanks:0
+yes:0

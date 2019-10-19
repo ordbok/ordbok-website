@@ -1,0 +1,14 @@
+meta
+grammar:Phrase
+english
+translation:Thank you!
+german
+translation:Dankeschön!
+new-norwegian
+translation:Takk skal du ha!
+norwegian
+translation:Takk skal du ha!
+polish
+translation:Dziękuję!
+swedish
+translation:Tack ska du ha!
