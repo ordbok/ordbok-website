@@ -1,0 +1,24 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) translator;the translator;translators;the translators
+grammar:Common
+german
+translation:(ein) Übersetzer;der Übersetzer;Übersetzer;die Übersetzer
+grammar:Masculine
+new-norwegian
+translation:(ein) omsetjar;omsetjaren;omsetjarar;omsetjarane
+grammar:Masculine
+norwegian
+translation:(en) oversettelse;oversettelsen;oversettelser;oversettelsene
+grammar:Masculine
+polish
+translation:tłumacz;tłumacz;tłumacze;tłumacze
+grammar:Masculine
+romanian
+translation:traducător;traducătorul;traducători;traducătorii
+grammar:Masculine
+swedish
+translation:(en) översättare;översättaren;översättare;översättarna
+grammar:Common

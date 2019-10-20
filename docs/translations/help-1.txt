@@ -2,12 +2,16 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:to help;to help;to help;to help;to help;to help
+translation:(to) help;(to) help;(to) help;(to) help;(to) help;(to) help
 german
-translation:zu helfen;zu helfen;zu helfen;zu helfen;zu helfen;zu helfen
+translation:(zu) helfen;(zu) helfen;(zu) helfen;(zu) helfen;(zu) helfen;(zu) helfen
 new-norwegian
-translation:å hjelpe;å hjelpe;å hjelpe;å hjelpe;å hjelpe;å hjelpe
+translation:(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe
 norwegian
-translation:å hjelpe;å hjelpe;å hjelpe;å hjelpe;å hjelpe;å hjelpe
+translation:(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe;(å) hjelpe
+polish
+translation:pomóc;pomóc;pomóc;pomóc;pomóc;pomóc
+romanian
+translation:(a) ajuta;(a) ajuta;(a) ajuta;(a) ajuta;(a) ajuta;(a) ajuta
 swedish
-translation:att hjälpa;att hjälpa;att hjälpa;att hjälpa;att hjälpa;att hjälpa
+translation:(att) hjälpa;(att) hjälpa;(att) hjälpa;(att) hjälpa;(att) hjälpa;(att) hjälpa

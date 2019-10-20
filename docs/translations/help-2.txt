@@ -9,5 +9,9 @@ new-norwegian
 translation:hjelper;hjelper;hjelper;hjelper;hjelper;hjelper
 norwegian
 translation:hjelper;hjelper;hjelper;hjelper;hjelper;hjelper
+polish
+translation:pomogę;pomożesz;pomoże;pomożemy;pomożecie;pomogą
+romanian
+translation:ajut;ajuti;ajută;ajutăm;ajutți;ajută
 swedish
 translation:hjälper;hjälper;hjälper;hjälper;hjälper;hjälper

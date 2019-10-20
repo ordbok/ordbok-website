@@ -10,5 +10,7 @@ norwegian
 translation:nei
 polish
 translation:nie
+romanian
+translation:nu
 swedish
 translation:nej

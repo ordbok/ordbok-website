@@ -1,0 +1,24 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) police;the police;polices;the polices
+grammar:Neuter
+german
+translation:(eine) Polizei;die Polizei;Polizeien;die Polizeien
+grammar:Feminine
+new-norwegian
+translation:(eit) politi;politiet;politi;politia
+grammar:Neuter
+norwegian
+translation:(et) politi;politiet;politi;politiene
+grammar:Neuter
+polish
+translation:policja;policja;policje;policje
+grammar:Feminine
+romanian
+translation:poliție;poliția;poliții;polițiile
+grammar:Feminine
+swedish
+translation:(en) polis;polisen;poliser;poliserna
+grammar:Common

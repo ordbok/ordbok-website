@@ -10,5 +10,7 @@ norwegian
 translation:ja
 polish
 translation:tak
+romanian
+translation:da
 swedish
 translation:ja

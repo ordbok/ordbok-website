@@ -1,0 +1,24 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) doctor;the doctor;doctors;the doctors
+grammar:Common
+german
+translation:(ein) Arzt;der Arzt;Ärzte;die Ärzte
+grammar:Masculine
+new-norwegian
+translation:(ein) lege;legen;legar;legane
+grammar:Masculine
+norwegian
+translation:(en) lege;legen;leger;legene
+grammar:Masculine
+polish
+translation:lekarz;lekarz;lekarza;lekarza
+grammar:Masculine
+romanian
+translation:doctor;doctorul;doctori;doctorii
+grammar:Masculine
+swedish
+translation:(en) läkare;läkaren;läkare;läkarna
+grammar:Common

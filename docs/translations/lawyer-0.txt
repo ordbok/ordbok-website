@@ -1,0 +1,24 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) lawyer;the lawyer;lawyers;the lawyers
+grammar:Common
+german
+translation:(ein) Anwalt;der Anwalt;Anwälte;die Anwälte
+grammar:Masculine
+new-norwegian
+translation:(ein) advokat;advokaten;advokatar;advokatane
+grammar:Masculine
+norwegian
+translation:(en) advokat;advokaten;advokater;advokatene
+grammar:Masculine
+polish
+translation:adwokat;adwokat;adwokaci;adwokaci
+grammar:Masculine
+romanian
+translation:avocat;avocatul;avocați;avocații
+grammar:Masculine
+swedish
+translation:(en) advokat;advokaten;advokater;advokaterna
+grammar:Common

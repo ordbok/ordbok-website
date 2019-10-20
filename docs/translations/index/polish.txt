@@ -1,8 +1,14 @@
 against:0
 bye:0
+doctor:0
+help:2
+lawyer:0
 no:1
 please:0
+police:0
 thank-you-very-much:0
 thank-you:0
 thanks:0
+toaster:0
+translator:1
 yes:0

@@ -1,0 +1,24 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) translator;the translator;translators;the translators
+grammar:Common
+german
+translation:(ein) Dolmetscher;der Dolmetscher;Dolmetscher;die Dolmetscher
+grammar:Masculine
+new-norwegian
+translation:(ein) tolk;tolken;tolkar;tolkane
+grammar:Masculine
+norwegian
+translation:(en) tolk;tolken;tolker;tolkene
+grammar:Masculine
+polish
+translation:tłumacz;tłumacz;tłumacze;tłumacze
+grammar:Masculine
+romanian
+translation:traducător;traducătorul;traducători;traducătorii
+grammar:Masculine
+swedish
+translation:(en) tolk;tolken;tolkar;tolkarna
+grammar:Common
