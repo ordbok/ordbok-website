@@ -57,6 +57,7 @@ chalcography:0
 character:0
 chase-after:1
 chat:2
+cheat:2
 cheer:1
 cheese:0
 chew:1
@@ -92,7 +93,6 @@ doubt:2
 draft:0
 drivers-license:0
 duck:0
-hair-dryer:0
 each:0
 earth:0
 earthquake:0
@@ -102,9 +102,11 @@ english:1
 englishman:0
 englishwoman:0
 enough:0
+entry:1
 every:0
 everyone:0
 everywhere:0
+exit:0
 experience:0
 expressway:0
 fair:1
@@ -139,6 +141,7 @@ go:1
 good:0
 group:0
 had:0
+hair-dryer:0
 hair:0
 haircut:0
 hairdresser:1
@@ -193,8 +196,7 @@ life:0
 lightning:0
 like-that:0
 love:2
-small:0
-the-lord-of-the-rings:0
+luck:0
 made:0
 make:1
 man:0
@@ -296,6 +298,7 @@ silicon:0
 silicone:0
 simple:0
 sky:0
+small:0
 smile:2
 snitch:0
 snowslide:0
@@ -325,6 +328,7 @@ thank-you-very-much:0
 thank-you:0
 thanks-yourself:0
 thanks:0
+the-lord-of-the-rings:0
 their:1
 them:0
 then:0

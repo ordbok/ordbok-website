@@ -3,7 +3,7 @@ structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Def
 grammar:Noun
 relation:earthquake;quake
 english
-translation:(a) earthquake;the earthquake;earthquakes;the earthquakes
+translation:(an) earthquake;the earthquake;earthquakes;the earthquakes
 grammar:Neuter
 german
 translation:(ein) Erdbeben;das Erdbeben;Erdbeben;die Erdbeben

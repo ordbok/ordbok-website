@@ -15,4 +15,4 @@ translation:(en) storm;stormen;stormer;stormene
 grammar:Masculine
 swedish
 translation:(en) storm;stormen;stormar;stormarna
-grammar:Masculine
+grammar:Common

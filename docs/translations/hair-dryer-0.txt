@@ -15,4 +15,4 @@ translation:(en) hårtørker;hårtørkeren;hårtørkere;hårtørkerne
 grammar:Masculine
 swedish
 translation:(en) hårtork;hårtorken;hårtorkar;hårtorkarna
-grammar:Masculine
+grammar:Common

@@ -17,7 +17,7 @@ polish
 translation:lekarz;lekarz;lekarza;lekarza
 grammar:Masculine
 romanian
-translation:doctor;doctorul;doctori;doctorii
+translation:medic;medicul;medici;medicii
 grammar:Masculine
 swedish
 translation:(en) läkare;läkaren;läkare;läkarna

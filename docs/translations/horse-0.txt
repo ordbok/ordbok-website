@@ -15,4 +15,4 @@ translation:(en) hest;hesten;hester;hestene
 grammar:Masculine
 swedish
 translation:(en) häst;hästen;hästar;hästarna
-grammar:Masculine
+grammar:Common

@@ -15,4 +15,4 @@ translation:(ei) fil;fila;filer;filene
 grammar:Feminine
 swedish
 translation:(en) fil;filen;filer;filerna
-grmmar:Common
+grammar:Common

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:entry;exit
+english
+translation:(an) entry;the entry;entries;the entries
+grammar:Neuter
+german
+translation:(ein) Eingang;der Eingang;Eingänge;die Eingänge
+grammar:Masculine
+new-norwegian
+translation:(ein) inngang;inngangen;inngangar;inngangane
+grammar:Masculine
+norwegian
+translation:(en) inngang;inngangen;innganger;inngangene
+grammar:Masculine
+swedish
+translation:(en) ingång;ingången;ingångar;ingångarna
+grammar:Common

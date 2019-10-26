@@ -16,4 +16,4 @@ translation:(et) jordskred;jordskredet;jordskred;jordskredene
 grammar:Neuter
 swedish
 translation:(ett) jordskred;jordskredet;jordskred;jordskreden
-grammar:Neutrum
+grammar:Neuter

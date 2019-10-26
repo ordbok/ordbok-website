@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) exit;the exit;exits;the exits
+grammar:Neuter
+german
+translation:(ein) Ausgang;der Ausgang;Ausgänge;die Ausgänge
+grammar:Masculine
+new-norwegian
+translation:(ein) utgang;utgangen;utgangar;utgangane
+grammar:Masculine
+norwegian
+translation:(en) utgang;utgangen;utganger;utgangene
+grammar:Masculine
+swedish
+translation:(en) utgång;utgången;utgångar;utgångarna
+grammar:Common

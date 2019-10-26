@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) cheat;the cheat;cheats;the cheats
+grammar:Neuter
+german
+translation:(eine) Schummelei;die Schummelei;Schummeleien;die Schummeleien
+grammar:Feminine
+new-norwegian
+translation:(eit) juks;jukset;juks;juksa
+grammar:Neuter
+norwegian
+translation:(et) juks;jukset;juks;juksene
+grammar:Neuter
+swedish
+translation:(ett) fusk;fusket;fusk;fusken
+grammar:Neuter
