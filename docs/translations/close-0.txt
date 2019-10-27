@@ -2,12 +2,12 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:close;close;close;close;close;close
+translation:(to) close;(to) close;(to) close;(to) close;(to) close;(to) close
 german
-translation:schließen;schließen;schließen;schließen;schließen;schließen
+translation:(zu) schließen;(zu) schließen;(zu) schließen;(zu) schließen;(zu) schließen;(zu) schließen
 new-norwegian
-translation:lukka;lukka;lukka;lukka;lukka;lukka
+translation:(å) lukka;(å) lukka;(å) lukka;(å) lukka;(å) lukka;(å) lukka
 norwegian
-translation:lukke;lukke;lukke;lukke;lukke;lukke
+translation:(å) lukke;(å) lukke;(å) lukke;(å) lukke;(å) lukke;(å) lukke
 swedish
-translation:stänga;stänga;stänga;stänga;stänga;stänga
+translation:(att) stänga;(att) stänga;(att) stänga;(att) stänga;(att) stänga;(att) stänga

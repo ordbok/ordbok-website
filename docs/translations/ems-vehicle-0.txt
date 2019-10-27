@@ -9,7 +9,7 @@ german
 translation:(ein) Notarztwagen;der Notarztwagen;Notarztwagen;die Notarztwagen
 grammar:Masculine
 new-norwegian
-translation:(en) akuttbil;akuttbilen;akuttbilar;akuttbilane
+translation:(ein) akuttbil;akuttbilen;akuttbilar;akuttbilane
 grammar:Masculine
 norwegian
 translation:(en) akuttbil;akuttbilen;akuttbiler;akuttbilene

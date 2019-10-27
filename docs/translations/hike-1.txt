@@ -2,12 +2,12 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:to hike;to hike;to hike;to hike;to hike;to hike
+translation:(to) hike;(to) hike;(to) hike;(to) hike;(to) hike;(to) hike
 german
-translation:zu wandern;zu wandern;zu wandern;zu wandern;zu wandern;zu wandern
+translation:(zu) wandern;(zu) wandern;(zu) wandern;(zu) wandern;(zu) wandern;(zu) wandern
 new-norwegian
-translation:å vandra;å vandra;å vandra;å vandra;å vandra;å vandra
+translation:(å) vandra;(å) vandra;(å) vandra;(å) vandra;(å) vandra;(å) vandra
 norwegian
-translation:å vandre;å vandre;å vandre;å vandre;å vandre;å vandre
+translation:(å) vandre;(å) vandre;(å) vandre;(å) vandre;(å) vandre;(å) vandre
 swedish
-translation:att vandra;att vandra;att vandra;att vandra;att vandra;att vandra
+translation:(att) vandra;(att) vandra;(att) vandra;(att) vandra;(att) vandra;(att) vandra

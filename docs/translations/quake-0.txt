@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:earthquake;quake
 english
-translation:to quake;to quake;to quake;to quake;to quake;to quake
+translation:(to) quake;(to) quake;(to) quake;(to) quake;(to) quake;(to) quake
 german
-translation:zu beben;zu beben;zu beben;zu beben;zu beben;zu beben
+translation:(zu) beben;(zu) beben;(zu) beben;(zu) beben;(zu) beben;(zu) beben
 new-norwegian
-translation:å skjelva;å skjelva;å skjelva;å skjelva;å skjelva;å skjelva
+translation:(å) skjelva;(å) skjelva;(å) skjelva;(å) skjelva;(å) skjelva;(å) skjelva
 norwegian
-translation:å skjelve;å skjelve;å skjelve;å skjelve;å skjelve;å skjelve
+translation:(å) skjelve;(å) skjelve;(å) skjelve;(å) skjelve;(å) skjelve;(å) skjelve
 swedish
-translation:att skälva;att skälva;att skälva;att skälva;att skälva;att skälva
+translation:(att) skälva;(att) skälva;(att) skälva;(att) skälva;(att) skälva;(att) skälva

@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:make;made
 english
-translation:to make;to make;to make;to make;to make;to make
+translation:(to) make;(to) make;(to) make;(to) make;(to) make;(to) make
 german
-translation:zu machen;zu machen;zu machen;zu machen;zu machen;zu machen
+translation:(zu) machen;(zu) machen;(zu) machen;(zu) machen;(zu) machen;(zu) machen
 new-norwegian
-translation:å lage;å lage;å lage;å lage;å lage;å lage
+translation:(å) lage;(å) lage;(å) lage;(å) lage;(å) lage;(å) lage
 norwegian
-translation:å lage;å lage;å lage;å lage;å lage;å lage
+translation:(å) lage;(å) lage;(å) lage;(å) lage;(å) lage;(å) lage
 swedish
-translation:att göra;att göra;att göra;att göra;att göra;att göra
+translation:(att) göra;(att) göra;(att) göra;(att) göra;(att) göra;(att) göra

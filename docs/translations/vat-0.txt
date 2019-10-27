@@ -1,0 +1,17 @@
+meta
+grammar:Phrase
+relation:value-added tax;vat
+english
+translation:VAT
+german
+translation:MwSt.
+new-norwegian
+translation:mva.
+norwegian
+translation:mva.
+polish
+translation:PTU
+romanian
+translation:TVA
+swedish
+translation:moms

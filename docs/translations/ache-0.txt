@@ -5,7 +5,7 @@ english
 translation:(a) ache;the ache;aches;the aches
 grammar:Neuter
 german
-translation:(eit) Weh;das Weh;Wehen;die Wehen
+translation:(ein) Weh;das Weh;Wehen;die Wehen
 grammar:Neuter
 new-norwegian
 translation:(ei) pine;pina;piner;pinene

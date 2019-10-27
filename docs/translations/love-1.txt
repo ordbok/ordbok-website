@@ -2,12 +2,12 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:to love;to love;to love;to love;to love;to love
+translation:(to) love;(to) love;(to) love;(to) love;(to) love;(to) love
 german
-translation:zu lieben;zu lieben;zu lieben;zu lieben;zu lieben;zu lieben
+translation:(zu) lieben;(zu) lieben;(zu) lieben;(zu) lieben;(zu) lieben;(zu) lieben
 new-norwegian
-translation:å elska;å elska;å elska;å elska;å elska;å elska
+translation:(å) elska;(å) elska;(å) elska;(å) elska;(å) elska;(å) elska
 norwegian
-translation:å elske;å elske;å elske;å elske;å elske;å elske
+translation:(å) elske;(å) elske;(å) elske;(å) elske;(å) elske;(å) elske
 swedish
-translation:att älska;att älska;att älska;att älska;att älska;att älska
+translation:(att) älska;(att) älska;(att) älska;(att) älska;(att) älska;(att) älska

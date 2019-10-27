@@ -12,7 +12,7 @@ new-norwegian
 translation:(ein) vert;verten;vertar;vertane
 grammar:Masculine
 norwegian
-translation:(ei) vert;verten;verter;vertene
+translation:(en) vert;verten;verter;vertene
 grammar:Masculine
 swedish
 translation:(en) värd;värden;värdar;värdarna

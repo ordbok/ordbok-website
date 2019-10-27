@@ -2,7 +2,7 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Present
 english
-translation:come;come;comee;come;come;come
+translation:come;come;comes;come;come;come
 german
 translation:komme;kommst;kommt;kommen;kommt;kommen
 new-norwegian

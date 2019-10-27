@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:make;made
 english
-translation:to marry;to marry;to marry;to marry;to marry;to marry
+translation:(to) marry;(to) marry;(to) marry;(to) marry;(to) marry;(to) marry
 german
-translation:zu heiraten;zu heiraten;zu heiraten;zu heiraten;zu heiraten;zu heiraten
+translation:(zu) heiraten;(zu) heiraten;(zu) heiraten;(zu) heiraten;(zu) heiraten;(zu) heiraten
 new-norwegian
-translation:å gifta;å gifta;å gifta;å gifta;å gifta;å gifta
+translation:(å) gifta;(å) gifta;(å) gifta;(å) gifta;(å) gifta;(å) gifta
 norwegian
-translation:å gifte;å gifte;å gifte;å gifte;å gifte;å gifte
+translation:(å) gifte;(å) gifte;(å) gifte;(å) gifte;(å) gifte;(å) gifte
 swedish
-translation:att gifta;att gifta;att gifta;att gifta;att gifta;att gifta
+translation:(att) gifta;(att) gifta;(att) gifta;(att) gifta;(att) gifta;(att) gifta

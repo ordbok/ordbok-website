@@ -11,4 +11,6 @@ thank-you:0
 thanks:0
 toaster:0
 translator:1
+value-added-tax:0
+vat:0
 yes:0

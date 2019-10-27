@@ -3,12 +3,12 @@ structure:Singular, First Person;Singular, Second Person;Singular, Third Person;
 grammar:Verb;Infinitive
 relation:jump
 english
-translation:to jump;to jump;to jump;to jump;to jump;to jump
+translation:(to) jump;(to) jump;(to) jump;(to) jump;(to) jump;(to) jump
 german
-translation:zu springen;zu springen;zu springen;zu springen;zu springen;zu springen
+translation:(zu) springen;(zu) springen;(zu) springen;(zu) springen;(zu) springen;(zu) springen
 new-norwegian
-translation:å hoppa;å hoppa;å hoppa;å hoppa;å hoppa;å hoppa
+translation:(å) hoppa;(å) hoppa;(å) hoppa;(å) hoppa;(å) hoppa;(å) hoppa
 norwegian
-translation:å hoppe;å hoppe;å hoppe;å hoppe;å hoppe;å hoppe
+translation:(å) hoppe;(å) hoppe;(å) hoppe;(å) hoppe;(å) hoppe;(å) hoppe
 swedish
-translation:att hoppa;att hoppa;att hoppa;att hoppa;att hoppa;att hoppa
+translation:(att) hoppa;(att) hoppa;(att) hoppa;(att) hoppa;(att) hoppa;(att) hoppa

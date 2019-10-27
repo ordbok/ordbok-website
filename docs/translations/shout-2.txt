@@ -2,7 +2,7 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Present
 english
-translation:shout;shout;shouts;shout;shout;shouts
+translation:shout;shout;shouts;shout;shout;shout
 german
 translation:rufe;rufst;ruft;rufen;ruft;rufen
 new-norwegian

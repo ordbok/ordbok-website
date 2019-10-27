@@ -2,12 +2,12 @@ meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
 english
-translation:to cut out;to cut out;to cut out;to cut out;to cut out;to cut out
+translation:(to) cut out;(to) cut out;(to) cut out;(to) cut out;(to) cut out;(to) cut out
 german
-translation:zu ausschneiden;zu ausschneiden;zu ausschneiden;zu ausschneiden;zu ausschneiden;zu ausschneiden
+translation:aus (zu) schneiden;aus (zu) schneiden;aus (zu) schneiden;aus (zu) schneiden;aus (zu) schneiden;aus (zu) schneiden
 new-norwegian
-translation:å klipp ut;å klipp ut;å klipp ut;å klipp ut;å klipp ut;å klipp ut
+translation:(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut
 norwegian
-translation:å klipp ut;å klipp ut;å klipp ut;å klipp ut;å klipp ut;å klipp ut
+translation:(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut;(å) klipp ut
 swedish
-translation:att klippa ut;att klippa ut;att klippa ut;att klippa ut;att klippa ut;att klippa ut
+translation:(att) klippa ut;(att) klippa ut;(att) klippa ut;(att) klippa ut;(att) klippa ut;(att) klippa ut

@@ -9,7 +9,7 @@ translation:(ein) Dalmatiner;der Dalmatiner;Dalmatiner;die Dalmatiner
 grammar:Masculine
 new-norwegian
 translation:(ein) dalmatinar;dalmatinaren;dalmatinarar;dalmatinarane
-grammar:Neuter
+grammar:Masculine
 norwegian
 translation:(en) dalmatiner;dalmatineren;dalmatinere;dalmatinerne
 grammar:Masculine

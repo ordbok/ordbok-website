@@ -6,7 +6,7 @@ translation:(a) chocolate;the chocolate;chocolates;the chocolates
 grammar:Neuter
 german
 translation:(eine) Schokolade;die Schokolade;Schokoladen;die Schokoladen
-grammar:Neuter
+grammar:Feminine
 new-norwegian
 translation:(ein) sjokolade;sjokoladen;sjokoladar;sjokoladane
 grammar:Masculine

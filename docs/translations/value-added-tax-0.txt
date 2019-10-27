@@ -1,0 +1,25 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:value-added tax;vat
+english
+translation:(a) value-added tax;the value-added tax;value-added taxes;the value-added taxes
+grammar:Neuter
+german
+translation:(eine) Mehrwertsteuer;die Mehrwertsteuer;Mehrwertsteuern;die Mehrwertsteuern
+grammar:Feminine
+new-norwegian
+translation:(ei) meirverdiavgift;meirverdiavgifta;meirverdiavgifter;meirverdiavgiftene
+grammar:Feminine
+norwegian
+translation:(ei) merverdiavgift;merverdiavgifta;merverdiavgifter;merverdiavgiftene
+grammar:Feminine
+polish
+translation:podatek od towarów i usług;podatek od towarów i usług;podatki od towarów i usług;podatki od towarów i usług
+grammar:Masculine
+romanian
+translation:taxă pe valoarea adăugată;taxa pe valoarea adăugată;taxe pe valoarea adăugată;taxele pe valoarea adăugată
+grammar:Feminine
+swedish
+translation:(en) mervärdeskatt;mervärdeskatten;mervärdeskatter;mervärdeskatterna
+grammar:Common

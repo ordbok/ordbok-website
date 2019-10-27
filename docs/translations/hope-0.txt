@@ -6,7 +6,7 @@ translation:(a) hope;the hope;hopes;the hopes
 grammar:Neuter
 german
 translation:(eine) Hoffnung;die Hoffnung;Hoffnungen;die Hoffnungen
-grammar:Translation
+grammar:Feminine
 new-norwegian
 translation:(eit) håp;håpet;håp;håpa
 grammar:Neuter
