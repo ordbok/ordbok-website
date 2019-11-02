@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:check;check;checks;check;check;check
+german
+translation:prüfe;prüfst;prüft;prüfen;prüft;prüfen
+new-norwegian
+translation:sjekkar;sjekkar;sjekkar;sjekkar;sjekkar;sjekkar
+norwegian
+translation:sjekker;sjekker;sjekker;sjekker;sjekker;sjekker
+swedish
+translation:checkar;checkar;checkar;checkar;checkar;checkar

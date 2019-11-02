@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) accident;the accident;accidents;the accidents
+grammar:Neuter
+german
+translation:(ein) Unfall;der Unfall;Unfälle;die Unfälle
+grammar:Masculine
+new-norwegian
+translation:(ei) ulykke;ulykka;ulykker;ulykkene
+grammar:Feminine
+norwegian
+translation:(ei) ulykke;ulykka;ulykker;ulykkene
+grammar:Feminine
+swedish
+translation:(en) olycka;olyckan;olyckor;olyckorna
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:adult;adult;adult;adult;adult;adult;adult;adult;adult;adult;adult;adult
+german
+translation:erwachsen;erwachsen;erwachsen;erwachsen;erwachsene;erwachsener;erwachsenes;erwachsene;erwachsene;erwachsene;erwachsene;erwachsenen
+new-norwegian
+translation:vaksen;vaksen;vakse;vaksne;vaksen;vaksen;vakse;vaksne;vaksne;vaksne;vaksne;vaksne
+norwegian
+translation:voksen;voksen;voksent;voksne;voksen;voksen;voksent;voksne;voksne;voksne;voksne;voksne
+swedish
+translation:vuxen;vuxen;vuxet;vuxna;vuxen;vuxen;vuxet;vuxna;vuxna;vuxne;vuxna;vuxna

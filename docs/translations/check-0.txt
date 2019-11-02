@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) check;(to) check;(to) check;(to) check;(to) check;(to) check
+german
+translation:(zu) prüfen;(zu) prüfen;(zu) prüfen;(zu) prüfen;(zu) prüfen;(zu) prüfen
+new-norwegian
+translation:(å) sjekka;(å) sjekka;(å) sjekka;(å) sjekka;(å) sjekka;(å) sjekka
+norwegian
+translation:(å) sjekke;(å) sjekke;(å) sjekke;(å) sjekke;(å) sjekke;(å) sjekke
+swedish
+translation:(att) checka;(att) checka;(att) checka;(att) checka;(att) checka;(att) checka

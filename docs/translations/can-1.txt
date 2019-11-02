@@ -1,13 +1,14 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
-grammar:Verb;Present
+grammar:Verb;Infinitive
+relation:can;could
 english
-translation:can;can;can;can;can;can
+translation:(to) can;(to) can;(to) can;(to) can;(to) can;(to) can
 german
-translation:kann;kannst;kann;können;könnt;können
+translation:(zu) können;(zu) können;(zu) können;(zu) können;(zu) können;(zu) können
 new-norwegian
-translation:kan;kan;kan;kan;kan;kan
+translation:(å) kunne;(å) kunne;(å) kunne;(å) kunne;(å) kunne;(å) kunne
 norwegian
-translation:kan;kan;kan;kan;kan;kan
+translation:(å) kunne;(å) kunne;(å) kunne;(å) kunne;(å) kunne;(å) kunne
 swedish
-translation:kan;kan;kan;kan;kan;kan
+translation:(att) kunna;(att) kunna;(att) kunna;(att) kunna;(att) kunna;(att) kunna

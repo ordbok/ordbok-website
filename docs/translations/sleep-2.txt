@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:sleep;sleep;sleeps;sleep;sleep;sleep
+german
+translation:schlafe;schläfst;schläft;schlafen;schläft;schlafen
+new-norwegian
+translation:søv;søv;søv;søv;søv;søv
+norwegian
+translation:sover;sover;sover;sover;sover;sover
+swedish
+translation:sover;sover;sover;sover;sover;sover

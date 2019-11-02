@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:how;how;how;how
+german
+translation:wie;wie;wie;wie
+new-norwegian
+translation:korleis;korleis;korleis;korleis
+norwegian
+translation:hvordan;hvordan;hvordan;hvordan
+swedish
+translation:hur;hur;hur;hur

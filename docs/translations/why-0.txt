@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:why;why;why;why
+german
+translation:warum;warum;warum;warum
+new-norwegian
+translation:kvifor;kvifor;kvifor;kvifor
+norwegian
+translation:hvorfor;hvorfor;hvorfor;hvorfor
+swedish
+translation:varför;varför;varför;varför

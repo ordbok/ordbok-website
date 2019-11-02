@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:how much;how much;how much;how many
+german
+translation:wie viel;wie viel;wie viel;wie viele
+new-norwegian
+translation:kor mykje;kor mykje;kor mykje;kor mange
+norwegian
+translation:hvor mye;hvor mye;hvor mye;hvor mange
+swedish
+translation:hur mycken;hur mycken;hur mycket;hur många

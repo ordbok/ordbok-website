@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:fix;fix;fixes;fix;fix;fix
+german
+translation:repariere;reparierst;repariert;reparieren;repariert;reparieren
+new-norwegian
+translation:fiksar;fiksar;fiksar;fiksar;fiksar;fiksar
+norwegian
+translation:fikser;fikser;fikser;fikser;fikser;fikser
+swedish
+translation:reparerar;reparerar;reparerar;reparerar;reparerar;reparerar

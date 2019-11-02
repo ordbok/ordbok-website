@@ -4,10 +4,10 @@ grammar:Adjective;Positive
 english
 translation:quick;quick;quick;quick;quick;quick;quick;quick;quick;quick;quick;quick
 german
-translation:rasch;rasch;rasch;rasch;rasche;rascher;rasches;rasche;rasche;rasche;rasche;raschen
+translation:schnell;schnell;schnell;schnell;schnelle;schneller;schnelles;schnelle;schnelle;schnelle;schnelle;schnellen
 new-norwegian
-translation:kjapp;kjapp;kjapt;kjappe;kjapp;kjapp;kjapt;kjappe;kjappe;kjappe;kjappe;kjappe
+translation:snar;snar;snart;snare;snar;snar;snart;snare;snare;snare;snare;snare
 norwegian
-translation:kjapp;kjapp;kjapt;kjappe;kjapp;kjapp;kjapt;kjappe;kjappe;kjappe;kjappe;kjappe
+translation:snar;snar;snart;snare;snar;snar;snart;snare;snare;snare;snare;snare
 swedish
-translation:rask;rask;raskt;raska;rask;rask;raskt;raska;raska;raske;raska;raska
+translation:snar;snar;snart;snara;snar;snar;snart;snara;snara;snara;snara;snara

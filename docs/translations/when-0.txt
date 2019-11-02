@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:when;when;when;when
+german
+translation:wann;wann;wann;wann
+new-norwegian
+translation:når;når;når;når
+norwegian
+translation:når;når;når;når
+swedish
+translation:när;när;när;när

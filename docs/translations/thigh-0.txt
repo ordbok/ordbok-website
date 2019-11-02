@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:shank;thigh
+english
+translation:(a) thigh;the thigh;thighs;the thighs
+grammar:Neuter
+german
+translation:(ein) Oberschenkel;der Oberschenkel;Oberschenkel;die Oberschenkel
+grammar:Masculine
+new-norwegian
+translation:(eit) lår;låret;lår;låra
+grammar:Neuter
+norwegian
+translation:(et) lår;låret;lår;lårene
+grammar:Neuter
+swedish
+translation:(ett) lår;låret;lår;låren
+grammar:Neuter

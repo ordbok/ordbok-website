@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+relation:who;whom;whose
+english
+translation:whom;whom;-;-
+german
+translation:wem;wem;-;-
+new-norwegian
+translation:kven;kven;-;-
+norwegian
+translation:hvem;hvem;-;-
+swedish
+translation:vems;vems;-;-

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) judgment;the judgment;judgments;the judgments
+grammar:Neuter
+german
+translation:(ein) Urteil;das Urteil;Urteile;die Urteile
+grammar:Neuter
+new-norwegian
+translation:(ein) dom;domen;domar;domane
+grammar:Masculine
+norwegian
+translation:(en) dom;dommen;dommer;dommene
+grammar:Masculine
+swedish
+translation:(en) dom;domen;domar;domarna
+grammar:Common

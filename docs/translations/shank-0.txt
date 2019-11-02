@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:shank;thigh
+english
+translation:(a) shank;the shank;shanks;the shanks
+grammar:Neuter
+german
+translation:(ein) Unterschenkel;der Unterschenkel;Unterschenkel;die Unterschenkel
+grammar:Masculine
+new-norwegian
+translation:(ein) legg;leggen;leggar;leggane
+grammar:Masculine
+norwegian
+translation:(en) legg;leggen;legger;leggene
+grammar:Masculine
+swedish
+translation:(ett) underben;underbenet;underben;underbenen
+grammar:Neuter

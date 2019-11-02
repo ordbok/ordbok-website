@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:what;what;what;what
+german
+translation:was;was;was;was
+new-norwegian
+translation:kva;kva;kva;kva
+norwegian
+translation:hva;hva;hva;hva
+swedish
+translation:vad;vad;vad;vad

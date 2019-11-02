@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) marketplace;the marketplace;marketplaces;the marketplaces
+grammar:Neuter
+german
+translation:(ein) Marktplatz;der Marktplatz;Marktplätze;die Marktplätze
+grammar:Masculine
+new-norwegian
+translation:(eit) torg;torget;torg;torga
+grammar:Neuter
+norwegian
+translation:(et) torg;torget;torg;torgene
+grammar:Neuter
+swedish
+translation:(ett) torg;torget;torg;torgen
+grammar:Neuter

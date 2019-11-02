@@ -1,0 +1,13 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Indefinite
+english
+translation:where;where;where;where
+german
+translation:wo;wo;wo;wo
+new-norwegian
+translation:kor;kor;kor;kor
+norwegian
+translation:hvor;hvor;hvor;hvor
+swedish
+translation:var;var;var;var
