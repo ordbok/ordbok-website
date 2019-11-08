@@ -1,0 +1,14 @@
+meta
+structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
+grammar:Pronoun;Third Person;Singular
+relation:me;you;her;him;it;us;you;them
+english
+translation:her;-;-;-
+german
+translation:ihr;-;-;-
+new-norwegian
+translation:henne;-;-;-
+norwegian
+translation:henne;-;-;-
+swedish
+translation:henne;-;-;-

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:advanced education;education
+english
+translation:(a) education;the education;educations;the educations
+grammar:Neuter
+german
+translation:(eine) Ausbildung;die Ausbildung;Ausbildungen;die Ausbildungen
+grammar:Feminine
+new-norwegian
+translation:(ei) utdanning;utdanninga;utdanninger;utdanningene
+grammar:Feminine
+norwegian
+translation:(en) utdannelse;utdannelsen;utdannelser;utdannelsene
+grammar:Masculine
+swedish
+translation:(en) utbildning;utbildningen;utbildningar;utbildningarna
+grammar:Common

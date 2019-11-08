@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) leash;the leash;leashes;the leashes
+grammar:Neuter
+german
+translation:(eine) Leine;die Leine;Leinen;die Leinen
+grammar:Feminine
+new-norwegian
+translation:(eit) band;bandet;band;banda
+grammar:Neuter
+norwegian
+translation:(et) bånd;båndet;bånd;båndene
+grammar:Neuter
+swedish
+translation:(ett) koppel;kopplet;koppel;kopplen
+grammar:Neuter

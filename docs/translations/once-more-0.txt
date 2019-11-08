@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:once more
+german
+translation:noch einmal
+new-norwegian
+translation:ein gang til
+norwegian
+translation:en gang til
+swedish
+translation:omigen

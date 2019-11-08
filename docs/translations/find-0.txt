@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) find;(to) find;(to) find;(to) find;(to) find;(to) find
+german
+translation:(zu) finden;(zu) finden;(zu) finden;(zu) finden;(zu) finden;(zu) finden
+new-norwegian
+translation:(å) finna;(å) finna;(å) finna;(å) finna;(å) finna;(å) finna
+norwegian
+translation:(å) finne;(å) finne;(å) finne;(å) finne;(å) finne;(å) finne
+swedish
+translation:(att) finna;(att) finna;(att) finna;(att) finna;(att) finna;(att) finna

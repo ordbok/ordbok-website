@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) difference;the difference;differences;the differences
+grammar:Neuter
+german
+translation:(ein) Unterschied;der Unterschied;Unterschiede;die Unterschiede
+grammar:Masculine
+new-norwegian
+translation:(ein) skilnad;skilnaden;skilnadar;skilnadane
+grammar:Masculine
+norwegian
+translation:(en) forskjell;forskjellen;forskjeller;forskjellene
+grammar:Masculine
+swedish
+translation:(en) skillnad;skillnaden;skillnader;skillnaderna
+grammar:Common

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) email;the email;emails;the emails
+grammar:Neuter
+german
+translation:(eine) E-Mail;die E-Mail;E-Mails;die E-Mails
+grammar:Feminine
+new-norwegian
+translation:(ein) e-post;e-posten;e-postar;e-postane
+grammar:Masculine
+norwegian
+translation:(en) e-post;e-posten;e-poster;e-postene
+grammar:Masculine
+swedish
+translation:(en) e-post;e-posten;e-postar;e-postarna
+grammar:Common

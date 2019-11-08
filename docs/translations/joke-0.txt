@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:jest;joke
+english
+translation:(a) joke;the joke;jokes;the jokes
+grammar:Neuter
+german
+translation:(ein) Witz;der Witz;Witze;die Witze
+grammar:Masculine
+new-norwegian
+translation:(ein) vits;vitsen;vitsar;vitsane
+grammar:Masculine
+norwegian
+translation:(en) vits;vitsen;vitser;vitsene
+grammar:Masculine
+swedish
+translation:(en) vits;vitsen;vitsar;vitsarna
+grammar:Common

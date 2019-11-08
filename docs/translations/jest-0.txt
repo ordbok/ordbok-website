@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:jest;joke
+english
+translation:(a) jest;the jest;jests;the jests
+grammar:Neuter
+german
+translation:(ein) Scherz;der Scherz;Scherze;die Scherze
+grammar:Masculine
+new-norwegian
+translation:(ein) spøk;spøken;spøkar;spøkane
+grammar:Masculine
+norwegian
+translation:(en) spøk;spøken;spøker;spøkene
+grammar:Masculine
+swedish
+translation:(ett) skämt;skämtet;skämt;skämten
+grammar:Neuter

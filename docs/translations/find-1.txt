@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:find;find;finds;find;find;find
+german
+translation:finde;findest;findet;finden;findet;finden
+new-norwegian
+translation:finn;finn;finn;finn;finn;finn
+norwegian
+translation:finner;finner;finner;finner;finner;finner
+swedish
+translation:finner;finner;finner;finner;finner;finner

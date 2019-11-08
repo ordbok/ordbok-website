@@ -9,7 +9,7 @@ german
 translation:(ein) Plätzchen;das Plätzchen;Plätzchen;die Plätzchen
 grammar:Neuter
 new-norwegian
-translation:(ei) julekake;julekaka;julekaker;julekakene
+translation:(ei) jolekake;jolekaka;jolekaker;jolekakene
 grammar:Feminine
 norwegian
 translation:(en) julekake;julekaken;julekaker;julekakene

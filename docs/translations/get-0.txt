@@ -1,6 +1,7 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Infinitive
+relation:get;got
 english
 translation:(to) get;(to) get;(to) get;(to) get;(to) get;(to) get
 german

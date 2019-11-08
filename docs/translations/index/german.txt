@@ -7,6 +7,8 @@ actual:0
 actually:0
 adjective:0
 adult:0
+advanced-education:0
+again:0
 against:0
 ambulance:0
 an:0
@@ -67,6 +69,7 @@ chew:1
 child:0
 chocolate:0
 christmas-cookie:0
+christmas:0
 close:2
 cloud:0
 comb:0
@@ -88,6 +91,7 @@ dark:0
 daughter:0
 dictionary:0
 did:0
+difference:0
 do:1
 doctor:0
 dog:0
@@ -100,7 +104,9 @@ duck:0
 each:0
 earth:0
 earthquake:0
+education:0
 elder:1
+email:0
 ems-vehicle:0
 english:1
 englishman:0
@@ -120,6 +126,7 @@ february:0
 feminine:0
 fence:0
 file:0
+find:1
 fire:0
 first:0
 fish-ball:0
@@ -144,6 +151,7 @@ glad:0
 glasses:0
 go:1
 good:0
+got:0
 group:0
 had:0
 hair-dryer:0
@@ -160,10 +168,10 @@ headache:0
 hello:0
 help:2
 helpful:0
-her:1
+her:2
 hike:2
 him:0
-his:0
+his:1
 home:0
 homework:0
 hood:0
@@ -185,6 +193,8 @@ it:1
 its:0
 jacket:0
 january:0
+jest:0
+joke:0
 judgment:0
 jump:2
 kid:0
@@ -198,6 +208,7 @@ landslide:0
 language:0
 last-year:0
 lawyer:0
+leash:0
 leather-jacket:0
 left:1
 life:0
@@ -208,6 +219,7 @@ luck:0
 made:0
 make:1
 man:0
+map:0
 march:0
 marketplace:0
 marmelade:1
@@ -253,6 +265,7 @@ offer:0
 oil:0
 okay:0
 old:0
+once-more:0
 one:1
 only:1
 opponent:0
@@ -300,6 +313,7 @@ second:1
 service:0
 seventh:0
 shall:1
+shampoo:0
 shank:0
 she:0
 sheep:0
@@ -321,6 +335,7 @@ somebody:0
 someone:0
 something:0
 son:0
+soon:0
 spring:0
 stay-overnight:1
 stayed-overnight:0
@@ -353,6 +368,7 @@ throw:1
 thunder:0
 thursday:0
 tick:0
+tidy-up:1
 toaster:0
 today:0
 tomorrow:0

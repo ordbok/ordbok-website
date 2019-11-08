@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) Christmas;the Christmas;Christmases;the Christmases
+grammar:Neuter
+german
+translation:(eine) Weihnacht;die Weihnacht;Weihnachten;die Weihnachten
+grammar:Feminine
+new-norwegian
+translation:(ei) jol;jola;joler;jolene
+grammar:Feminine
+norwegian
+translation:(ei) jul;jula;juler;julene
+grammar:Feminine
+swedish
+translation:(en) jul;julen;jular;jularna
+grammar:Common

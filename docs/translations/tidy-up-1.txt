@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:tidy up;tidy up;tidies up;tidy up;tidy up;tidy up
+german
+translation:räume auf;räumst auf;räumt auf;räumen auf;räumt auf;räumen auf
+new-norwegian
+translation:ryddar;ryddar;ryddar;ryddar;ryddar;ryddar
+norwegian
+translation:rydder;rydder;rydder;rydder;rydder;rydder
+swedish
+translation:röjer upp;röjer upp;röjer upp;röjer upp;röjer upp;röjer upp

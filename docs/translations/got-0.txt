@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:get;got
+english
+translation:got;got;got;got;got;got
+german
+translation:bekam;bekamst;bekam;bekamen;bekamt;bekamen
+new-norwegian
+translation:fekk;fekk;fekk;fekk;fekk;fekk
+norwegian
+translation:fikk;fikk;fikk;fikk;fikk;fikk
+swedish
+translation:fick;fick;fick;fick;fick;fick

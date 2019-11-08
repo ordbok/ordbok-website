@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) map;the map;maps;the maps
+grammar:Neuter
+german
+translation:(eine) Karte;die Karte;Karten;die Karten
+grammar:Feminine
+new-norwegian
+translation:(eit) kart;kartet;kart;karta
+grammar:Neuter
+norwegian
+translation:(et) kart;kartet;kart;kartene
+grammar:Neuter
+swedish
+translation:(en) karta;kartan;kartor;kartorna
+grammar:Common

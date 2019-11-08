@@ -1,14 +1,13 @@
 meta
 structure:Singular, Feminine;Singular, Masculine;Singular, Neuter;Plural, Common
-grammar:Pronoun;Third Person;Singular
-relation:me;you;her;him;it;us;you;them
+grammar:Determiner;Third Person;Singular
 english
-translation:her;-;-;-
+translation:her;her;her;her
 german
-translation:ihr;-;-;-
+translation:ihre;ihr;ihr;ihre
 new-norwegian
-translation:henne;-;-;-
+translation:ho si;ho sin;ho sitt;ho sine
 norwegian
-translation:henne;-;-;-
+translation:hun si;hun sin;hun;sitt;hun sine
 swedish
-translation:henne;-;-;-
+translation:henne;henne;henne;henne

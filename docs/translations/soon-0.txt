@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:soon
+german
+translation:bald
+new-norwegian
+translation:snart
+norwegian
+translation:snart
+swedish
+translation:snart
