@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:rescue;rescue;rescues;rescue;rescue;rescue
+german
+translation:rette;rettest;rettet;retten;rettet;retten
+new-norwegian
+translation:reddar;reddar;reddar;reddar;reddar;reddar
+norwegian
+translation:redder;redder;redder;redder;redder;redder
+swedish
+translation:räddar;räddar;räddar;räddar;räddar;räddar

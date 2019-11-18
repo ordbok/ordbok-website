@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) wish;the wish;wishes;the wishes
+grammar:Neuter
+german
+translation:(ein) Wunsch;der Wunsch;Wünsche;die Wünsche
+grammar:Masculine
+new-norwegian
+translation:(eit) ynske;ynsket;ynske;ynska
+grammar:Neuter
+norwegian
+translation:(et) ønske;ønsket;ønsker;ønskene
+grammar:Neuter
+swedish
+translation:(en) önskan;önskan;önskningar;önskningarna
+grammar:Common

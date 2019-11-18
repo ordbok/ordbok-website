@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common
+grammar:Adjective;Comparative
+relation:few;fewer;fewest
+english
+translation:-;-;-;fewer;-;-;-;fewer;-;-;-;fewer
+german
+translation:-;-;-;weniger;-;-;-;wenigere;-;-;-;wenigeren
+new-norwegian
+translation:-;-;-;færre;-;-;-;færre;-;-;-;færre
+norwegian
+translation:-;-;-;færre;-;-;-;færre;-;-;-;færre
+swedish
+translation:-;-;-;färre;-;-;-;färre;-;-;-;färre

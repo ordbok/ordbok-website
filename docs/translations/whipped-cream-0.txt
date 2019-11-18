@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) whipped cream;the whipped cream;whipped creams;the whipped creams
+grammar:Neuter
+german
+translation:(eine) Schlagsahne;die Schlagsahne;Schlagsahnen;die Schlagsahnen
+grammar:Feminine
+new-norwegian
+translation:(ein) kremfløyte;kremfløyten;kremfløytar;kremfløytane
+grammar:Masculine
+norwegian
+translation:(en) kremfløte;kremfløten;kremfløter;kremfløtene
+grammar:Masculine
+swedish
+translation:(en) vispgrädde;vispgrädden;vispgrädder;vispgrädderna
+grammar:Common

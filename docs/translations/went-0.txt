@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+relation:go;went
+english
+translation:went;went;went;went;went;went
+german
+translation:ging;gingst;ging;gingen;gingt;gingen
+new-norwegian
+translation:gjekk;gjekk;gjekk;gjekk;gjekk;gjekk
+norwegian
+translation:gikk;gikk;gikk;gikk;gikk;gikk
+swedish
+translation:gick;gick;gick;gick;gick;gick

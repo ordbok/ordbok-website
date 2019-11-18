@@ -1,13 +1,12 @@
 meta
-structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common
-grammar:Adjective;Positive
+grammar:Particle
 english
-translation:actually;actually;actually;actually
+translation:actually
 german
-translation:tatsächlich;tatsächlich;tatsächlich;tatsächlich
+translation:tatsächlich
 new-norwegian
-translation:faktisk;faktisk;faktisk;faktiske
+translation:faktisk
 norwegian
-translation:faktisk;faktisk;faktisk;faktiske
+translation:faktisk
 swedish
-translation:faktiskt;faktiskt;faktiskt;faktiskt
+translation:faktiskt

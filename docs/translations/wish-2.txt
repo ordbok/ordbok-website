@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:wish;wish;wishes;wish;wish;wish
+german
+translation:wünsche;wünschst;wünscht;wünschen;wünscht;wünschen
+new-norwegian
+translation:ynskjer;ynskjer;ynskjer;ynskjer;ynskjer;ynskjer
+norwegian
+translation:ønsker;ønsker;ønsker;ønsker;ønsker;ønsker
+swedish
+translation:önskar;önskar;önskar;önskar;önskar;önskar

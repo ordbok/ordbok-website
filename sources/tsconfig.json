@@ -1,20 +1,20 @@
 {
     "compilerOptions": {
         "noEmitOnError": true,
-        "sourceMap": true,
+        "removeComments": true,
         "strict": true,
         "stripInternal": true,
-        "module": "amd",
+        "module": "commonjs",
         "moduleResolution": "node",
-        "outFile": "docs/demo.js",
-        "rootDir": "sources",
+        "outDir": "../",
+        "rootDir": "./",
         "target": "es5"
     },
     "exclude": [
-        "docs",
-        "node_modules"
+        "logo/",
+        "static/"
     ],
-    "files": [
-        "sources/demo.ts",
+    "include": [
+        "**/*.ts"
     ]
 }

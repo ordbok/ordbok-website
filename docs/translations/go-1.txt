@@ -1,6 +1,7 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
 grammar:Verb;Present
+relation:go;went
 english
 translation:go;go;goes;go;go;go
 german

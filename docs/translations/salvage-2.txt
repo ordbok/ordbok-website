@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:salvage;salvage;salvages;salvage;salvage;salvage
+german
+translation:berge;bergst;bergt;bergen;bergt;bergen
+new-norwegian
+translation:bergar;bergar;bergar;bergar;bergar;bergar
+norwegian
+translation:berger;berger;berger;berger;berger;berger
+swedish
+translation:bärgar;bärgar;bärgar;bärgar;bärgar;bärgar

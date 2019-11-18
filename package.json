@@ -4,15 +4,15 @@
     "bugs": "https://github.com/ordbok/core/issues",
     "description": "Implementation example",
     "homepage": "https://github.com/ordbok/demo#readme",
+    "license": "MIT",
     "main": "docs/demo.js",
     "name": "@ordbok/demo",
     "repository": "https://github.com/ordbok/demo.git",
     "version": "0.0.2",
-    "license": "MIT",
     "devDependencies": {
-        "@ordbok/core": "github:ordbok/core#v0.0.8",
-        "@ordbok/index-plugin": "github:ordbok/index-plugin#v0.0.4",
-        "requirejs": "2.3.6",
+        "@ordbok/core": "~0.1.0",
+        "@ordbok/index-plugin": "~0.1.0",
+        "browserify": "^16.5.0",
         "typescript": "~3.6.4"
     },
     "engines": {
@@ -24,11 +24,11 @@
     ],
     "scripts": {
         "build": "npm run clean && npm run build-1 && npm run build-2 && npm run build-3 && npm run build-4",
-        "build-1": "tsc --build tsconfig.json",
-        "build-2": "r_js -o rjsconfig.js",
+        "build-1": "tsc --build sources/tsconfig.json",
+        "build-2": "browserify --outfile docs/demo.js --standalone OrdbokDemo index.js",
         "build-3": "ordbok-assembler ../translations/sources docs/translations",
-        "build-4": "cp -rv node_modules/requirejs/require.* sources/static/ docs/",
-        "clean": "rm -rf docs",
+        "build-4": "cp -rv sources/static/ docs/",
+        "clean": "rm -rf $(< .clean)",
         "watch": "tsc --build tsconfig.json --watch"
     }
 }

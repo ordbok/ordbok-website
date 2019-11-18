@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:rescue;salvage
+english
+translation:(a) rescue;the rescue;rescues;the rescues
+grammar:Neuter
+german
+translation:(eine) Rettung;die Rettung;Rettungen;die Rettungen
+grammar:Feminine
+new-norwegian
+translation:(ei) redning;redninga;redninger;redningene
+grammar:Feminine
+norwegian
+translation:(ei) redning;redninga;redninger;redningene
+grammar:Feminine
+swedish
+translation:(en) räddning;räddningen;räddningar;räddningarna
+grammar:Common

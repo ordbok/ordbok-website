@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:rescue;salvage
+english
+translation:(a) salvage;the salvage;salvages;the salvages
+grammar:Neuter
+german
+translation:(eine) Bergung;die Bergung;Bergungen;die Bergungen
+grammar:Feminine
+new-norwegian
+translation:(ei) berging;berginga;berginger;bergingene
+grammar:Feminine
+norwegian
+translation:(ei) berging;berginga;berginger;bergingene
+grammar:Feminine
+swedish
+translation:(en) bärgning;bärgningen;bärgningar;bärgningarna
+grammar:Common

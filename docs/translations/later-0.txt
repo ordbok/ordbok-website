@@ -1,0 +1,14 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Comparative
+relation:late;later;latest
+english
+translation:later;later;later;later;later;later;later;later;later;later;later;later
+german
+translation:später;später;später;später;spätere;späterer;späteres;spätere;spätere;spätere;spätere;späteren
+new-norwegian
+translation:seinare;seinare;seinare;seinare;seinare;seinare;seinare;seinare;seinare;seinare;seinare;seinare
+norwegian
+translation:senere;senere;senere;senere;senere;senere;senere;senere;senere;senere;senere;senere
+swedish
+translation:senare;senare;senare;senare;senare;senare;senare;senare;senare;senare;senare;senare

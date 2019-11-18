@@ -1,13 +1,12 @@
 meta
-structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common
-grammar:Adjective;Positive
+grammar:Particle
 english
-translation:away;away;away;away
+translation:away
 german
-translation:weg;weg;weg;weg
+translation:weg
 new-norwegian
-translation:vekk;vekk;vekk;vekk
+translation:vekk
 norwegian
-translation:borte;borte;borte;borte
+translation:borte
 swedish
-translation:bort;bort;bort;bort
+translation:bort
