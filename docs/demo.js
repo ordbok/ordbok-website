@@ -236,6 +236,10 @@ __export(require("./demo/index"));
 
 },{"./demo/index":2}],6:[function(require,module,exports){
 "use strict";
+/*!---------------------------------------------------------------------------*/
+/*! Copyright (c) ORDBOK contributors. All rights reserved.                   */
+/*! Licensed under the MIT License. See the LICENSE file in the project root. */
+/*!---------------------------------------------------------------------------*/
 function __export(m) {
     for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
@@ -652,18 +656,8 @@ var Utilities;
 })(Utilities = exports.Utilities || (exports.Utilities = {}));
 
 },{}],13:[function(require,module,exports){
-"use strict";
-/*!---------------------------------------------------------------------------*/
-/*! Copyright (c) ORDBOK contributors. All rights reserved.                   */
-/*! Licensed under the MIT License. See the LICENSE file in the project root. */
-/*!---------------------------------------------------------------------------*/
-function __export(m) {
-    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
-}
-Object.defineProperty(exports, "__esModule", { value: true });
-__export(require("./lib"));
-
-},{"./lib":14}],14:[function(require,module,exports){
+arguments[4][6][0].apply(exports,arguments)
+},{"./lib":14,"dup":6}],14:[function(require,module,exports){
 "use strict";
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
