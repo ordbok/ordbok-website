@@ -11,7 +11,7 @@
     "version": "0.1.1",
     "devDependencies": {
         "@ordbok/core": "~0.1.1",
-        "@ordbok/index-plugin": "~0.1.0",
+        "@ordbok/index-plugin": "~0.1.1",
         "browserify": "^16.5.0",
         "typescript": "~3.7.2"
     },
