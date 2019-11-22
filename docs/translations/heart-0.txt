@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) heart;the heart;hearts;the hearts
+grammar:Neuter
+german
+translation:(ein) Herz;das Herz;Herzen;die Herzen
+grammar:Neuter
+new-norwegian
+translation:(eit) hjarta;hjarta;hjarto;hjarto
+grammar:Neuter
+norwegian
+translation:(et) hjerte;hjertet;hjerter;hjertene
+grammar:Neuter
+swedish
+translation:(ett) hjärta;hjärtat;hjärtan;hjärtana
+grammar:Neuter

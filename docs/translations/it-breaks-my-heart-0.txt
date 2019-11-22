@@ -1,0 +1,12 @@
+meta
+grammar:Phrase
+english
+translation:It breaks my heart.
+german
+translation:Es bricht mir das Herz.
+new-norwegian
+translation:Det knuser hjartet mitt.
+norwegian
+translation:Det knuser hjertet mitt.
+swedish
+translation:Det krossar mitt hjärta.

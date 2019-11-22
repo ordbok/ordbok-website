@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) forget;(to) forget;(to) forget;(to) forget;(to) forget;(to) forget
+german
+translation:(zu) vergessen;(zu) vergessen;(zu) vergessen;(zu) vergessen;(zu) vergessen;(zu) vergessen
+new-norwegian
+translation:(å) gløyme;(å) gløyme;(å) gløyme;(å) gløyme;(å) gløyme;(å) gløyme
+norwegian
+translation:(å) glemme;(å) glemme;(å) glemme;(å) glemme;(å) glemme;(å) glemme
+swedish
+translation:(att) glömma;(att) glömma;(att) glömma;(att) glömma;(att) glömma;(att) glömma

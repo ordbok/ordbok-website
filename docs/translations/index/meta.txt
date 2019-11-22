@@ -48,6 +48,7 @@ bucket:0
 but:0
 by-the-way:0
 bye:0
+it-breaks-my-heart:0
 cake:0
 calf:0
 call:3
@@ -99,6 +100,7 @@ doorbell:0
 doubt:2
 draft:0
 dragon:0
+dream:2
 drivers-license:0
 duck:0
 each:0
@@ -137,6 +139,7 @@ flour:0
 flower:0
 fog:0
 forest:0
+forget:1
 foundation:0
 free:1
 freeway:0
@@ -166,6 +169,7 @@ have:1
 he:0
 head:0
 headache:0
+heart:0
 hello:0
 help:2
 helpful:0
@@ -198,6 +202,8 @@ jest:0
 joke:0
 judgment:0
 jump:2
+key:0
+keyboard:0
 kid:0
 kitty:0
 knickknack:0
@@ -311,6 +317,7 @@ rockslide:0
 romantic:0
 salvage:2
 saturday:0
+say:1
 school:0
 sea:0
 search:2
@@ -355,6 +362,7 @@ sunday:0
 support:1
 swedish:1
 taint:1
+test:2
 than:0
 thank-you-very-much:0
 thank-you:0
@@ -369,6 +377,7 @@ thigh:0
 thing:0
 think:1
 three:1
+through:0
 throw:1
 thunder:0
 thursday:0

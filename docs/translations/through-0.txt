@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:through
+german
+translation:durch
+new-norwegian
+translation:gjennom
+norwegian
+translation:gjennom
+swedish
+translation:genom

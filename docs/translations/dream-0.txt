@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) dream;the dream;dreams;the dreams
+grammar:Neuter
+german
+translation:(ein) Traum;der Traum;Träume;die Träume
+grammar:Masculine
+new-norwegian
+translation:(ein) draum;draumen;draumar;draumane
+grammar:Masculine
+norwegian
+translation:(en) drøm;drømmen;drømmer;drømmene
+grammar:Masculine
+swedish
+translation:(en) dröm;drömmen;drömmar;drömmarna
+grammar:Common

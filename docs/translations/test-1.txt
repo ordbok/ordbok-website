@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) test;(to) test;(to) test;(to) test;(to) test;(to) test
+german
+translation:(zu) testen;(zu) testen;(zu) testen;(zu) testen;(zu) testen;(zu) testen
+new-norwegian
+translation:(å) testa;(å) testa;(å) testa;(å) testa;(å) testa;(å) testa
+norwegian
+translation:(å) teste;(å) teste;(å) teste;(å) teste;(å) teste;(å) teste
+swedish
+translation:(att) testa;(att) testa;(att) testa;(att) testa;(att) testa;(att) testa

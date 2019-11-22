@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:dream;dream;dreams;dream;dream;dream
+german
+translation:träume;träumst;träumt;träumen;träumt;träumen
+new-norwegian
+translation:drøymer;drøymer;drøymer;drøymer;drøymer;drøymer
+norwegian
+translation:drømmer;drømmer;drømmer;drømmer;drømmer;drømmer
+swedish
+translation:drömmer;drömmer;drömmer;drömmer;drömmer;drömmer

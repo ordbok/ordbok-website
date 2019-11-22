@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:say;say;says;say;say;say
+german
+translation:sage;sagst;sagt;sagen;sagt;sagen
+new-norwegian
+translation:seier;seier;seier;seier;seier;seier
+norwegian
+translation:sier;sier;sier;sier;sier;sier
+swedish
+translation:säger;säger;säger;säger;säger;säger

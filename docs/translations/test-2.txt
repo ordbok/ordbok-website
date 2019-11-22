@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:test;test;tests;test;test;test
+german
+translation:teste;testest;testet;testen;testet;testen
+new-norwegian
+translation:testar;testar;testar;testar;testar;testar
+norwegian
+translation:tester;tester;tester;tester;tester;tester
+swedish
+translation:testar;testar;testar;testar;testar;testar
