@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:lose;lose;loses;lose;lose;lose
+german
+translation:verliere;verlierst;verliert;verlieren;verliert;verlieren
+new-norwegian
+translation:tapar;tapar;tapar;tapar;tapar;tapar
+norwegian
+translation:taper;taper;taper;taper;taper;taper
+swedish
+translation:förlorar;förlorar;förlorar;förlorar;förlorar;förlorar

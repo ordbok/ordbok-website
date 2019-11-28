@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) own;(to) own;(to) own;(to) own;(to) own;(to) own
+german
+translation:(zu) besitzen;(zu) besitzen;(zu) besitzen;(zu) besitzen;(zu) besitzen;(zu) besitzen
+new-norwegian
+translation:(å) eige;(å) eige;(å) eige;(å) eige;(å) eige;(å) eige
+norwegian
+translation:(å) eie;(å) eie;(å) eie;(å) eie;(å) eie;(å) eie
+swedish
+translation:(att) äga;(att) äga;(att) äga;(att) äga;(att) äga;(att) äga

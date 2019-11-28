@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:call off;call off;calls off;call off;call off;call off
+german
+translation:sage ab;sagst ab;sagt ab;sagen ab;sagt ab;sagen ab
+new-norwegian
+translation:avlyser;avlyser;avlyser;avlyser;avlyser;avlyser
+norwegian
+translation:avlyser;avlyser;avlyser;avlyser;avlyser;avlyser
+swedish
+translation:tackar nej;tackar nej;tackar nej;tackar nej;tackar nej;tackar nej

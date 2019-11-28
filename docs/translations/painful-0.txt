@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:painful;painful;painful;painful;painful;painful;painful;painful;painful;painful;painful;painful
+german
+translation:schmerzhaft;schmerzhaft;schmerzhaft;schmerzhaft;schmerzhafte;schmerzhafter;schmerzhaftes;schmerzhafte;schmerzhafte;schmerzhafte;schmerzhafte;shcmerzhaften
+new-norwegian
+translation:vond;vond;vondt;vonde;vond;vond;vondt;vonde;vonde;vonde;vonde;vonde
+norwegian
+translation:vond;vond;vondt;vonde;vond;vond;vondt;vonde;vonde;vonde;vonde;vonde
+swedish
+translation:smärtsam;smärtsam;smärtsamt;smärtsamma;smärtsam;smärtsam;smärtsamt;smärtsamma;smärtsamma;smärtsamma;smärtsamma;smärtsamma

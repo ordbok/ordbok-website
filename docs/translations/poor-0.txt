@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:poor;poor;poor;poor;poor;poor;poor;poor;poor;poor;poor;poor
+german
+translation:arm;arm;arm;arm;arme;armer;armes;arme;arme;amre;arme;armen
+new-norwegian
+translation:fattig;fattig;fattig;fattige;fattig;fattig;fattig;fattige;fattige;fattige;fattige;fattige
+norwegian
+translation:fattig;fattig;fattig;fattige;fattig;fattig;fattig;fattige;fattige;fattige;fattige;fattige
+swedish
+translation:fattig;fattig;fattigt;fattiga;fattig;fattig;fattigt;fattiga;fattiga;fattige;fattiga;fattiga

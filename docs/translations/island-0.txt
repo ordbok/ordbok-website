@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) island;the island;islands;the islands
+grammar:Neuter
+german
+translation:(eine) Insel;die Insel;Inseln;die Inseln
+grammar:Feminine
+new-norwegian
+translation:(ei) øy;øya;øyer;øyene
+grammar:Feminine
+norwegian
+translation:(ei) øy;øya;øyer;øyene
+grammar:Feminine
+swedish
+translation:(en) ö;ön;öar;öarna
+grammar:Common

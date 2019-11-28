@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) call off;(to) call off;(to) call off;(to) call off;(to) call off;(to) call off
+german
+translation:(zu) absagen;(zu) absagen;(zu) absagen;(zu) absagen;(zu) absagen;(zu) absagen
+new-norwegian
+translation:(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse
+norwegian
+translation:(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse;(å) avlyse
+swedish
+translation:(att) tacka nej;(att) tacka nej;(att) tacka nej;(att) tacka nej;(att) tacka nej;(att) tacka nej

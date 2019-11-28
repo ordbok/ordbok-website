@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:wear;wear;wears;wear;wear;wear
+german
+translation:trage;trägst;trägt;tragen;tragt;tragen
+new-norwegian
+translation:tar på;tar på;tar på;tar på;tar på;tar på
+norwegian
+translation:tar på;tar på;tar på;tar på;tar på;tar på
+swedish
+translation:tar pa;tar pa;tar pa;tar pa;tar pa;tar pa

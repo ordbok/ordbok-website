@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) dress;the dress;dresses;the dresses
+grammar:Neuter
+german
+translation:(ein) Kleid;das Kleid;Kleider;die Kleider
+grammar:Neuter
+new-norwegian
+translation:(ein) kjole;kjolen;kjolar;kjolane
+grammar:Masculine
+norwegian
+translation:(en) kjole;kjolen;kjoler;kjolene
+grammar:Masculine
+swedish
+translation:(en) klänning;klänningen;klänningar;klänningarna
+grammar:Common

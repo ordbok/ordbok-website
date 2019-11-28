@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) eye;the eye;eyes;the eyes
+grammar:Neuter
+german
+translation:(ein) Auge;das Auge;Augen;die Augen
+grammar:Neuter
+new-norwegian
+translation:(eit) auge;auget;auge;auga
+grammar:Neuter
+norwegian
+translation:(et) øye;øyet;øyne;øynene
+grammar:Neuter
+swedish
+translation:(ett) öga;ögat;ögon;ögonen
+grammar:Neuter

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:live;live;lives;live;live;live
+german
+translation:lebe;lebst;lebt;leben;lebt;leben
+new-norwegian
+translation:lever;lever;lever;lever;lever;lever
+norwegian
+translation:lever;lever;lever;lever;lever;lever
+swedish
+translation:lever;lever;lever;lever;lever;lever

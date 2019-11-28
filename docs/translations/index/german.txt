@@ -51,8 +51,10 @@ bye:0
 it-breaks-my-heart:0
 cake:0
 calf:0
+call-off:1
 call:3
 can:2
+cap:0
 car:0
 cardamom:0
 cat:0
@@ -101,6 +103,7 @@ doubt:2
 draft:0
 dragon:0
 dream:2
+dress:2
 drivers-license:0
 duck:0
 each:0
@@ -121,6 +124,8 @@ everywhere:0
 exit:0
 experience:0
 expressway:0
+eye:0
+eyelash:0
 fair:1
 fart:0
 father:0
@@ -179,6 +184,7 @@ him:0
 his:1
 home:0
 homework:0
+honest:0
 hood:0
 hope:2
 horse:0
@@ -194,6 +200,7 @@ idiot:0
 injured:0
 interruption:0
 iron:0
+island:0
 it:1
 its:0
 jacket:0
@@ -213,6 +220,7 @@ landlady:0
 landlord:0
 landslide:0
 language:0
+lash:0
 last-year:0
 later:0
 lawyer:0
@@ -222,6 +230,8 @@ left:1
 life:0
 lightning:0
 like-that:0
+live:1
+lose:3
 love:2
 luck:0
 made:0
@@ -281,7 +291,9 @@ opponent:0
 or:0
 our:0
 out:0
+own:1
 pain:0
+painful:0
 pale:0
 pantry:0
 papillon:0
@@ -295,6 +307,7 @@ pole:0
 police:0
 poodle:0
 poop:2
+poor:0
 potbelly:0
 power:1
 prosecutor:0
@@ -348,10 +361,12 @@ someone:0
 something:0
 son:0
 soon:0
+sore-throat:0
 spring:0
 stay-overnight:1
 stayed-overnight:0
 steep:0
+stick:0
 storm:0
 stray:0
 street:0
@@ -412,6 +427,7 @@ water:0
 way:0
 we-together:0
 we:0
+wear:1
 wednesday:0
 went:0
 what-a-pity:0

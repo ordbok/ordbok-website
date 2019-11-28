@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:dress;dress;dress;dress;dress;dress
+german
+translation:ziehe … an;ziehst … an;zieht … an;ziehen … an;zieht … an;ziehen … an
+new-norwegian
+translation:kler;kler;kler;kler;kler;kler
+norwegian
+translation:kler;kler;kler;kler;kler;kler
+swedish
+translation:klär;klär;klär;klär;klär;klär

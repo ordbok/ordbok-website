@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:own;own;owns;own;own;own
+german
+translation:besitze;besitzt;besitzt;besitzen;besitzt;besitzen
+new-norwegian
+translation:eig;eig;eig;eig;eig;eig
+norwegian
+translation:eier;eier;eier;eier;eier;eier
+swedish
+translation:äger;äger;äger;äger;äger;äger

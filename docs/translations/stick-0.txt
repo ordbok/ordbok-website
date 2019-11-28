@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) stick;the stick;sticks;the sticks
+grammar:Neuter
+german
+translation:(ein) Stock;der Stock;Stöcker;die Stöcker
+grammar:Masculine
+new-norwegian
+translation:(ein) pinn;pinnen;pinnar;pinnane
+grammar:Masculine
+norwegian
+translation:(en) pinne;pinnen;pinner;pinnene
+grammar:Masculine
+swedish
+translation:(en) pinne;pinnen;pinnar;pinnarna
+grammar:Common

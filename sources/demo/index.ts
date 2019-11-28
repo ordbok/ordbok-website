@@ -12,7 +12,7 @@ import * as Search from './search';
  *
  * */
 
-function start (): void {
+export function start (): void {
 
     try {
 
@@ -23,14 +23,4 @@ function start (): void {
 
         alert(error);
     }
-}
-
-/* *
- *
- *  Exports
- *
- * */
-
-export {
-    start
 }
