@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:worry;worry;worries;worry;worry;worry
+german
+translation:sorge mich;sorgst dich;sorgt sich;sorgen uns;sorgt euch;sorgen sich
+new-norwegian
+translation:bekymrar meg;bekymrar deg;bekymrar seg;bekymrar oss;bekymrar dykk;bekymrar seg
+norwegian
+translation:bekymrer meg;bekymrer deg;bekymrer seg;bekymrer oss;bekymrer dere;bekymrer seg
+swedish
+translation:bekymrar mig;bekymrar dig;bekymrar sig;bekymrar oss;bekymrar er;bekymrar sig

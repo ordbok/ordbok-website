@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:careful;careful;careful;careful;careful;careful;careful;careful;careful;careful;careful;careful
+german
+translation:vorsichtig;vorsichtig;vorsichtig;vorsichtig;vorsichtige;vorsichtiger;vorsichtiges;vorsichtige;vorsichtige;vorsichtige;vorsichtige;vorsichtigen
+new-norwegian
+translation:forsiktig;forsiktig;forsiktig;forsiktige;forsiktig;forsiktig;forsiktig;forsiktige;forsiktige;forsiktige;forsiktige;forsiktige
+norwegian
+translation:forsiktig;forsiktig;forsiktig;forsiktige;forsiktig;forsiktig;forsiktig;forsiktige;forsiktige;forsiktige;forsiktige;forsiktige
+swedish
+translation:försiktig;försiktig;försiktigt;försiktiga;försiktig;försiktig;försiktigt;försiktiga;försiktiga;försiktige;försiktiga;försiktiga

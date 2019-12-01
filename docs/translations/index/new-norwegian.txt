@@ -49,6 +49,7 @@ but:0
 by-the-way:0
 bye:0
 it-breaks-my-heart:0
+worry:1
 cake:0
 calf:0
 call-off:1
@@ -57,6 +58,7 @@ can:2
 cap:0
 car:0
 cardamom:0
+careful:0
 cat:0
 cattle:0
 ceramic:0

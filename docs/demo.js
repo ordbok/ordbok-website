@@ -117,7 +117,7 @@ function showTranslation(table, searchResult, languageKey) {
     });
 }
 
-},{"./config":1,"@ordbok/core":6,"@ordbok/index-plugin":13}],4:[function(require,module,exports){
+},{"./config":1,"@ordbok/core":6,"@ordbok/index-plugin":12}],4:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var Config = require("./config");
@@ -222,7 +222,7 @@ function searchTranslations(query, lastPageIndex) {
     }
 }
 
-},{"./config":1,"./results":3,"@ordbok/core":6,"@ordbok/index-plugin":13}],5:[function(require,module,exports){
+},{"./config":1,"./results":3,"@ordbok/core":6,"@ordbok/index-plugin":12}],5:[function(require,module,exports){
 "use strict";
 /*!---------------------------------------------------------------------------*/
 /*! Copyright (c) ORDBOK contributors. All rights reserved.                   */
@@ -249,8 +249,8 @@ __export(require("./lib"));
 },{"./lib":9}],7:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var Ajax = (function () {
-    function Ajax(baseUrl, cacheTimeout, responseTimeout) {
+var AJAX = (function () {
+    function AJAX(baseUrl, cacheTimeout, responseTimeout) {
         if (baseUrl === void 0) { baseUrl = ''; }
         if (cacheTimeout === void 0) { cacheTimeout = 3600000; }
         if (responseTimeout === void 0) { responseTimeout = 60000; }
@@ -260,7 +260,7 @@ var Ajax = (function () {
         this.cacheTimeout = (cacheTimeout < 0 ? 0 : cacheTimeout);
         this.responseTimeout = (responseTimeout < 0 ? 0 : responseTimeout);
     }
-    Ajax.prototype.onError = function (progressEvent) {
+    AJAX.prototype.onError = function (progressEvent) {
         var context = this.context;
         if (!context) {
             return;
@@ -276,7 +276,7 @@ var Ajax = (function () {
         }
         context.reject(error);
     };
-    Ajax.prototype.onLoad = function (progressEvent) {
+    AJAX.prototype.onLoad = function (progressEvent) {
         var context = this.context;
         if (!context) {
             return;
@@ -292,7 +292,7 @@ var Ajax = (function () {
             url: context.url
         });
     };
-    Ajax.prototype.onTimeout = function (progressEvent) {
+    AJAX.prototype.onTimeout = function (progressEvent) {
         var context = this.context;
         if (!context) {
             return;
@@ -308,13 +308,13 @@ var Ajax = (function () {
         }
         context.reject(error);
     };
-    Ajax.prototype.hasOpenRequest = function () {
+    AJAX.prototype.hasOpenRequest = function () {
         if (this._requests < 0) {
             this._requests = 0;
         }
         return (this._requests > 0);
     };
-    Ajax.prototype.request = function (urlPath) {
+    AJAX.prototype.request = function (urlPath) {
         var ajax = this;
         return new Promise(function (resolve, reject) {
             var url = ajax.baseUrl + urlPath;
@@ -362,9 +362,10 @@ var Ajax = (function () {
             }
         });
     };
-    return Ajax;
+    return AJAX;
 }());
-exports.Ajax = Ajax;
+exports.AJAX = AJAX;
+exports.default = AJAX;
 
 },{}],8:[function(require,module,exports){
 "use strict";
@@ -414,12 +415,12 @@ var Dictionary = (function (_super) {
         Object
             .keys(markdownPage)
             .forEach(function (headline) {
-            stringified.push(utilities_1.Utilities.getKey(headline));
+            stringified.push(utilities_1.default.getKey(headline));
             markdownSection = markdownPage[headline];
             Object
                 .keys(markdownSection)
                 .forEach(function (category) {
-                return stringified.push(utilities_1.Utilities.getKey(category) +
+                return stringified.push(utilities_1.default.getKey(category) +
                     Dictionary.PAIR_SEPARATOR +
                     markdownSection[category].join(Dictionary.VALUE_SEPARATOR));
             });
@@ -429,7 +430,7 @@ var Dictionary = (function (_super) {
     Dictionary.prototype.loadEntry = function (baseName, pageIndex) {
         if (pageIndex === void 0) { pageIndex = 0; }
         return this
-            .request(utilities_1.Utilities.getKey(baseName) +
+            .request(utilities_1.default.getKey(baseName) +
             Dictionary.FILE_SEPARATOR +
             pageIndex +
             Dictionary.FILE_EXTENSION)
@@ -451,10 +452,11 @@ var Dictionary = (function (_super) {
     Dictionary.PAIR_SEPARATOR = ':';
     Dictionary.VALUE_SEPARATOR = ';';
     return Dictionary;
-}(ajax_1.Ajax));
+}(ajax_1.AJAX));
 exports.Dictionary = Dictionary;
+exports.default = Dictionary;
 
-},{"./ajax":7,"./utilities":12}],9:[function(require,module,exports){
+},{"./ajax":7,"./utilities":11}],9:[function(require,module,exports){
 "use strict";
 function __export(m) {
     for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
@@ -463,13 +465,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./ajax"));
 __export(require("./dictionary"));
 __export(require("./markdown"));
-__export(require("./str"));
 __export(require("./utilities"));
 
-},{"./ajax":7,"./dictionary":8,"./markdown":10,"./str":11,"./utilities":12}],10:[function(require,module,exports){
+},{"./ajax":7,"./dictionary":8,"./markdown":10,"./utilities":11}],10:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var str_1 = require("./str");
+var utilities_1 = require("./utilities");
 var HEADLINE_REGEXP = /^(?:#+([\s\S]*)|([\s\S]*?)\n(?:={3,}|-{3,}))$/;
 var PAIR_REGEXP = /^([^\:\n\r\t\v]+):([\s\S]*)$/;
 var PAGE_REGEXP = /(?:^\n?|\n\n)-{3,}(?:\n\n|\n?$)/;
@@ -489,7 +490,7 @@ var Markdown = (function () {
             .forEach(function (paragraph) {
             match = HEADLINE_REGEXP.exec(paragraph);
             if (match) {
-                page[str_1.Str.trimSpaces(match[1] || match[2])] = section = {};
+                page[utilities_1.default.trimSpaces(match[1] || match[2])] = section = {};
             }
             if (!section) {
                 return;
@@ -498,7 +499,7 @@ var Markdown = (function () {
             if (match) {
                 section[match[1]] = match[2]
                     .split(';')
-                    .map(str_1.Str.trimSpaces);
+                    .map(utilities_1.default.trimSpaces);
             }
         });
         return page;
@@ -526,61 +527,12 @@ var Markdown = (function () {
     return Markdown;
 }());
 exports.Markdown = Markdown;
+exports.default = Markdown;
 
-},{"./str":11}],11:[function(require,module,exports){
+},{"./utilities":11}],11:[function(require,module,exports){
 "use strict";
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
 Object.defineProperty(exports, "__esModule", { value: true });
 var BRACKET_REGEXP = /\([^\)]*\)|\[[^\]]*\]|\{[^\}]*\}/g;
-var SPACE_REGEXP = /\s+/g;
-var Str = (function (_super) {
-    __extends(Str, _super);
-    function Str(str) {
-        return _super.call(this, str) || this;
-    }
-    Str.endsWith = function (str, pattern) {
-        if (str === pattern) {
-            return true;
-        }
-        var strLength = str.length;
-        var patternLength = pattern.length;
-        return (patternLength <= strLength &&
-            str.lastIndexOf(pattern) === strLength - patternLength);
-    };
-    Str.removeBrackets = function (str) {
-        return str.replace(BRACKET_REGEXP, '').replace(SPACE_REGEXP, ' ').trim();
-    };
-    Str.trimSpaces = function (str) {
-        return str.replace(SPACE_REGEXP, ' ').trim();
-    };
-    Str.prototype.endsWith = function (pattern) {
-        return Str.endsWith(this.toString(), pattern);
-    };
-    Str.prototype.removeBrackets = function () {
-        return new Str(Str.removeBrackets(this.toString()));
-    };
-    Str.prototype.trimSpaces = function () {
-        return new Str(Str.trimSpaces(this.toString()));
-    };
-    return Str;
-}(String));
-exports.Str = Str;
-
-},{}],12:[function(require,module,exports){
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var NON_CHARACTER_REGEXP = /[^0-9A-Za-z\u0080-\uFFFF -]/g;
 var PATH_REGEXP = /^(.*?)([^\.\/]*)([^\/]*)$/;
 var SPACE_REGEXP = /\s+/g;
@@ -617,6 +569,10 @@ var Utilities;
         return (match && match[1] || '');
     }
     Utilities.getParentPath = getParentPath;
+    function removeBrackets(str) {
+        return str.replace(BRACKET_REGEXP, '').replace(SPACE_REGEXP, ' ').trim();
+    }
+    Utilities.removeBrackets = removeBrackets;
     function rotate(text) {
         var isDecode = text.indexOf('base64,') === 0;
         if (isDecode) {
@@ -653,11 +609,16 @@ var Utilities;
         }
     }
     Utilities.splat = splat;
+    function trimSpaces(str) {
+        return str.replace(SPACE_REGEXP, ' ').trim();
+    }
+    Utilities.trimSpaces = trimSpaces;
 })(Utilities = exports.Utilities || (exports.Utilities = {}));
+exports.default = Utilities;
 
-},{}],13:[function(require,module,exports){
+},{}],12:[function(require,module,exports){
 arguments[4][6][0].apply(exports,arguments)
-},{"./lib":14,"dup":6}],14:[function(require,module,exports){
+},{"./lib":13,"dup":6}],13:[function(require,module,exports){
 "use strict";
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -738,7 +699,7 @@ var Index = (function (_super) {
     };
     Index.SUBFOLDER = 'index/';
     return Index;
-}(core_1.Ajax));
+}(core_1.AJAX));
 exports.Index = Index;
 
 },{"@ordbok/core":6}]},{},[5])(5)
