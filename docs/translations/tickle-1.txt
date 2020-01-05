@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:tickle;tickle;tickles;tickle;tickle;tickle
+german
+translation:kitzel;kitzelst;kitzelt;kitzeln;kitzelt;kitzeln
+new-norwegian
+translation:kitlar;kitlar;kitlar;kitlar;kitlar;kitlar
+norwegian
+translation:kiler;kiler;kiler;kiler;kiler;kiler
+swedish
+translation:kittlar;kittlar;kittlar;kittlar;kittlar;kittlar

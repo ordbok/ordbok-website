@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) spouse;the spouse;spouses;the spouses
+grammar:Masculine
+german
+translation:(ein) Ehepartner;Ehepartner;Ehepartner;die Ehepartner
+grammar:Masculine
+new-norwegian
+translation:(ein) ektemake;ektemaken;ektemakar;ektemakane
+grammar:Masculine
+norwegian
+translation:(en) ektefelle;ektefellen;ektefeller;ektefellene
+grammar:Masculine
+swedish
+translation:(en) äkta make;äkta maken;äkta makar;äkta makarna
+grammar:Common

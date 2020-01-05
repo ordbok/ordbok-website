@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:early;early;early;early;early;early;early;early;early;early;early;early
+german
+translation:früher;früher;früher;früher;frühere;früherer;früheres;frühere;frühere;frühere;frühere;früheren
+new-norwegian
+translation:tidleg;tidleg;tidleg;tidlege;tidleg;tidleg;tidleg;tidlege;tidlege;tidlege;tidlege;tidlege
+norwegian
+translation:tidlig;tidlig;tidlig;tidlige;tidlig;tidlig;tidlig;tidlige;tidlige;tidlige;tidlige;tidlige
+swedish
+translation:tidig;tidig;tidigt;tidiga;tidig;tidig;tidigt;tidiga;tidiga;tidige;tidiga;tidiga

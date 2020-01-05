@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) friend;the friend;friends;the friends
+grammar:Feminine
+german
+translation:(eine) Freundin;die Freundin;Freundinnen;die Freundinnen
+grammar:Feminine
+new-norwegian
+translation:(ei) veninne;veninna;veninner;veninnene
+grammar:Feminine
+norwegian
+translation:(ei) venninne;venninna;venninner;venninnene
+grammar:Feminine
+swedish
+translation:(en) väninna;väninnan;väninnor;väninnorna
+grammar:Common

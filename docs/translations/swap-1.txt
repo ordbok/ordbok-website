@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) swap;(to) swap;(to) swap;(to) swap;(to) swap;(to) swap
+german
+translation:(zu) tauschen;(zu) tauschen;(zu) tauschen;(zu) tauschen;(zu) tauschen;(zu) tauschen
+new-norwegian
+translation:(å) byte;(å) byte;(å) byte;(å) byte;(å) byte;(å) byte
+norwegian
+translation:(å) bytte;(å) bytte;(å) bytte;(å) bytte;(å) bytte;(å) bytte
+swedish
+translation:(att) byta;(att) byta;(att) byta;(att) byta;(att) byta;(att) byta

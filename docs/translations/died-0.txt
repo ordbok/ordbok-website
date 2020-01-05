@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+english
+translation:died;died;died;died;died;died
+german
+translation:starb;starbst;starb;starben;starbt;starben
+new-norwegian
+translation:døydde;døydde;døydde;døydde;døydde;døydde
+norwegian
+translation:døde;døde;døde;døde;døde;døde
+swedish
+translation:dog;dog;dog;dog;dog;dog

@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:hill;knoll;mountain
+english
+translation:(a) hill;the hill;hills;the hills
+grammar:Neuter
+german
+translation:(ein) Hügel;der Hügel;Hügel;die Hügel
+grammar:Masculine
+new-norwegian
+translation:(ein) ås;åsen;åsar;åsane
+grammar:Masculine
+norwegian
+translation:(en) ås;åsen;åser;åsene
+grammar:Masculine
+swedish
+translation:(en) kulle;kullen;kullar;kullarna
+grammar:Common

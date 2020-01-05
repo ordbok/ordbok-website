@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) tickle;(to) tickle;(to) tickle;(to) tickle;(to) tickle;(to) tickle
+german
+translation:(zu) kitzeln;(zu) kitzeln;(zu) kitzeln;(zu) kitzeln;(zu) kitzeln;(zu) kitzeln
+new-norwegian
+translation:(å) kitla;(å) kitla;(å) kitla;(å) kitla;(å) kitla;(å) kitla
+norwegian
+translation:(å) kile;(å) kile;(å) kile;(å) kile;(å) kile;(å) kile
+swedish
+translation:(att) kittla;(att) kittla;(att) kittla;(att) kittla;(att) kittla;(att) kittla

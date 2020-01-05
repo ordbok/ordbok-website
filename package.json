@@ -13,7 +13,7 @@
         "@ordbok/core": "~0.2.0",
         "@ordbok/index-plugin": "~0.2.0",
         "browserify": "^16.5.0",
-        "typescript": "~3.7.2"
+        "typescript": "~3.7.4"
     },
     "engines": {
         "node": ">=10.0.0"

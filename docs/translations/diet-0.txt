@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) diet;the diet;diets;the diets
+grammar:Neuter
+german
+translation:(eine) Diät;die Diät;Diäten;die Diäten
+grammar:Feminine
+new-norwegian
+translation:(ein) diett;dietten;diettar;diettane
+grammar:Masculine
+norwegian
+translation:(en) diett;dietten;dietter;diettene
+grammar:Masculine
+swedish
+translation:(en) diet;dieten;dieter;dieterna
+grammar:Common

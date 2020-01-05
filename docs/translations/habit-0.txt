@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) habit;the habit;habits;the habits
+grammar:Neuter
+german
+translation:(eine) Angewohnheit;die Angewohnheit;Angewohnheiten;die Angewohnheiten
+grammar:Feminine
+new-norwegian
+translation:(ein) vane;vanen;vanar;vanane
+grammar:Masculine
+norwegian
+translation:(en) vane;vanen;vaner;vanene
+grammar:Masculine
+swedish
+translation:(en) vana;vanan;vanor;vanorna
+grammar:Common

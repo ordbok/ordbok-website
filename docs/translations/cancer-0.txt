@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) cancer;the cancer;cancers;the cancers
+grammar:Neuter
+german
+translation:(ein) Krebs;der Krebs;Krebse;die Krebse
+grammar:Masculine
+new-norwegian
+translation:(ein) kreft;kreften;kreftar;kreftane
+grammar:Masculine
+norwegian
+translation:(en) kreft;kreften;krefter;kreftene
+grammar:Masculine
+swedish
+translation:(en) cancer;cancern;cancrar;cancrarna
+grammar:Common

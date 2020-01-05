@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) think;(to) think;(to) think;(to) think;(to) think;(to) think
+german
+translation:(zu) meinen;(zu) meinen;(zu) meinen;(zu) meinen;(zu) meinen;(zu) meinen
+new-norwegian
+translation:(å) synast;(å) synast;(å) synast;(å) synast;(å) synast;(å) synast
+norwegian
+translation:(å) synes;(å) synes;(å) synes;(å) synes;(å) synes;(å) synes
+swedish
+translation:(att) mena;(att) mena;(att) mena;(att) mena;(att) mena;(att) mena

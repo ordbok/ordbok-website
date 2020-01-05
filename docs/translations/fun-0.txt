@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) fun;the fun;fun;the fun
+grammar:Neuter
+german
+translation:(ein) Spaß;der Spaß;Späße;die Späße
+grammar:Masculine
+new-norwegian
+translation:(ei) moro;moroa;moroer;moroene
+grammar:Feminine
+norwegian
+translation:(ei) moro;moroa;moroer;moroene
+grammar:Feminine
+swedish
+translation:(ett) skoj;skojet;skoj;skojen
+grammar:Neuter

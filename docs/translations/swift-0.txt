@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:swift;swift;swift;swift;swift;swift;swift;swift;swift;swift;swift;swift
+german
+translation:flink;flink;flink;flink;flinke;flinker;flinkes;flinke;flinke;flinke;flinke;flinken
+new-norwegian
+translation:svint;svint;svint;svinte;svint;svint;svint;svinte;svinte;svinte;svinte;svinte
+norwegian
+translation:svint;svint;svint;svinte;svint;svint;svint;svinte;svinte;svinte;svinte;svinte
+swedish
+translation:flink;flink;flinkt;flinka;flink;flink;flinkt;flinka;flinka;flinka;flinka;flinka

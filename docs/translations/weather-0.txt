@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) weather;the weather;weathers;the weathers
+grammar:Neuter
+german
+translation:(ein) Wetter;das Wetter;Wetter;die Wetter
+grammar:Neuter
+new-norwegian
+translation:(eit) ver;veret;ver;vera
+grammar:Neuter
+norwegian
+translation:(et) vær;været;vær;værene
+grammar:Neuter
+swedish
+translation:(ett) väder;vädret;vädrer;vädren
+grammar:Neuter

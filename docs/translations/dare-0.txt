@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) dare;(to) dare;(to) dare;(to) dare;(to) dare;(to) dare
+german
+translation:(zu) wagen;(zu) wagen;(zu) wagen;(zu) wagen;(zu) wagen;(zu) wagen
+new-norwegian
+translation:(å) våga;(å) våga;(å) våga;(å) våga;(å) våga;(å) våga
+norwegian
+translation:(å) våge;(å) våge;(å) våge;(å) våge;(å) våge;(å) våge
+swedish
+translation:(att) våga;(att) våga;(att) våga;(att) våga;(att) våga;(att) våga

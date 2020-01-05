@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) friend;the friend;friends;the friends
+grammar:Masculine
+german
+translation:(ein) Freund;der Freund;Freunde;die Freunde
+grammar:Masculine
+new-norwegian
+translation:(ein) ven;venen;venar;venane
+grammar:Masculine
+norwegian
+translation:(en) venn;vennen;venner;vennene
+grammar:Masculine
+swedish
+translation:(en) vän;vännen;vänner;vännerna
+grammar:Common

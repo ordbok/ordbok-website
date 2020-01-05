@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) concert;the concert;concerts;the concerts
+grammar:Neuter
+german
+translation:(ein) Konzert;das Konzert;Konzerte;die Konzerte
+grammar:Neuter
+new-norwegian
+translation:(ein) konsert;konserten;konsertar;konsertane
+grammar:Masculine
+norwegian
+translation:(en) konsert;konserten;konserter;konsertene
+grammar:Masculine
+swedish
+translation:(en) konsert;konserten;konserter;konserterna
+grammar:Common

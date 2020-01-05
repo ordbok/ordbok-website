@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:throw;throw;throws;throw;throw;throw
+german
+translation:werfe;wirfst;wirft;werfen;wirft;werfen
+new-norwegian
+translation:kastar;kastar;kastar;kastar;kastar;kastar
+norwegian
+translation:kaster;kaster;kaster;kaster;kaster;kaster
+swedish
+translation:kastar;kastar;kastar;kastar;kastar;kastar

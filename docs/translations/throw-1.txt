@@ -1,13 +1,13 @@
 meta
 structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
-grammar:Verb;Present
+grammar:Verb;Infinitive
 english
-translation:throw;throw;throws;throw;throw;throw
+translation:(to) throw;(to) throw;(to) throw;(to) throw;(to) throw;(to) throw
 german
-translation:werfe;wirfst;wirft;werfen;wirft;werfen
+translation:(zu) werfen;(zu) werfen;(zu) werfen;(zu) werfen;(zu) werfen;(zu) werfen
 new-norwegian
-translation:kastar;kastar;kastar;kastar;kastar;kastar
+translation:(å) kasta;(å) kasta;(å) kasta;(å) kasta;(å) kasta;(å) kasta
 norwegian
-translation:kaster;kaster;kaster;kaster;kaster;kaster
+translation:(å) kaste;(å) kaste;(å) kaste;(å) kaste;(å) kaste;(å) kaste
 swedish
-translation:kastar;kastar;kastar;kastar;kastar;kastar
+translation:(att) kasta;(att) kasta;(att) kasta;(att) kasta;(att) kasta;(att) kasta

@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:in love;in love;in love;in love;lovestruck;lovestruck;lovestruck;lovestruck;lovestruck;lovestruck;lovestruck;lovestruck
+german
+translation:verliebt;verliebt;verliebt;verliebt;verliebte;verliebter;verliebtes;verliebte;verliebte;verliebte;verliebte;verliebten
+new-norwegian
+translation:forelska;forelska;forelska;forelska;forelska;forelska;forelska;forelska;forelska;forelska;forelska;forelska
+norwegian
+translation:forelsket;forelsket;forelsket;forelskete;forelsket;forelsket;forelsket;forelskete;forelskete;forelskete;forelskete;forelskete
+swedish
+translation:förtjust;förtjust;förtjust;förtjusta;förtjust;förtjust;förtjust;förtjusta;förtjusta;förtjuste;förtjusta;förtjusta

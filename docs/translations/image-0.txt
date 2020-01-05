@@ -1,0 +1,19 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+relation:image;picture
+english
+translation:(a) image;the image;images;the images
+grammar:Neuter
+german
+translation:(ein) Abbild;das Abbild;Abbilder;die Abbilder
+grammar:Neuter
+new-norwegian
+translation:(eit) bilete;biletet;bilete;bileta
+grammar:Neuter
+norwegian
+translation:(et) bilde;bildet;bilder;bildene
+grammar:Neuter
+swedish
+translation:(en) avbild;avbilden;avbilder;avbilderna
+grammar:Common

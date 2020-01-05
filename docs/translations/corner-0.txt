@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) corner;(the) corner;corners;the corners
+grammar:Neuter
+german
+translation:(eine) Ecke;die Ecke;Ecken;die Ecken
+grammar:Feminine
+new-norwegian
+translation:(eit) hjørne;hjørnet;hjørne;hjørna
+grammar:Neuter
+norwegian
+translation:(et) et hjørne;hjørnet;hjørner;hjørnene
+grammar:Neuter
+swedish
+translation:(ett) hörn;hörnet;hörn;hörnen
+grammar:Neuter

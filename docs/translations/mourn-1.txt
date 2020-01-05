@@ -1,0 +1,14 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+relation:grieve;mourn
+english
+translation:mourn;mourn;mourns;mourn;mourn;mourn
+german
+translation:trauere;trauerst;trauert;trauern;trauert;trauern
+new-norwegian
+translation:syrgjer;syrgjer;syrgjer;syrgjer;syrgjer;syrgjer
+norwegian
+translation:sørger;sørger;sørger;sørger;sørger;sørger
+swedish
+translation:sörjer;sörjer;sörjer;sörjer;sörjer;sörjer

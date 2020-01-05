@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:think;think;thinks;think;think;think
+german
+translation:meine;meinst;meint;meinen;meint;meinen
+new-norwegian
+translation:synest;synest;synest;synest;synest;synest
+norwegian
+translation:synes;synes;synes;synes;synes;synes
+swedish
+translation:menar;menar;menar;menar;menar;menar

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:die;die;dies;die;die;die
+german
+translation:sterbe;stirbst;stirbt;sterben;sterbt;sterben
+new-norwegian
+translation:døyr;døyr;døyr;døyr;døyr;døyr
+norwegian
+translation:dør;dør;dør;dør;dør;dør
+swedish
+translation:dör;dör;dör;dör;dör;dör

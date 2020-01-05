@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) swap;the swap;swaps;the swaps
+grammar:Neuter
+german
+translation:(ein) Tausch;der Tausch;Täusche;die Täusche
+grammar:Masculine
+new-norwegian
+translation:(eit) byte;bytet;byte;byta
+grammar:Neuter
+norwegian
+translation:(et) bytte;byttet;bytter;byttene
+grammar:Neuter
+swedish
+translation:(ett) byte;bytet;byten;bytena
+grammar:Neuter

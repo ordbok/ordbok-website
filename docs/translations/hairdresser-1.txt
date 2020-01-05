@@ -3,7 +3,7 @@ structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Def
 grammar:Noun
 english
 translation:(a) hairdresser;the hairdresser;hairdressers;the hairdressers
-grammsr:Common
+grammar:Common
 german
 translation:(ein) Friseur;der Friseur;Friseure;die Friseure
 grammar:Masculine

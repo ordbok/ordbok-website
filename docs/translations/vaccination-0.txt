@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) vaccination;the vaccination;vaccinations;the vaccinations
+grammar:Neuter
+german
+translation:(eine) Impfung;die Impfung;Impfungen;die Impfungen
+grammar:Feminine
+new-norwegian
+translation:(ein) vaksinasjon;vaksinasjonen;vaksinasjonar;vaksinasjonane
+grammar:Masculine
+norwegian
+translation:(en) vaksinasjon;vaksinasjonen;vaksinasjoner;vaksinasjonene
+grammar:Masculine
+swedish
+translation:(en) vaccination;vaccinationen;vaccinationer;vaccinationerna
+grammar:Common

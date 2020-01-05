@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) death;the death;deathes;the deathes
+grammar:Neuter
+german
+translation:(ein) Tod;der Tod;Tode;die Tode
+grammar:Masculine
+new-norwegian
+translation:(ein) daude;dauden;daudar;daudane
+grammar:Masculine
+norwegian
+translation:(en) død;døden;døder;dødene
+grammar:Masculine
+swedish
+translation:(en) död;döden;dödar;dödarna
+grammar:Common

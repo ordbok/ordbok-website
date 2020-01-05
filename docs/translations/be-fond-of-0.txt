@@ -4,10 +4,10 @@ grammar:Verb;Infinitive
 english
 translation:(to) be fond of (…);(to) be fond of (…);(to) be fond of (…);(to) be fond of (…);(to) be fond of (…);(to) be fond of (…)
 german
-translation:in (…) verliebt (zu) sein;in (…) verliebt (zu) sein;in (…) verliebt (zu) sein;in (…) verliebt (zu) sein;in (…) verliebt (zu) sein;in (…) verliebt (zu) sein
+translation:(…) gern (zu) haben;(…) gern (zu) haben;(…) gern (zu) haben;(…) gern (zu) haben;(…) gern (zu) haben;(…) gern (zu) haben
 new-norwegian
 translation:(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…)
 norwegian
 translation:(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…);(å) være glad i (…)
 swedish
-translation:(att) vara förtjust i (…);(att) vara förtjust i (…);(att) vara förtjust i (…);(att) vara förtjust i (…);(att) vara förtjust i (…);(att) vara förtjust i (…)
+translation:(att) gilla;(att) gilla;(att) gilla;(att) gilla;(att) gilla;(att) gilla

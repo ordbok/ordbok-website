@@ -1,0 +1,12 @@
+meta
+grammar:Particle
+english
+translation:main
+german
+translation:Haupt-
+new-norwegian
+translation:hovud-
+norwegian
+translation:hoved-
+swedish
+translation:huvud-

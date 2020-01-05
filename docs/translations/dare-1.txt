@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:dare;dare;dares;dare;dare;dare
+german
+translation:wage;wagst;wagt;wagen;wagt;wagen
+new-norwegian
+translation:vågar;vågar;vågar;vågar;vågar;vågar
+norwegian
+translation:våger;våger;våger;våger;våger;våger
+swedish
+translation:vågar;vågar;vågar;vågar;vågar;vågar

@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) pleasure;the pleasure;pleasures;the pleasures
+grammar:Neuter
+german
+translation:(ein) Vergnügen;das Vergnügen;Vergnügen;die Vergnügen
+grammar:Neuter
+new-norwegian
+translation:(ei) nyting;nytinga;nytingar;nytingane
+grammar:Feminine
+norwegian
+translation:(en) fornøyelse;fornøyelsen;fornøyelser;fornøyelsene
+grammar:Masculine
+swedish
+translation:(ett) nöje;nöjet;nöjen;nöjena
+grammar:Neuter

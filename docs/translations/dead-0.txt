@@ -2,12 +2,12 @@ meta
 structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
 grammar:Adjective;Positive
 english
-translation:quick;quick;quick;quick;quick;quick;quick;quick;quick;quick;quick;quick
+translation:dead;dead;dead;dead;dead;dead;dead;dead;dead;dead;dead;dead
 german
-translation:rasch;rasch;rasch;rasch;rasche;rascher;rasches;rasche;rasche;rasche;rasche;raschen
+translation:tot;tot;tot;tot;tote;toter;totes;tote;tote;tote;tote;toten
 new-norwegian
-translation:kjapp;kjapp;kjapt;kjappe;kjapp;kjapp;kjapt;kjappe;kjappe;kjappe;kjappe;kjappe
+translation:daud;daud;daudt;daude;daud;daud;daudt;daude;daude;daude;daude;daude
 norwegian
-translation:kjapp;kjapp;kjapt;kjappe;kjapp;kjapp;kjapt;kjappe;kjappe;kjappe;kjappe;kjappe
+translation:død;død;dødt;døde;død;død;dødt;døde;døde;døde;døde;døde;
 swedish
-translation:rask;rask;raskt;raska;rask;rask;raskt;raska;raska;raske;raska;raska
+translation:död;död;dött;döda;död;död;dött;döda;döda;döde;döda;döda

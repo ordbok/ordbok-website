@@ -4,10 +4,10 @@ grammar:Verb;Present
 english
 translation:am fond of (…);are fond of (…);is fond of (…);are fond of (…);are fond of (…);are fond of (…)
 german
-translation:bin verliebt in (…);bist verliebt in (…);ist verliebt in (…);sind verliebt in (…);seid verliebt in (…);sind verliebt in (…)
+translation:habe (…) gern;hast (…) gern;hat (…) gern;haben (…) gern;habt (…) gern;haben (…) gern
 new-norwegian
 translation:er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…)
 norwegian
 translation:er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…);er glad i (…)
 swedish
-translation:är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…);är förtjust i (…)
+translation:gillar (…);gillar (…);gillar (…);gillar (…);gillar (…);gillar (…)

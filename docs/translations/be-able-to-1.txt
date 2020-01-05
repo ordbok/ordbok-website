@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:am able to (…);are able to (…);is able to (…);are able to (…);are able to (…);are able to (…)
+german
+translation:bin fähig zu (…);bist fähig zu (…);ist fähig zu (…);sind fähig zu (…);seid fähig zu (…);sind fähig zu (…)
+new-norwegian
+translation:orkar å (…);orkar å (…);orkar å (…);orkar å (…);orkar å (…);orkar å (…)
+norwegian
+translation:orker å (…);orker å (…);orker å (…);orker å (…);orker å (…);orker å (…)
+swedish
+translation:förmår;förmår;förmår;förmår;förmår;förmår
