@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) electronic;the electronic;electronics;the electronics
+grammar:Neuter
+german
+translation:(eine) Elektronik;die Elektronik;Elektronik;die Elektronik
+grammar:Feminine
+new-norwegian
+translation:(ein) elektronikk;elektronikken;elektronikkar;elektronikkane
+grammar:Masculine
+norwegian
+translation:(en) elektronikk;elektronikken;elektronikker;elektronikkene
+grammar:Masculine
+swedish
+translation:(en) elektronik;elektroniken;elektronikar;elektronikane
+grammar:Common

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) recommend;(to) recommend;(to) recommend;(to) recommend;(to) recommend;(to) recommend
+german
+translation:(zu) empfehlen;(zu) empfehlen;(zu) empfehlen;(zu) empfehlen;(zu) empfehlen;(zu) empfehlen
+new-norwegian
+translation:(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale
+norwegian
+translation:(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale;(å) anbefale
+swedish
+translation:(att) rekommendera;(att) rekommendera;(att) rekommendera;(att) rekommendera;(att) rekommendera;(att) rekommendera

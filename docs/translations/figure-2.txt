@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:figure;figure;figures;figure;figure;figure
+german
+translation:begreife;begreifst;begreift;begreifen;begreift;begreifen
+new-norwegian
+translation:skjønar;skjønar;skjønar;skjønar;skjønar;skjønar
+norwegian
+translation:skjønner;skjønner;skjønner;skjønner;skjønner;skjønner
+swedish
+translation:begripar;begripar;begripar;begripar;begripar;begripar

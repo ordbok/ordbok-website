@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:smart;smart;smart;smart;smart;smart;smart;smart;smart;smart;smart;smart
+german
+translation:schlau;schlau;schlau;schlau;schlaue;schlauer;schlaues;schlaue;schlaue;schlaue;schlaue;schlaue
+new-norwegian
+translation:lur;lur;lurt;lure;lur;lur;lurt;lure;lure;lure;lure;lure
+norwegian
+translation:lur;lur;lurt;lure;lur;lur;lurt;lure;lure;lure;lure;lure
+swedish
+translation:smart;smart;smart;smarta;smart;smart;smart;smarta;smarta;smarte;smarta;smarta

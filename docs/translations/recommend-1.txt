@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:recommend;recommend;recommends;recommend;recommend;recommend
+german
+translation:empfehle;empfielst;empfiehlt;empfehlen;empfehlt;empfehlen
+new-norwegian
+translation:anbefaler;anbefaler;anbefaler;anbefaler;anbefaler;anbefaler
+norwegian
+translation:anbefaler;anbefaler;anbefaler;anbefaler;anbefaler;anbefaler
+swedish
+translation:rekommenderar;rekommenderar;rekommenderar;rekommenderar;rekommenderar;rekommenderar

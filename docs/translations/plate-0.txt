@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) plate;the plate;plates;the plates
+grammar:Neuter
+german
+translation:(ein) Teller;der Teller;Teller;die Teller
+grammar:Masculine
+new-norwegian
+translation:(ein) tallerk;tallerken;tallerkar;tallerkane
+grammar:Masculine
+norwegian
+translation:(en) tallerken;tallerkenen;tallerkener;tallerkenene
+grammar:Masculine
+swedish
+translation:(en) tallrik;tallriken;tallrikar;tallrikarna
+grammar:Common

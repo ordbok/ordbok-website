@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:understand;understand;understands;understand;understand;understand
+german
+translation:verstehe;verstehst;versteht;verstehen;versteht;verstehen
+new-norwegian
+translation:forstår;forstår;forstår;forstår;forstår;forstår
+norwegian
+translation:forstår;forstår;forstår;forstår;forstår;forstår
+swedish
+translation:förstår;förstår;förstår;förstår;förstår;förstår

@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) vomit;(to) vomit;(to) vomit;(to) vomit;(to) vomit;(to) vomit
+german
+translation:(zu) erbrechen;(zu) erbrechen;(zu) erbrechen;(zu) erbrechen;(zu) erbrechen;(zu) erbrechen
+new-norwegian
+translation:(å) spy;(å) spy;(å) spy;(å) spy;(å) spy;(å) spy
+norwegian
+translation:(å) spy;(å) spy;(å) spy;(å) spy;(å) spy;(å) spy
+swedish
+translation:(att) kräkas;(att) kräkas;(att) kräkas;(att) kräkas;(att) kräkas;(att) kräkas

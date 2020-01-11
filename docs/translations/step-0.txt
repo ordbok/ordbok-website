@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) step;the step;steps;the steps
+grammar:Neuter
+german
+translation:(ein) Schritt;der Schritt;Schritte;die Schritte
+grammar:Masculine
+new-norwegian
+translation:(eit) steg;steget;steg;stega
+grammar:Neuter
+norwegian
+translation:(et) skritt;skrittet;skritt;skrittene
+grammar:Neuter
+swedish
+translation:(ett) steg;steget;steg;stegen
+grammar:Neuter

@@ -123,6 +123,7 @@ earth:0
 earthquake:0
 education:0
 elder:1
+electronics:0
 email:0
 ems-vehicle:0
 english:1
@@ -145,6 +146,7 @@ february:0
 feminine:0
 fence:0
 fewer:0
+figure:2
 file:0
 find:1
 fire:0
@@ -330,8 +332,10 @@ pig:0
 piss:1
 plank:0
 plant:0
+plate:0
 please:0
 pleasure:0
+plunge:1
 pole:0
 police:0
 poodle:0
@@ -344,8 +348,9 @@ quake:1
 quick:0
 racoon:0
 rainforest:0
-read:1
+read:2
 recipe:0
+recommend:1
 recreational-vehicle:0
 red:0
 redder:0
@@ -381,6 +386,7 @@ simple:0
 sky:0
 sleep:2
 small:0
+smart:0
 smile:2
 snitch:0
 snowslide:0
@@ -399,6 +405,7 @@ spring:0
 stay-overnight:1
 stayed-overnight:0
 steep:0
+step:0
 stick:0
 storm:0
 stray:0
@@ -412,6 +419,7 @@ swap:2
 swedish:1
 swift:0
 taint:1
+technology:0
 test:2
 than:0
 thank-you-very-much:0
@@ -446,6 +454,7 @@ translator:1
 trash:0
 tuesday:0
 two:1
+understand:1
 unique:0
 universe:0
 unreal:0
@@ -457,6 +466,7 @@ value-added-tax:0
 vat:0
 verb:0
 view:0
+vomit:1
 wait-for:1
 wait:1
 was:0

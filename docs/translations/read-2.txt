@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Past
+english
+translation:read;read;read;read;read;read
+german
+translation:las;last;las;lasen;last;lasen
+new-norwegian
+translation:las;las;las;las;las;las
+norwegian
+translation:leste;leste;leste;leste;leste;leste
+swedish
+translation:läste;läste;läste;läste;läste;läste

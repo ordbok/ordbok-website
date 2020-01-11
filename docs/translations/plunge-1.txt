@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:plunge;plunge;plunges;plunge;plunge;plunge
+german
+translation:stürze;stürzst;stürzt;stürzen;stürzt;stürzen
+new-norwegian
+translation:stuper;stuper;stuper;stuper;stuper;stuper
+norwegian
+translation:stuper;stuper;stuper;stuper;stuper;stuper
+swedish
+translation:störtar;störtar;störtar;störtar;störtar;störtar

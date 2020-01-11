@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:vomit;vomit;vomits;vomit;vomit;vomit
+german
+translation:erbreche;erbrichst;erbricht;erbrechen;erbricht;erbrechen
+new-norwegian
+translation:spyr;spyr;spyr;spyr;spyr;spyr
+norwegian
+translation:spyr;spyr;spyr;spyr;spyr;spyr
+swedish
+translation:kräkes;kräkes;kräkes;kräkes;kräkes;kräkes
