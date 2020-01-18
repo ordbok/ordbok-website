@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:noun;noun;noun;noun
+grammar:Neuter
+german
+translation:(ein) Ausrufezeichen;das Ausrufezeichen;Ausrufezeichen;die Ausrufezeichen
+grammar:Neuter
+new-norwegian
+translation:(eit) utropsteikn;utropsteiknet;utropsteikn;utropsteikna
+grammar:Neuter
+norwegian
+translation:(et) utropstegn;utropstegnet;utropstegn;utropstegnene
+grammar:Neuter
+swedish
+translation:(ett) utropstecken;utropstecknet;utropstecken;utropstecknen
+grammar:Neuter

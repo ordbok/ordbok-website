@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) vitamin;the vitamin;vitamins;the vitamins
+grammar:Neuter
+german
+translation:(ein) Vitamin;das Vitamin;Vitamine;die Vitamine
+grammar:Neuter
+new-norwegian
+translation:(eit) vitamin;vitaminet;vitamin;vitamina
+grammar:Neuter
+norwegian
+translation:(et) vitamin;vitaminet;vitamin;vitaminene
+grammar:Neuter
+swedish
+translation:(ett) vitamin;vitaminet;vitaminer;vitaminerna
+grammar:Neuter

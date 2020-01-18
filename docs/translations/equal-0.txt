@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:equal;equal;equal;equal;equal;equal;equal;equal;equal;equal;equal;equal
+german
+translation:gleich;gleich;gleich;gleich;gleiche;gleicher;gleiches;gleiche;gleiche;gleiche;gleiche;gleichen
+new-norwegian
+translation:lik;lik;likt;like;lik;lik;likt;like;like;like;like;like
+norwegian
+translation:lik;lik;likt;like;lik;lik;likt;like;like;like;like;like
+swedish
+translation:lik;lik;likt;lika;lik;lik;likt;lika;lika;lika;lika;lika

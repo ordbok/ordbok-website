@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Infinitive
+english
+translation:(to) promise;(to) promise;(to) promise;(to) promise;(to) promise;(to) promise
+german
+translation:(zu) versprechen;(zu) versprechen;(zu) versprechen;(zu) versprechen;(zu) versprechen;(zu) versprechen
+new-norwegian
+translation:(å) lova;(å) lova;(å) lova;(å) lova;(å) lova;(å) lova
+norwegian
+translation:(å) love;(å) love;(å) love;(å) love;(å) love;(å) love
+swedish
+translation:(att) lova;(att) lova;(att) lova;(att) lova;(att) lova;(att) lova

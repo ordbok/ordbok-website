@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) snow;the snow;snows;the snows
+grammar:Neuter
+german
+translation:(ein) Schnee;der Schnee;Schnee;die Schnee
+grammar:Masculine
+new-norwegian
+translation:(ein) snø;snøen;snøar;snøane
+grammar:Masculine
+norwegian
+translation:(en) snø;snøen;snøer;snøene
+grammar:Masculine
+swedish
+translation:(en) snö;snön;snöar;snöarne
+grammar:Common

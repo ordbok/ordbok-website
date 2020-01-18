@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) wound;the wound;wounds;the wounds
+grammar:Neuter
+german
+translation:(eine) Wunde;die Wunde;Wunden;die Wunden
+grammar:Feminine
+new-norwegian
+translation:(eit) sår;såret;sår;såra
+grammar:Neuter
+norwegian
+translation:(et) sår;såret;sår;sårene
+grammar:Neuter
+swedish
+translation:(ett) sår;såret;sår;såren
+grammar:Neuter

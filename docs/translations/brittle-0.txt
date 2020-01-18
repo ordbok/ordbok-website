@@ -1,0 +1,13 @@
+meta
+structure:Singular, Predicative, Feminine;Singular, Predicative, Masculine;Singular, Predicative, Neuter;Plural, Predicative, Common;Singular, Indefinite, Feminine;Singular, Indefinite, Masculine;Singular, Indefinite, Neuter;Plural, Indefinite, Common;Singular, Definite, Feminine;Singular, Definite, Masculine;Singular, Definite, Neuter;Plural, Definite, Common
+grammar:Adjective;Positive
+english
+translation:brittle;brittle;brittle;brittle;brittle;brittle;brittle;brittle;brittle;brittle;brittle;brittle
+german
+translation:spröde;spröde;spröde;spröde;spröde;spröder;sprödes;spröde;spröde;spröde;spröde;spröden
+new-norwegian
+translation:sprø;sprø;sprøtt;sprøe;sprø;sprø;sprøtt;sprøe;sprøe;sprøe;sprøe;sprøe
+norwegian
+translation:sprø;sprø;sprøtt;sprøe;sprø;sprø;sprøtt;sprøe;sprøe;sprøe;sprøe;sprøe
+swedish
+translation:skör;skör;skört;sköra;skör;skör;skört;sköra;sköra;sköre;sköra;sköra

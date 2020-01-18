@@ -1,0 +1,13 @@
+meta
+structure:Singular, First Person;Singular, Second Person;Singular, Third Person;Plural, First Person;Plural, Second Person;Plural, Third Person
+grammar:Verb;Present
+english
+translation:promise;promise;promises;promise;promise;promise
+german
+translation:verspreche;versprichst;verspricht;versprechen;versprecht;versprechen
+new-norwegian
+translation:lovar;lovar;lovar;lovar;lovar;lovar
+norwegian
+translation:lover;lover;lover;lover;lover;lover
+swedish
+translation:lovar;lovar;lovar;lovar;lovar;lovar

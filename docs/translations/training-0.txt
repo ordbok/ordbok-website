@@ -1,0 +1,18 @@
+meta
+structure:Singular, Indefinite;Singular, Definite;Plural, Indefinite;Plural, Definite
+grammar:Noun
+english
+translation:(a) training;the training;trainings;the trainings
+grammar:Neuter
+german
+translation:(ein) Training;das Training;Trainings;die Trainings
+grammar:Neuter
+new-norwegian
+translation:(ei) trening;treninga;treningar;treningane
+grammar:Feminine
+norwegian
+translation:(ei) trening;treninga;treninger;treningene
+grammar:Feminine
+swedish
+translation:(en) träning;träningen;träningar;träningarna
+grammar:Common

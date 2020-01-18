@@ -11,6 +11,7 @@ adult:0
 advanced-education:0
 again:0
 against:0
+air:0
 ambulance:0
 an:0
 and:0
@@ -46,6 +47,7 @@ book:0
 both:0
 boy:0
 braid:0
+brittle:0
 bucket:0
 but:0
 by-the-way:0
@@ -131,9 +133,11 @@ englishman:0
 englishwoman:0
 enough:0
 entry:1
+equal:0
 every:0
 everyone:0
 everywhere:0
+exclamation-point:0
 exit:0
 experience:0
 expressway:0
@@ -343,6 +347,7 @@ poop:2
 poor:0
 potbelly:0
 power:1
+promise:2
 prosecutor:0
 quake:1
 quick:0
@@ -389,6 +394,7 @@ small:0
 smart:0
 smile:2
 snitch:0
+snow:0
 snowslide:0
 snowstorm:0
 soil:0
@@ -447,6 +453,7 @@ toaster:0
 today:0
 tomorrow:0
 too-bad:0
+training:0
 traitor:0
 translate:1
 translation:0
@@ -466,6 +473,7 @@ value-added-tax:0
 vat:0
 verb:0
 view:0
+vitamin:0
 vomit:1
 wait-for:1
 wait:1
@@ -500,6 +508,7 @@ woman:0
 word:0
 world:0
 worry:1
+wound:0
 write:1
 x-ray:0
 yeast:0
